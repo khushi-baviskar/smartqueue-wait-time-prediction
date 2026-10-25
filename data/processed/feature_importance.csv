@@ -1,0 +1,13 @@
+feature,importance
+queue_length,0.4078447635506077
+active_counters,0.366917528401955
+avg_service_time,0.22185914754350344
+hour,0.0008201568695186284
+is_peak_hour,0.0008023352533110457
+day_of_week,0.0007019570768576839
+service_type_Exam Form,0.00018980106460915412
+service_type_Enquiry,0.00018795783595288397
+service_type_Document Verification,0.0001875625884099596
+service_type_Fee Payment,0.00018232056575530434
+service_type_Scholarship,0.0001816298191467758
+service_type_ID Card,0.0001248394303723621

@@ -1,0 +1,5001 @@
+queue_length,active_counters,avg_service_time,service_type,hour,day_of_week,is_peak_hour,waiting_time
+38,4,3.77,Enquiry,17,4,0,34.08
+28,2,4.15,ID Card,15,3,1,71.41
+14,5,8.43,Enquiry,16,6,1,29.05
+7,1,2.35,Scholarship,11,3,1,30.32
+20,2,9.94,Fee Payment,9,0,0,109.95
+38,2,3.04,Bonafide Certificate,15,1,1,63.41
+18,1,8.37,Enquiry,16,1,1,160.55
+22,2,5.16,Exam Form,10,5,0,65.9
+10,1,5.94,Fee Payment,17,6,0,59.93
+10,1,9.05,Scholarship,12,1,1,107.87
+23,3,5.3,Fee Payment,17,4,0,43.51
+35,4,6.3,Scholarship,11,4,1,65.59
+39,2,2.39,ID Card,16,6,1,65.14
+23,2,2.02,Bonafide Certificate,10,4,0,30.31
+2,3,3.96,Fee Payment,11,2,1,15.34
+21,3,7.44,Bonafide Certificate,9,6,0,62.53
+1,3,2.97,Fee Payment,13,5,1,7.39
+23,5,2.91,Scholarship,12,4,1,30.39
+29,5,5.29,Scholarship,9,0,0,35.66
+37,5,7.18,Fee Payment,17,0,0,54.97
+1,1,7.7,ID Card,14,3,0,11.61
+20,2,3.43,Scholarship,14,3,0,38.79
+32,4,2.64,Document Verification,10,5,0,30.38
+11,1,9.52,Document Verification,15,6,1,116.82
+21,2,4.09,Bonafide Certificate,17,3,0,45.93
+24,2,8.83,Enquiry,14,3,0,111.62
+26,3,8.91,Document Verification,16,0,1,87.1
+27,3,8.18,Document Verification,13,3,1,83.31
+15,1,3.35,ID Card,10,0,0,55.45
+14,3,8.57,ID Card,12,4,1,51.87
+2,2,8.15,Enquiry,9,4,0,12.71
+36,3,6.77,Exam Form,9,5,0,86.83
+6,5,4.7,Enquiry,14,2,0,12.03
+20,3,4.1,Exam Form,10,3,0,33.44
+8,2,2.98,ID Card,14,4,0,14.28
+38,1,6.08,Exam Form,9,4,0,232.09
+17,4,6.68,ID Card,11,6,1,42.33
+3,3,4.87,Exam Form,17,5,0,11.92
+24,2,5.8,Scholarship,10,1,0,77.48
+13,4,4.91,ID Card,16,1,1,30.13
+8,4,7.13,Enquiry,14,5,0,15.35
+25,5,9.21,Bonafide Certificate,14,0,0,45.55
+1,4,3.31,Bonafide Certificate,15,2,1,11.11
+19,2,5.05,ID Card,13,6,1,59.22
+27,2,3.13,Document Verification,12,6,1,52.16
+6,3,7.0,Bonafide Certificate,14,5,0,24.89
+7,3,7.83,Enquiry,16,1,1,16.33
+34,3,9.46,Document Verification,12,2,1,122.64
+13,4,4.23,Bonafide Certificate,13,4,1,26.92
+16,4,9.6,Fee Payment,15,5,1,49.23
+35,5,2.51,Fee Payment,14,0,0,8.2
+39,3,6.82,ID Card,12,2,1,103.85
+3,1,2.46,Enquiry,12,1,1,11.27
+1,5,9.15,Enquiry,12,4,1,7.8
+5,1,6.24,Bonafide Certificate,9,5,0,35.51
+3,4,7.35,Scholarship,13,6,1,19.15
+28,5,8.65,Document Verification,16,3,1,62.01
+17,5,3.2,Bonafide Certificate,15,6,1,24.46
+25,2,2.31,ID Card,13,6,1,42.12
+33,4,9.03,Document Verification,11,4,1,86.52
+9,4,4.52,Exam Form,9,1,0,18.83
+35,5,3.03,ID Card,15,5,1,26.86
+13,4,5.75,Bonafide Certificate,11,1,1,25.68
+30,5,6.79,Scholarship,12,3,1,56.3
+14,2,2.25,Exam Form,13,6,1,31.08
+7,5,4.2,ID Card,16,4,1,18.77
+13,4,2.26,Bonafide Certificate,15,2,1,15.3
+22,4,5.36,Fee Payment,17,2,0,37.14
+39,5,9.16,Enquiry,11,4,1,74.81
+20,5,9.86,Bonafide Certificate,9,2,0,48.75
+15,5,7.1,Fee Payment,9,6,0,24.25
+17,3,3.29,Fee Payment,9,5,0,29.4
+23,4,9.25,ID Card,10,4,0,52.08
+25,4,6.13,Bonafide Certificate,10,4,0,50.37
+24,3,3.23,Enquiry,15,1,1,32.39
+40,5,9.37,Bonafide Certificate,17,0,0,78.47
+28,2,8.06,Fee Payment,16,1,1,122.62
+14,5,7.85,Document Verification,12,2,1,30.2
+0,5,7.67,Exam Form,10,0,0,6.71
+24,3,3.6,Scholarship,11,4,1,37.87
+6,4,3.69,Bonafide Certificate,13,2,1,12.73
+8,5,7.51,Exam Form,17,3,0,20.96
+23,4,3.76,Exam Form,16,2,1,30.0
+0,1,5.51,Document Verification,11,0,1,7.93
+7,4,8.26,Exam Form,17,0,0,15.96
+23,2,8.27,Bonafide Certificate,11,4,1,103.11
+10,2,5.63,ID Card,16,5,1,43.38
+16,5,8.34,ID Card,9,3,0,28.3
+7,4,8.71,Exam Form,12,4,1,24.31
+34,5,7.24,Bonafide Certificate,12,3,1,60.0
+34,3,3.83,Bonafide Certificate,14,3,0,46.89
+32,2,4.19,Fee Payment,10,4,0,79.99
+4,5,4.52,Document Verification,15,6,1,13.96
+38,3,2.93,Enquiry,13,2,1,46.51
+40,5,4.19,Scholarship,14,1,0,44.26
+27,4,3.68,Enquiry,14,3,0,31.51
+6,4,5.64,Fee Payment,14,6,0,13.4
+8,4,9.27,Scholarship,16,0,1,29.89
+7,4,2.84,Enquiry,12,4,1,21.06
+11,1,7.76,Bonafide Certificate,16,5,1,94.98
+33,3,7.5,ID Card,17,6,0,85.71
+32,3,2.77,Fee Payment,12,2,1,35.92
+22,4,9.38,Enquiry,9,6,0,47.69
+23,1,6.55,Exam Form,11,3,1,165.89
+36,4,4.91,Exam Form,9,5,0,41.8
+34,1,8.05,Scholarship,15,6,1,285.76
+39,4,4.06,Bonafide Certificate,9,2,0,43.76
+21,2,7.55,ID Card,12,6,1,98.21
+26,2,2.32,Scholarship,9,4,0,29.8
+34,5,8.72,Enquiry,10,5,0,58.66
+0,4,5.59,Enquiry,9,0,0,2.46
+34,3,7.09,ID Card,13,3,1,89.6
+36,5,3.77,Enquiry,15,3,1,32.95
+13,2,7.42,Document Verification,11,5,1,58.88
+2,4,8.18,ID Card,16,2,1,9.05
+0,5,5.79,Exam Form,13,4,1,13.43
+4,4,6.94,Enquiry,13,6,1,5.66
+25,2,5.65,Enquiry,13,6,1,78.53
+13,5,9.15,Fee Payment,16,1,1,30.4
+38,2,5.98,Fee Payment,10,3,0,121.74
+26,1,8.73,Fee Payment,10,6,0,238.12
+8,2,8.41,ID Card,16,0,1,42.32
+14,4,5.28,Exam Form,17,3,0,31.06
+14,3,3.84,ID Card,10,3,0,21.66
+25,2,5.25,Bonafide Certificate,12,1,1,71.74
+12,3,8.61,Exam Form,16,1,1,53.42
+31,1,3.82,Exam Form,10,4,0,127.54
+38,5,6.2,ID Card,12,6,1,57.1
+31,5,8.45,ID Card,9,6,0,60.13
+3,3,4.83,Fee Payment,10,3,0,9.92
+29,5,7.14,Exam Form,15,3,1,53.12
+36,2,3.97,Fee Payment,9,2,0,70.07
+22,3,2.87,Bonafide Certificate,9,2,0,25.0
+38,4,8.36,Document Verification,10,6,0,87.87
+14,2,2.79,Fee Payment,12,5,1,28.05
+28,2,4.17,ID Card,15,5,1,72.0
+35,2,8.84,Enquiry,12,0,1,164.25
+12,4,4.77,Scholarship,13,6,1,22.8
+31,1,9.78,Document Verification,12,6,1,309.04
+6,5,9.84,Bonafide Certificate,12,6,1,21.18
+21,3,4.15,Enquiry,17,0,0,29.93
+27,1,2.33,ID Card,14,2,0,69.2
+1,3,7.64,Document Verification,11,5,1,10.67
+5,5,5.61,ID Card,14,6,0,8.15
+27,4,2.81,Fee Payment,15,0,1,32.15
+27,2,7.66,Enquiry,15,3,1,112.01
+19,2,2.25,ID Card,16,5,1,28.56
+29,4,8.96,Enquiry,12,1,1,73.04
+10,1,3.11,Bonafide Certificate,9,5,0,41.61
+27,1,3.02,Scholarship,14,3,0,89.67
+24,3,3.41,Fee Payment,16,2,1,38.61
+38,4,9.68,Fee Payment,13,4,1,97.97
+32,1,7.55,Enquiry,11,4,1,253.56
+0,4,8.41,Bonafide Certificate,12,2,1,19.27
+26,5,5.18,Bonafide Certificate,16,3,1,33.78
+12,2,4.69,Document Verification,14,0,0,29.42
+40,2,3.88,Scholarship,13,5,1,90.22
+2,2,5.85,ID Card,17,5,0,14.35
+38,4,6.41,Document Verification,11,0,1,71.57
+5,4,7.05,ID Card,15,4,1,14.6
+7,3,4.06,ID Card,17,6,0,14.03
+26,2,9.59,ID Card,12,6,1,137.05
+8,3,3.36,Document Verification,11,2,1,18.33
+36,2,9.73,Fee Payment,9,6,0,181.48
+32,3,2.12,Bonafide Certificate,17,2,0,32.26
+23,3,5.85,Fee Payment,9,6,0,49.8
+14,5,4.67,Scholarship,10,1,0,19.96
+31,3,5.59,Document Verification,17,4,0,67.11
+31,4,6.57,Scholarship,13,2,1,59.46
+23,3,5.48,Bonafide Certificate,12,1,1,48.23
+40,2,5.32,Bonafide Certificate,17,0,0,110.31
+11,3,7.86,Exam Form,17,4,0,33.86
+38,1,7.49,Scholarship,10,4,0,288.29
+1,2,8.67,Fee Payment,11,2,1,20.65
+2,1,4.0,Enquiry,11,2,1,24.69
+36,2,6.88,Scholarship,13,3,1,134.36
+16,4,6.68,Document Verification,11,6,1,38.09
+1,4,4.96,Bonafide Certificate,14,0,0,5.49
+1,4,5.89,Bonafide Certificate,10,0,0,10.9
+27,1,4.51,Scholarship,14,5,0,134.0
+22,5,3.13,Scholarship,14,1,0,13.68
+36,2,3.71,ID Card,10,1,0,73.69
+31,4,2.84,Scholarship,14,3,0,23.81
+32,2,7.46,ID Card,14,5,0,131.47
+0,1,7.29,Document Verification,14,0,0,7.76
+18,5,9.6,Document Verification,13,6,1,42.28
+1,1,7.84,Fee Payment,15,6,1,15.87
+25,2,2.42,Scholarship,13,6,1,41.05
+31,5,9.07,Fee Payment,9,6,0,62.36
+5,5,8.9,Enquiry,17,1,0,16.07
+31,1,5.55,Exam Form,11,0,1,179.35
+3,4,6.69,Document Verification,10,6,0,18.37
+10,2,9.81,Bonafide Certificate,14,0,0,60.47
+16,3,6.26,ID Card,16,5,1,39.88
+37,3,9.24,Exam Form,10,1,0,121.28
+23,1,2.66,Bonafide Certificate,12,2,1,78.12
+4,2,3.53,Exam Form,10,2,0,18.99
+33,2,5.53,Fee Payment,17,5,0,93.83
+5,1,6.68,Fee Payment,10,1,0,40.65
+21,2,8.53,ID Card,10,3,0,106.55
+10,4,9.91,Document Verification,13,4,1,36.19
+15,1,5.11,Enquiry,13,5,1,82.13
+32,4,2.38,ID Card,15,0,1,29.72
+8,2,8.41,Enquiry,9,5,0,37.62
+5,1,6.84,Bonafide Certificate,10,4,0,37.08
+15,2,3.59,Exam Form,14,5,0,35.68
+28,1,5.96,ID Card,10,1,0,166.82
+2,2,7.94,Enquiry,12,0,1,13.28
+19,4,8.16,Scholarship,14,4,0,48.81
+35,4,6.0,Scholarship,15,6,1,57.45
+18,2,4.44,Document Verification,13,2,1,54.59
+25,1,9.79,Enquiry,16,3,1,244.7
+2,3,7.31,ID Card,14,5,0,2.95
+18,4,5.27,Bonafide Certificate,13,5,1,31.7
+19,4,4.24,Scholarship,12,4,1,33.31
+31,3,7.85,Document Verification,14,3,0,92.41
+6,2,3.94,ID Card,14,5,0,17.04
+40,1,3.37,Document Verification,14,2,0,139.96
+32,2,6.24,Bonafide Certificate,9,4,0,107.14
+39,5,4.32,Scholarship,14,1,0,37.21
+38,4,7.03,Scholarship,9,0,0,74.35
+17,5,2.94,Scholarship,13,2,1,17.21
+39,4,7.24,Enquiry,15,3,1,78.92
+0,4,4.27,Fee Payment,9,3,0,3.48
+10,5,2.0,Enquiry,9,2,0,3.79
+27,5,3.02,Scholarship,14,6,0,23.94
+24,2,9.47,Exam Form,15,1,1,126.26
+22,5,8.94,Fee Payment,14,5,0,48.03
+30,2,3.87,ID Card,13,1,1,61.61
+29,2,8.23,Enquiry,14,5,0,121.99
+34,2,6.87,Fee Payment,11,5,1,122.72
+6,4,9.77,Fee Payment,17,3,0,22.13
+15,4,4.99,Enquiry,13,5,1,29.72
+25,5,7.45,Enquiry,10,2,0,42.29
+1,4,2.51,Fee Payment,15,6,1,6.81
+0,5,5.17,Document Verification,11,5,1,14.54
+11,4,9.71,Exam Form,9,2,0,27.58
+4,1,6.31,Bonafide Certificate,11,0,1,28.31
+36,1,4.3,Scholarship,17,3,0,156.81
+31,5,2.96,Enquiry,13,1,1,26.23
+8,4,7.63,Fee Payment,15,4,1,26.96
+40,4,7.16,Bonafide Certificate,11,1,1,69.68
+34,2,4.99,Enquiry,12,1,1,98.15
+18,3,9.61,Document Verification,9,6,0,64.17
+15,5,2.18,Bonafide Certificate,11,4,1,10.26
+2,3,4.43,Fee Payment,15,6,1,12.36
+19,3,9.37,ID Card,12,3,1,73.7
+23,5,4.57,Exam Form,10,5,0,30.41
+32,4,4.02,Bonafide Certificate,13,0,1,46.54
+23,5,6.27,Enquiry,13,1,1,31.39
+10,3,8.59,Fee Payment,10,6,0,30.98
+7,4,2.83,Enquiry,14,5,0,4.25
+35,1,9.54,Fee Payment,12,1,1,349.92
+37,5,8.36,Scholarship,9,3,0,71.43
+39,5,3.45,ID Card,11,3,1,48.3
+19,4,7.7,Scholarship,17,2,0,41.69
+34,1,5.08,ID Card,15,3,1,179.81
+24,1,5.22,Exam Form,14,3,0,131.67
+34,4,8.27,Scholarship,9,1,0,82.78
+24,2,9.7,Exam Form,17,0,0,121.96
+28,5,3.01,Enquiry,17,6,0,20.37
+17,5,5.37,Document Verification,9,1,0,24.63
+17,3,5.85,Document Verification,14,6,0,39.29
+1,4,5.01,ID Card,15,5,1,8.64
+34,3,4.91,ID Card,10,6,0,60.05
+15,3,2.42,Scholarship,16,3,1,23.37
+40,1,7.48,Document Verification,16,2,1,310.34
+35,5,5.49,Bonafide Certificate,14,0,0,47.2
+32,3,3.56,Bonafide Certificate,17,2,0,50.0
+3,1,8.53,Enquiry,11,4,1,30.22
+32,4,8.42,Bonafide Certificate,10,2,0,70.8
+13,3,5.89,Enquiry,10,2,0,25.23
+20,5,4.39,Document Verification,14,5,0,24.3
+19,3,7.1,Bonafide Certificate,15,3,1,52.84
+7,4,4.31,Exam Form,14,5,0,15.49
+6,3,3.89,Fee Payment,11,3,1,21.19
+2,5,7.84,ID Card,13,5,1,3.03
+16,1,2.32,Scholarship,16,3,1,51.13
+32,5,2.76,Enquiry,14,6,0,18.81
+11,1,2.05,Exam Form,10,3,0,31.44
+21,2,3.22,Bonafide Certificate,15,3,1,40.26
+21,5,2.55,Fee Payment,16,2,1,24.5
+29,5,9.97,Scholarship,12,4,1,73.46
+37,4,4.31,Exam Form,9,3,0,49.15
+37,3,3.19,Scholarship,10,4,0,49.57
+7,1,3.93,Enquiry,12,4,1,32.51
+26,1,9.49,Enquiry,15,1,1,252.24
+26,4,6.16,ID Card,10,1,0,48.06
+33,4,4.92,Document Verification,14,0,0,43.51
+20,3,8.99,Enquiry,10,6,0,68.7
+29,3,5.16,Bonafide Certificate,15,5,1,58.58
+32,5,4.68,Exam Form,10,1,0,38.96
+27,2,3.66,Exam Form,11,3,1,69.78
+32,3,5.02,Fee Payment,17,4,0,54.75
+4,4,4.53,Fee Payment,12,5,1,13.81
+18,3,7.42,Fee Payment,13,0,1,57.73
+3,1,4.32,Scholarship,17,1,0,23.76
+34,2,6.62,Bonafide Certificate,15,2,1,121.19
+16,5,2.53,Scholarship,16,6,1,18.02
+27,1,3.53,Bonafide Certificate,11,5,1,104.39
+29,1,5.26,Exam Form,12,0,1,170.31
+28,2,9.5,Enquiry,15,3,1,139.82
+5,5,5.02,Enquiry,12,5,1,13.33
+34,4,7.31,Scholarship,10,4,0,67.45
+40,5,4.04,Scholarship,14,3,0,42.15
+36,3,3.02,Scholarship,17,3,0,43.82
+23,1,2.47,Document Verification,10,5,0,58.76
+28,3,4.44,ID Card,9,2,0,42.6
+30,4,3.26,Bonafide Certificate,16,2,1,26.47
+34,3,3.39,Enquiry,9,5,0,38.12
+32,5,8.09,Bonafide Certificate,9,5,0,59.93
+20,3,2.13,Scholarship,11,5,1,31.47
+31,4,6.46,Document Verification,13,6,1,63.83
+22,4,5.04,Scholarship,17,6,0,36.91
+32,4,6.05,Bonafide Certificate,10,4,0,52.91
+2,5,6.5,ID Card,9,1,0,10.7
+17,4,4.51,Enquiry,9,3,0,23.3
+24,1,4.36,ID Card,16,5,1,121.88
+30,4,7.87,Exam Form,10,6,0,65.61
+2,3,8.97,Document Verification,17,1,0,17.35
+39,3,3.54,ID Card,17,4,0,54.52
+23,3,2.78,Document Verification,10,3,0,30.26
+31,5,9.18,Scholarship,11,1,1,60.88
+21,3,4.8,Exam Form,10,3,0,44.31
+22,5,6.41,Bonafide Certificate,14,2,0,32.7
+1,5,4.88,ID Card,15,5,1,9.2
+26,4,3.01,ID Card,14,2,0,18.61
+1,1,6.71,Fee Payment,11,0,1,15.69
+25,4,6.2,Enquiry,11,4,1,46.89
+16,4,3.62,Bonafide Certificate,10,5,0,14.28
+39,5,5.61,ID Card,10,1,0,42.9
+32,5,8.38,ID Card,13,3,1,65.55
+8,3,6.72,Bonafide Certificate,16,6,1,31.42
+38,3,2.78,Exam Form,14,0,0,42.92
+28,4,6.38,Document Verification,17,4,0,55.29
+25,2,7.62,Bonafide Certificate,13,4,1,104.93
+34,2,8.34,Document Verification,12,4,1,152.59
+24,3,7.03,Exam Form,17,1,0,59.6
+23,2,3.22,Exam Form,13,5,1,42.8
+12,3,7.68,Scholarship,9,2,0,45.14
+6,5,7.42,Fee Payment,13,0,1,22.43
+35,4,2.2,Exam Form,13,1,1,25.64
+19,1,5.29,Exam Form,13,3,1,113.21
+0,4,4.66,Document Verification,10,1,0,5.6
+7,3,7.36,Exam Form,14,3,0,23.07
+15,3,3.73,Bonafide Certificate,13,3,1,27.01
+13,4,6.73,Scholarship,10,4,0,30.39
+11,3,9.31,Scholarship,16,1,1,49.39
+22,2,8.38,Bonafide Certificate,14,2,0,98.82
+14,2,9.37,ID Card,11,3,1,75.12
+27,3,9.83,Exam Form,17,6,0,94.82
+33,3,2.09,Enquiry,12,4,1,34.69
+1,2,6.98,Fee Payment,11,2,1,14.34
+31,3,5.3,Exam Form,15,1,1,67.09
+22,3,8.88,Scholarship,16,2,1,76.97
+21,4,4.01,Fee Payment,15,1,1,31.46
+24,1,9.85,Enquiry,9,3,0,237.48
+21,2,6.91,ID Card,9,0,0,80.84
+21,4,8.35,Document Verification,13,0,1,50.53
+5,1,2.68,Document Verification,16,5,1,22.78
+14,3,3.47,Enquiry,11,5,1,26.63
+36,3,8.07,Exam Form,16,3,1,104.28
+32,4,2.18,Exam Form,11,2,1,23.12
+7,3,8.54,Fee Payment,12,1,1,29.17
+4,5,2.11,Fee Payment,15,0,1,3.9
+38,4,7.26,ID Card,11,1,1,73.75
+3,1,4.92,Exam Form,12,3,1,29.79
+5,4,6.89,Scholarship,16,2,1,19.8
+31,2,7.57,Document Verification,12,6,1,133.45
+29,4,4.74,ID Card,17,1,0,34.54
+34,3,2.86,Fee Payment,12,2,1,41.08
+39,3,2.56,Scholarship,12,6,1,46.84
+15,5,6.71,Exam Form,13,0,1,27.45
+12,5,6.17,Bonafide Certificate,9,1,0,23.92
+29,5,7.94,Fee Payment,15,4,1,57.08
+18,1,6.08,ID Card,17,0,0,107.96
+16,5,5.38,Bonafide Certificate,17,2,0,22.06
+18,1,5.18,Scholarship,9,3,0,101.87
+27,5,2.21,Enquiry,14,4,0,12.58
+25,1,4.68,Document Verification,11,5,1,122.19
+36,4,9.81,Enquiry,12,1,1,97.39
+25,4,8.99,Enquiry,16,5,1,73.02
+22,3,4.64,Enquiry,12,0,1,40.44
+8,1,6.7,Scholarship,16,1,1,71.9
+11,2,8.78,Document Verification,12,1,1,56.27
+0,3,5.53,Scholarship,17,4,0,7.86
+0,4,2.14,Enquiry,14,4,0,6.09
+33,1,2.6,Fee Payment,9,4,0,89.64
+31,5,6.08,Enquiry,10,4,0,39.52
+24,2,9.76,Fee Payment,15,3,1,128.97
+39,4,7.55,ID Card,15,2,1,91.14
+0,3,2.57,Enquiry,11,4,1,9.2
+15,1,3.51,Bonafide Certificate,9,0,0,55.66
+38,2,8.17,Scholarship,16,1,1,166.48
+4,1,8.73,Enquiry,15,5,1,53.0
+21,5,6.94,Scholarship,16,4,1,41.69
+28,3,7.16,Enquiry,9,0,0,67.41
+2,1,2.23,Bonafide Certificate,11,3,1,9.87
+11,4,8.63,Enquiry,10,0,0,19.42
+25,3,8.31,Exam Form,9,5,0,77.67
+15,4,4.07,ID Card,13,5,1,27.89
+36,1,7.67,Scholarship,11,0,1,286.51
+21,3,3.72,ID Card,16,3,1,35.97
+28,4,2.32,Scholarship,14,5,0,18.58
+13,5,3.61,Scholarship,17,3,0,16.92
+27,5,3.43,Exam Form,17,1,0,27.44
+4,1,4.7,Enquiry,14,4,0,19.67
+29,3,5.35,Fee Payment,10,5,0,62.46
+4,2,6.07,ID Card,17,0,0,13.79
+11,3,5.81,Bonafide Certificate,10,2,0,27.45
+15,5,4.17,ID Card,11,2,1,25.89
+25,4,2.23,Enquiry,14,6,0,16.65
+25,2,6.84,Exam Form,10,1,0,91.76
+20,1,5.17,Document Verification,13,2,1,108.6
+38,2,4.39,Document Verification,10,1,0,94.83
+35,1,8.94,Exam Form,12,4,1,324.06
+32,2,7.97,Enquiry,11,6,1,137.73
+29,1,8.86,Exam Form,13,1,1,271.69
+36,1,5.96,Fee Payment,14,3,0,216.04
+22,2,3.05,ID Card,15,3,1,42.73
+9,2,7.57,Enquiry,16,6,1,47.4
+4,1,3.65,ID Card,17,3,0,15.13
+35,5,5.53,Document Verification,12,5,1,58.22
+33,2,2.52,Enquiry,12,3,1,46.6
+30,3,8.6,Bonafide Certificate,15,3,1,91.31
+9,4,3.01,ID Card,17,3,0,12.3
+18,1,9.22,Scholarship,10,3,0,181.88
+31,1,8.91,Scholarship,14,5,0,275.69
+0,4,5.72,Fee Payment,16,3,1,8.44
+4,5,7.95,Enquiry,13,3,1,16.27
+3,4,6.96,Fee Payment,13,4,1,14.35
+15,2,8.42,Enquiry,16,5,1,72.71
+23,4,5.45,Document Verification,9,3,0,34.49
+15,1,8.29,Bonafide Certificate,14,1,0,126.9
+1,4,5.7,Bonafide Certificate,17,6,0,5.83
+27,3,9.53,Exam Form,14,4,0,88.23
+31,2,5.89,Fee Payment,15,5,1,100.13
+26,4,5.7,Enquiry,12,2,1,43.5
+19,1,8.28,ID Card,9,0,0,160.45
+23,2,8.57,Scholarship,17,5,0,106.87
+11,1,6.44,ID Card,14,6,0,68.51
+34,5,3.44,Scholarship,11,4,1,34.46
+32,3,5.74,Document Verification,12,3,1,81.52
+32,5,9.74,Scholarship,14,4,0,65.02
+36,3,8.02,ID Card,14,0,0,106.43
+11,4,8.49,ID Card,17,0,0,28.56
+2,2,2.26,Bonafide Certificate,12,5,1,9.85
+0,4,5.74,Enquiry,13,3,1,2.72
+32,3,7.17,Bonafide Certificate,13,3,1,87.07
+39,3,8.64,Fee Payment,11,1,1,127.14
+9,3,2.39,ID Card,10,0,0,10.63
+28,1,8.82,Enquiry,16,3,1,254.62
+12,2,6.39,Document Verification,17,0,0,48.36
+11,4,3.58,Scholarship,17,1,0,18.2
+30,4,4.54,Fee Payment,13,2,1,36.75
+1,5,4.26,Exam Form,17,0,0,8.25
+34,3,6.25,Exam Form,12,1,1,88.85
+22,3,2.41,Enquiry,10,1,0,20.55
+16,3,3.27,Scholarship,11,6,1,18.46
+25,4,8.5,Scholarship,9,1,0,61.69
+7,5,3.06,Enquiry,13,4,1,11.49
+28,1,3.87,Scholarship,9,5,0,107.96
+25,2,5.63,Bonafide Certificate,9,3,0,68.62
+9,1,6.14,Scholarship,15,0,1,71.13
+25,4,8.11,Exam Form,10,5,0,54.75
+33,3,5.58,Scholarship,16,4,1,69.74
+40,2,8.32,ID Card,14,0,0,171.24
+6,4,6.95,Enquiry,12,5,1,15.84
+3,4,2.9,Document Verification,17,4,0,8.58
+10,4,3.25,Exam Form,16,3,1,19.32
+28,2,5.5,Document Verification,11,1,1,83.15
+35,2,5.18,Exam Form,11,5,1,100.52
+24,5,7.95,Fee Payment,12,5,1,48.92
+20,5,6.65,ID Card,17,0,0,31.75
+35,1,5.11,Exam Form,17,1,0,185.35
+9,2,3.37,ID Card,13,6,1,32.9
+36,2,3.81,Exam Form,17,3,0,78.59
+8,2,6.6,Document Verification,14,0,0,35.83
+23,5,5.39,Document Verification,16,2,1,35.12
+34,4,6.12,Enquiry,16,2,1,60.9
+34,3,3.37,Exam Form,15,2,1,48.42
+35,5,7.3,Exam Form,12,3,1,66.23
+17,2,8.82,Bonafide Certificate,12,2,1,84.53
+38,5,4.06,ID Card,14,5,0,36.77
+31,1,5.93,ID Card,17,6,0,189.54
+23,2,9.8,ID Card,15,0,1,122.68
+22,1,4.67,ID Card,13,6,1,124.4
+31,2,6.76,Fee Payment,13,6,1,111.12
+36,5,2.72,Fee Payment,16,6,1,25.89
+11,4,6.85,Scholarship,14,5,0,28.61
+12,3,2.72,Exam Form,9,2,0,15.49
+22,1,9.67,Exam Form,9,6,0,218.66
+24,5,7.73,Exam Form,17,6,0,39.74
+34,4,8.31,Exam Form,16,0,1,84.56
+40,5,7.63,ID Card,14,5,0,68.08
+29,1,6.72,ID Card,9,3,0,198.56
+16,3,5.6,Fee Payment,10,1,0,36.72
+19,5,8.87,Document Verification,11,5,1,37.26
+24,2,9.65,Bonafide Certificate,11,4,1,123.03
+21,4,5.99,ID Card,10,2,0,35.78
+12,5,9.45,ID Card,10,4,0,23.0
+18,4,6.67,Enquiry,14,1,0,26.01
+35,2,6.31,ID Card,15,3,1,119.14
+11,3,5.64,Document Verification,12,5,1,34.44
+40,3,3.67,Document Verification,9,3,0,60.12
+18,2,2.03,Fee Payment,14,1,0,20.08
+11,4,3.93,ID Card,15,4,1,23.75
+8,5,6.08,Enquiry,12,5,1,20.27
+6,2,5.04,Bonafide Certificate,14,2,0,24.99
+27,1,5.59,Exam Form,17,0,0,156.47
+13,4,9.85,ID Card,12,6,1,34.8
+30,3,4.8,Fee Payment,12,3,1,57.3
+18,2,5.62,Fee Payment,13,1,1,55.5
+15,3,3.07,Bonafide Certificate,11,5,1,22.45
+4,4,2.38,Enquiry,10,4,0,4.18
+34,3,8.2,Scholarship,17,2,0,98.61
+11,2,6.57,Fee Payment,9,4,0,40.68
+24,4,8.09,Document Verification,13,2,1,62.33
+20,1,3.2,Document Verification,13,5,1,73.51
+35,2,6.57,Exam Form,16,0,1,128.64
+22,5,4.03,Fee Payment,14,0,0,21.79
+15,2,3.82,Enquiry,14,6,0,35.43
+38,4,2.09,Exam Form,14,1,0,26.12
+38,2,3.04,Fee Payment,12,1,1,66.5
+13,1,4.47,Bonafide Certificate,9,2,0,61.67
+30,1,2.94,ID Card,11,2,1,97.4
+4,5,9.89,Enquiry,14,2,0,7.78
+34,3,4.47,Fee Payment,13,2,1,56.12
+22,4,3.04,Enquiry,9,6,0,22.84
+28,4,3.59,Scholarship,13,5,1,32.82
+10,3,6.7,Enquiry,10,5,0,24.06
+17,1,2.51,Enquiry,9,0,0,49.77
+11,1,8.9,Document Verification,12,1,1,107.48
+8,2,9.69,Bonafide Certificate,14,6,0,47.08
+9,5,3.97,ID Card,15,1,1,14.79
+16,5,5.6,ID Card,17,3,0,18.72
+37,5,2.18,Document Verification,13,1,1,20.73
+6,2,7.13,Enquiry,16,1,1,34.63
+12,5,5.31,ID Card,16,4,1,18.2
+39,3,4.16,Exam Form,17,4,0,64.07
+8,2,3.65,Bonafide Certificate,11,6,1,20.62
+26,3,7.23,Scholarship,11,3,1,79.95
+1,2,5.33,Document Verification,17,2,0,17.49
+4,5,3.44,Fee Payment,15,3,1,5.0
+28,3,7.51,Fee Payment,12,3,1,74.78
+36,3,6.52,Fee Payment,9,0,0,85.34
+37,3,8.87,Bonafide Certificate,15,5,1,121.44
+18,2,2.94,Scholarship,14,1,0,36.57
+7,4,8.29,ID Card,11,0,1,22.2
+0,5,7.39,Scholarship,13,6,1,19.95
+21,3,2.92,Scholarship,11,5,1,32.91
+16,4,7.56,Document Verification,16,6,1,36.37
+6,5,5.53,Bonafide Certificate,13,1,1,15.63
+24,5,9.56,Fee Payment,14,6,0,45.07
+3,3,3.13,Document Verification,10,3,0,15.5
+35,3,7.14,ID Card,16,1,1,90.69
+5,2,5.06,Scholarship,17,2,0,21.61
+30,4,9.65,Enquiry,11,2,1,78.53
+18,4,4.64,Fee Payment,14,3,0,22.42
+38,3,9.7,Bonafide Certificate,14,6,0,120.19
+26,5,9.21,Exam Form,10,4,0,57.29
+9,3,4.16,Scholarship,16,2,1,29.69
+25,5,8.43,Scholarship,13,3,1,50.48
+18,5,9.96,Scholarship,16,0,1,41.69
+38,3,4.02,Scholarship,16,4,1,66.15
+2,1,5.49,Fee Payment,11,2,1,13.4
+12,4,6.16,Bonafide Certificate,13,3,1,33.36
+27,5,4.36,Document Verification,15,3,1,30.92
+19,5,2.12,Fee Payment,13,0,1,12.65
+27,1,3.76,Bonafide Certificate,14,0,0,107.54
+7,2,4.26,Document Verification,10,4,0,16.74
+40,1,5.55,Scholarship,16,5,1,231.12
+38,1,3.37,Bonafide Certificate,13,2,1,139.43
+0,5,8.99,Scholarship,14,3,0,1.0
+2,4,7.64,Enquiry,9,4,0,13.39
+12,1,2.68,Bonafide Certificate,10,6,0,37.35
+27,2,7.2,ID Card,12,4,1,102.04
+24,3,7.23,Exam Form,17,6,0,60.77
+32,1,9.65,Scholarship,14,0,0,319.76
+37,1,2.02,Scholarship,16,3,1,89.3
+5,2,3.98,Scholarship,10,1,0,22.51
+31,4,9.42,ID Card,13,5,1,80.29
+20,1,9.46,Fee Payment,9,5,0,194.33
+15,1,7.76,Document Verification,12,0,1,129.18
+20,4,8.13,Scholarship,9,6,0,50.41
+10,2,2.73,Scholarship,17,3,0,25.17
+36,1,6.11,Fee Payment,10,4,0,221.13
+35,4,3.85,Fee Payment,15,5,1,42.25
+34,1,3.45,Exam Form,11,4,1,126.85
+18,3,8.48,Bonafide Certificate,10,2,0,55.68
+19,5,3.08,Scholarship,12,1,1,26.5
+17,3,5.75,Bonafide Certificate,15,0,1,35.96
+40,1,9.51,Enquiry,15,6,1,392.78
+13,2,3.49,Fee Payment,17,5,0,22.11
+14,5,9.82,Fee Payment,11,2,1,35.28
+30,3,9.95,Exam Form,15,2,1,116.52
+0,4,6.44,Document Verification,14,1,0,7.31
+2,2,3.36,ID Card,15,0,1,14.72
+15,3,4.53,ID Card,15,0,1,27.92
+22,4,5.4,ID Card,13,4,1,35.5
+10,1,4.47,Fee Payment,17,0,0,52.51
+11,4,4.25,Scholarship,15,2,1,21.32
+9,3,9.78,Exam Form,15,4,1,39.35
+31,3,3.23,Document Verification,11,0,1,48.2
+15,1,7.87,Enquiry,9,6,0,116.8
+7,4,2.0,ID Card,13,6,1,14.58
+37,4,6.77,Exam Form,16,1,1,74.79
+11,1,9.33,Fee Payment,13,2,1,111.59
+23,4,4.3,ID Card,11,3,1,32.67
+27,1,3.48,Document Verification,17,1,0,97.75
+7,2,7.21,Enquiry,10,1,0,23.93
+27,3,7.7,Bonafide Certificate,11,0,1,81.24
+35,2,7.5,Enquiry,12,4,1,136.65
+25,5,4.55,Document Verification,9,4,0,32.65
+7,5,4.02,Enquiry,12,6,1,12.73
+27,5,9.65,Scholarship,12,2,1,59.86
+27,1,9.39,ID Card,17,0,0,257.48
+36,4,5.66,ID Card,16,4,1,59.28
+40,2,8.77,Bonafide Certificate,10,6,0,184.43
+35,2,5.62,Enquiry,15,5,1,104.85
+26,2,5.4,Bonafide Certificate,14,3,0,74.03
+16,2,3.25,Enquiry,15,5,1,39.68
+8,5,5.41,ID Card,12,0,1,20.69
+32,2,6.3,Scholarship,13,0,1,119.44
+19,4,2.18,Enquiry,14,4,0,18.39
+12,5,5.55,Bonafide Certificate,17,1,0,14.78
+27,2,8.25,Fee Payment,10,0,0,119.35
+28,1,7.44,ID Card,17,1,0,219.43
+12,3,7.08,Document Verification,9,2,0,40.46
+34,3,9.28,Document Verification,12,6,1,120.09
+5,3,2.14,Scholarship,13,2,1,19.44
+17,5,6.46,Fee Payment,17,4,0,24.74
+4,2,8.3,Bonafide Certificate,14,2,0,18.25
+24,5,6.33,Enquiry,12,5,1,36.98
+1,4,4.59,ID Card,10,5,0,1.0
+9,1,3.09,Document Verification,13,5,1,44.18
+29,1,9.1,Document Verification,16,4,1,273.78
+4,3,5.77,Document Verification,16,4,1,23.85
+32,3,9.02,Document Verification,14,5,0,97.34
+0,3,6.69,Exam Form,9,1,0,11.33
+17,2,7.39,Scholarship,16,5,1,72.87
+31,4,8.43,Bonafide Certificate,12,1,1,70.23
+10,4,7.27,ID Card,10,2,0,29.69
+20,4,5.18,ID Card,9,1,0,35.35
+25,4,6.11,ID Card,15,0,1,49.03
+24,3,8.42,Bonafide Certificate,10,3,0,72.53
+21,1,4.99,Scholarship,12,0,1,118.53
+26,3,5.1,Fee Payment,12,0,1,54.02
+12,4,2.77,Enquiry,9,4,0,8.13
+32,3,9.32,Enquiry,10,3,0,100.73
+33,4,2.73,Scholarship,9,4,0,37.35
+40,5,7.19,Document Verification,14,1,0,74.17
+34,1,5.31,Enquiry,11,5,1,194.64
+0,5,5.24,Document Verification,9,6,0,7.91
+20,2,7.44,Scholarship,16,6,1,85.01
+5,3,2.54,Scholarship,12,6,1,13.04
+27,2,6.75,Bonafide Certificate,15,1,1,98.19
+16,3,8.18,Bonafide Certificate,10,3,0,46.39
+4,5,8.63,Exam Form,14,2,0,22.51
+30,4,3.36,ID Card,14,1,0,37.46
+4,4,9.18,Exam Form,15,0,1,24.16
+37,3,7.25,ID Card,9,3,0,90.56
+2,4,9.05,Document Verification,9,3,0,14.1
+22,5,5.88,Exam Form,10,1,0,31.93
+36,4,6.34,Exam Form,10,1,0,55.41
+36,5,9.35,Fee Payment,13,4,1,77.49
+9,2,9.2,Scholarship,9,4,0,45.03
+9,5,5.59,Bonafide Certificate,10,0,0,11.82
+18,1,4.2,Exam Form,14,3,0,81.51
+16,1,5.15,Bonafide Certificate,11,6,1,90.33
+20,1,5.1,ID Card,12,2,1,111.91
+13,3,4.29,Exam Form,9,2,0,25.28
+8,3,4.15,ID Card,13,3,1,13.56
+0,3,8.89,Exam Form,12,0,1,18.08
+12,5,2.56,Enquiry,16,6,1,10.21
+3,3,7.42,Document Verification,11,4,1,14.61
+0,2,3.38,Fee Payment,9,4,0,2.69
+39,1,4.76,ID Card,13,4,1,195.05
+31,5,2.49,Scholarship,9,2,0,28.29
+33,1,4.16,Scholarship,13,2,1,150.35
+27,3,8.15,Document Verification,17,0,0,81.59
+30,5,9.08,Document Verification,13,2,1,66.58
+7,4,3.77,Enquiry,10,1,0,10.53
+38,2,5.71,Scholarship,10,2,0,116.7
+25,3,5.76,ID Card,17,4,0,45.29
+33,3,8.99,Scholarship,13,0,1,109.87
+2,2,8.1,Fee Payment,16,3,1,21.75
+11,2,6.1,Exam Form,12,3,1,61.34
+0,4,7.37,Fee Payment,10,0,0,1.0
+4,3,8.78,Enquiry,12,1,1,21.4
+29,3,2.08,Enquiry,12,3,1,25.79
+29,1,5.22,Scholarship,17,4,0,166.66
+16,5,9.26,Exam Form,14,3,0,31.21
+22,5,7.92,Scholarship,14,3,0,44.36
+14,1,6.34,Fee Payment,13,4,1,92.17
+36,5,6.24,Fee Payment,14,2,0,47.63
+20,2,4.78,ID Card,9,1,0,52.68
+13,5,6.16,ID Card,13,6,1,30.31
+1,5,7.24,Fee Payment,14,4,0,1.14
+10,1,5.35,Exam Form,16,4,1,68.12
+38,4,7.71,Enquiry,12,5,1,81.35
+37,5,8.89,ID Card,13,0,1,76.88
+33,5,3.24,ID Card,12,1,1,35.2
+37,4,5.61,Bonafide Certificate,15,2,1,56.78
+33,1,5.26,Bonafide Certificate,14,5,0,181.96
+17,4,7.5,ID Card,12,6,1,39.6
+29,1,4.0,Scholarship,14,4,0,127.35
+14,2,7.12,Exam Form,12,6,1,63.19
+26,1,9.02,Document Verification,16,6,1,244.68
+33,2,5.35,ID Card,11,6,1,95.83
+37,2,9.29,Bonafide Certificate,16,5,1,185.12
+32,1,9.95,Exam Form,10,2,0,330.29
+23,3,2.85,Exam Form,14,5,0,26.71
+14,1,3.86,Bonafide Certificate,16,5,1,59.57
+29,5,9.6,Exam Form,9,5,0,65.47
+16,5,9.67,Exam Form,14,4,0,32.14
+4,3,2.78,Bonafide Certificate,17,4,0,3.49
+28,2,2.12,Fee Payment,10,0,0,29.43
+3,3,3.29,ID Card,9,3,0,6.63
+9,5,9.97,Scholarship,10,1,0,19.6
+16,3,3.44,Document Verification,13,0,1,21.59
+9,1,6.02,Scholarship,14,2,0,56.64
+16,3,8.79,Fee Payment,9,5,0,53.44
+19,2,2.16,Enquiry,15,4,1,23.46
+23,1,6.84,Fee Payment,12,5,1,164.86
+4,4,4.22,Exam Form,17,4,0,19.0
+33,5,8.9,Scholarship,14,6,0,65.53
+5,5,4.27,Fee Payment,17,1,0,9.64
+1,3,7.49,Scholarship,9,0,0,5.71
+12,1,7.39,Fee Payment,12,0,1,106.38
+10,4,3.77,Document Verification,10,2,0,13.26
+22,1,2.28,Fee Payment,14,6,0,53.21
+15,5,5.27,Scholarship,12,0,1,33.09
+30,1,4.31,Exam Form,17,0,0,135.68
+10,4,8.47,Scholarship,11,3,1,33.37
+15,3,8.4,Bonafide Certificate,9,1,0,45.89
+7,2,5.66,Scholarship,9,5,0,25.7
+3,1,6.85,Document Verification,17,0,0,28.04
+39,2,6.83,ID Card,17,2,0,140.48
+3,5,8.62,Document Verification,13,5,1,13.6
+24,3,5.4,Document Verification,10,4,0,46.14
+2,3,4.2,Fee Payment,17,6,0,4.37
+31,1,4.12,Document Verification,16,6,1,133.12
+2,3,6.29,Scholarship,14,0,0,4.83
+26,1,5.59,ID Card,15,0,1,156.61
+28,1,5.52,Enquiry,14,5,0,161.34
+31,2,2.73,Exam Form,13,4,1,57.79
+18,3,7.75,Enquiry,12,3,1,44.97
+20,1,3.71,Document Verification,15,1,1,84.22
+4,2,3.58,Scholarship,12,3,1,14.74
+17,4,5.3,Fee Payment,17,2,0,27.11
+27,2,3.82,Fee Payment,13,5,1,58.93
+21,2,6.67,Exam Form,16,0,1,84.41
+20,1,4.97,Exam Form,14,3,0,106.36
+5,5,5.59,Scholarship,12,1,1,10.01
+0,5,6.3,Exam Form,11,2,1,8.13
+4,5,3.63,Exam Form,14,6,0,9.93
+40,2,3.25,Fee Payment,9,3,0,69.28
+11,1,9.04,Scholarship,10,0,0,100.85
+25,3,5.47,ID Card,15,1,1,49.44
+33,2,5.3,Exam Form,12,0,1,99.62
+13,2,2.28,Scholarship,13,0,1,21.24
+25,1,5.98,Document Verification,9,2,0,148.92
+26,4,6.43,Fee Payment,10,1,0,44.04
+8,2,6.47,ID Card,12,4,1,33.93
+25,4,7.66,Fee Payment,16,6,1,53.34
+21,4,3.42,Fee Payment,12,0,1,24.14
+29,5,4.02,Bonafide Certificate,11,1,1,33.36
+16,1,8.49,Scholarship,11,0,1,144.89
+25,4,9.58,Document Verification,13,3,1,71.14
+35,1,3.09,Exam Form,11,3,1,118.54
+0,5,5.98,Document Verification,16,1,1,11.67
+7,1,3.71,Scholarship,13,6,1,41.51
+34,2,2.48,Fee Payment,15,2,1,54.53
+14,4,4.6,Bonafide Certificate,16,4,1,31.27
+21,1,3.15,Scholarship,13,3,1,81.49
+13,3,7.68,ID Card,16,2,1,44.23
+25,1,6.27,ID Card,11,4,1,165.01
+27,4,3.15,Scholarship,15,3,1,31.72
+22,5,2.07,Exam Form,16,4,1,17.61
+13,5,8.47,Document Verification,15,5,1,33.03
+23,4,3.41,Document Verification,10,0,0,28.39
+1,2,6.85,Exam Form,16,1,1,12.52
+25,2,4.7,Bonafide Certificate,14,3,0,63.54
+13,5,6.68,Fee Payment,11,3,1,23.67
+6,5,4.53,Enquiry,12,0,1,14.27
+2,4,2.7,Enquiry,15,3,1,7.15
+22,2,3.78,Fee Payment,11,3,1,47.66
+17,5,3.5,ID Card,9,5,0,14.2
+37,2,5.42,Bonafide Certificate,14,3,0,107.36
+34,5,7.27,Exam Form,11,3,1,61.02
+14,1,4.11,Enquiry,14,3,0,58.83
+24,3,2.1,Scholarship,11,2,1,29.82
+36,1,6.15,Document Verification,14,3,0,225.8
+27,5,6.85,Scholarship,12,0,1,53.47
+9,3,9.7,Document Verification,12,5,1,36.21
+38,3,6.72,Scholarship,10,3,0,91.32
+16,5,5.77,Exam Form,12,4,1,24.84
+38,5,6.59,Exam Form,12,5,1,60.68
+21,2,9.42,Bonafide Certificate,15,5,1,102.23
+25,5,8.63,Scholarship,13,4,1,58.12
+24,4,4.58,Scholarship,16,0,1,42.57
+16,5,3.9,Bonafide Certificate,15,2,1,25.61
+12,4,4.1,Bonafide Certificate,17,6,0,17.42
+19,5,6.04,Exam Form,16,6,1,31.41
+24,2,7.95,Exam Form,17,0,0,99.23
+3,4,6.03,ID Card,9,2,0,15.64
+9,1,2.54,Scholarship,11,1,1,40.62
+2,4,7.79,Exam Form,13,4,1,16.38
+40,2,8.45,Enquiry,17,5,0,169.89
+17,4,4.32,Exam Form,16,5,1,35.82
+35,5,7.31,Scholarship,15,5,1,60.41
+21,5,5.41,Bonafide Certificate,10,4,0,28.65
+33,2,9.11,Scholarship,14,4,0,162.77
+7,3,8.76,Enquiry,12,6,1,25.1
+39,5,6.2,Fee Payment,13,6,1,60.7
+18,1,7.53,Scholarship,13,6,1,149.66
+40,2,9.07,Fee Payment,12,2,1,190.18
+36,4,5.97,Scholarship,12,5,1,61.72
+5,4,4.51,Enquiry,12,0,1,10.73
+25,1,8.03,Fee Payment,10,2,0,205.89
+33,5,3.76,Fee Payment,9,5,0,23.13
+5,2,5.11,Enquiry,10,4,0,16.29
+36,1,8.93,Scholarship,15,4,1,335.49
+32,5,7.8,ID Card,9,4,0,58.83
+21,2,5.23,Exam Form,14,5,0,56.33
+20,4,3.72,Document Verification,12,6,1,34.85
+5,2,4.85,Exam Form,10,4,0,25.9
+5,3,4.27,Fee Payment,11,1,1,17.76
+3,2,3.41,Scholarship,15,4,1,12.96
+29,3,7.95,Scholarship,14,5,0,82.51
+10,2,4.02,Scholarship,14,6,0,26.89
+29,3,5.63,Scholarship,16,2,1,67.54
+30,4,5.09,ID Card,16,4,1,48.24
+23,5,9.86,Document Verification,14,6,0,52.47
+8,3,5.13,Bonafide Certificate,9,6,0,18.31
+2,3,2.64,Fee Payment,15,3,1,11.82
+30,4,2.72,Document Verification,16,1,1,29.55
+39,3,6.73,Exam Form,13,5,1,98.09
+36,1,6.79,Bonafide Certificate,12,4,1,252.31
+35,4,5.35,Bonafide Certificate,15,3,1,64.48
+23,1,5.45,Scholarship,14,5,0,138.31
+30,4,2.43,Document Verification,14,2,0,26.46
+5,3,6.13,Exam Form,11,1,1,27.52
+1,1,6.04,Scholarship,12,6,1,21.23
+19,3,3.2,Scholarship,13,4,1,32.97
+27,4,2.83,Enquiry,17,2,0,16.09
+10,3,2.99,Enquiry,16,5,1,16.91
+3,1,2.81,Enquiry,11,3,1,15.08
+14,1,6.88,ID Card,14,5,0,96.76
+5,3,3.57,Fee Payment,9,5,0,4.01
+29,2,4.01,Bonafide Certificate,11,1,1,70.14
+37,4,3.39,Exam Form,15,4,1,44.64
+1,4,9.66,Bonafide Certificate,15,2,1,7.75
+14,3,8.84,Document Verification,10,1,0,44.26
+10,2,3.84,Fee Payment,11,3,1,32.86
+7,1,4.62,Scholarship,15,6,1,40.83
+25,5,3.68,Fee Payment,14,4,0,23.08
+4,5,5.94,Scholarship,15,6,1,15.99
+5,3,2.16,Enquiry,17,1,0,8.62
+25,2,7.37,Fee Payment,16,3,1,97.71
+3,2,6.19,Scholarship,14,3,0,16.64
+18,4,9.19,Bonafide Certificate,12,2,1,52.03
+19,1,3.32,Enquiry,17,5,0,66.91
+32,2,8.43,Enquiry,15,3,1,143.24
+19,5,8.34,Enquiry,13,3,1,41.05
+11,1,3.02,Bonafide Certificate,10,5,0,46.96
+0,1,5.19,Bonafide Certificate,17,0,0,15.25
+25,3,3.36,Bonafide Certificate,15,3,1,35.45
+13,2,4.04,Enquiry,17,4,0,19.97
+37,3,4.11,Fee Payment,17,6,0,57.02
+36,2,6.45,Scholarship,13,6,1,128.84
+10,4,5.29,Bonafide Certificate,15,1,1,27.47
+35,3,9.58,Fee Payment,13,5,1,121.93
+12,3,3.01,Scholarship,11,5,1,24.28
+2,5,9.79,Enquiry,16,5,1,16.43
+32,3,3.85,Fee Payment,16,4,1,55.09
+5,2,8.18,Enquiry,17,5,0,17.91
+9,5,4.71,ID Card,14,4,0,10.21
+4,3,3.14,Bonafide Certificate,10,6,0,8.77
+22,3,8.86,Document Verification,11,2,1,76.39
+9,4,4.47,Fee Payment,14,0,0,13.16
+1,3,7.27,Bonafide Certificate,9,5,0,9.16
+12,1,6.53,Exam Form,10,6,0,89.36
+39,5,5.77,Scholarship,16,0,1,63.93
+1,1,5.97,ID Card,16,6,1,18.28
+19,5,7.86,Bonafide Certificate,14,5,0,31.45
+0,4,2.7,Exam Form,11,4,1,11.41
+36,3,7.35,Fee Payment,10,6,0,91.84
+8,3,9.17,Fee Payment,14,1,0,30.5
+16,3,2.46,Exam Form,9,0,0,21.68
+8,5,3.13,ID Card,14,0,0,18.2
+10,3,7.73,Exam Form,17,4,0,30.93
+14,1,5.5,Scholarship,15,0,1,90.51
+23,3,5.23,Fee Payment,17,2,0,53.5
+37,4,3.1,Exam Form,10,4,0,33.29
+34,1,6.05,Document Verification,13,0,1,217.42
+29,3,3.01,Document Verification,17,0,0,31.34
+30,3,5.81,Exam Form,15,0,1,70.46
+4,2,8.11,Scholarship,17,4,0,20.1
+13,5,4.07,Fee Payment,14,1,0,18.76
+10,1,5.85,Document Verification,15,3,1,70.05
+8,2,9.94,Exam Form,13,6,1,48.0
+33,4,7.49,Enquiry,14,5,0,68.18
+11,5,8.73,Exam Form,9,6,0,26.93
+34,1,5.32,Bonafide Certificate,9,0,0,189.65
+34,3,8.14,Exam Form,10,6,0,94.7
+0,1,2.32,Scholarship,12,3,1,13.48
+39,3,2.98,Document Verification,17,3,0,47.88
+21,5,3.62,Bonafide Certificate,15,0,1,23.53
+28,3,5.22,Document Verification,14,0,0,49.64
+7,4,8.77,Document Verification,9,5,0,21.17
+10,3,4.77,Scholarship,13,3,1,32.81
+40,4,7.24,Exam Form,12,1,1,88.87
+36,5,7.67,Scholarship,13,3,1,65.54
+13,5,6.69,Exam Form,17,1,0,19.26
+29,1,4.86,Bonafide Certificate,11,6,1,149.16
+34,4,6.62,Scholarship,12,2,1,66.37
+20,4,4.74,Scholarship,16,1,1,37.48
+36,2,2.67,Enquiry,11,5,1,55.66
+4,2,9.94,ID Card,11,4,1,26.87
+18,2,3.02,Fee Payment,17,6,0,35.57
+13,3,2.58,Scholarship,13,0,1,23.74
+25,2,9.03,ID Card,9,2,0,119.59
+3,4,4.41,Fee Payment,15,3,1,5.41
+24,3,7.2,Enquiry,15,1,1,55.92
+24,5,4.63,Exam Form,14,2,0,23.48
+17,1,5.13,Exam Form,14,6,0,92.32
+39,2,4.1,Exam Form,11,4,1,94.2
+7,5,4.74,ID Card,11,1,1,7.27
+38,4,5.29,ID Card,17,5,0,61.58
+39,1,7.76,Fee Payment,9,3,0,307.45
+13,5,6.09,Exam Form,15,3,1,33.28
+31,1,9.55,Document Verification,15,1,1,303.46
+37,2,2.34,Scholarship,16,4,1,57.21
+32,4,6.02,ID Card,14,0,0,53.54
+22,1,6.67,ID Card,16,0,1,160.09
+14,5,9.36,ID Card,9,3,0,30.28
+32,2,2.39,Fee Payment,9,6,0,44.19
+24,2,6.59,Exam Form,17,6,0,90.46
+16,5,8.83,Document Verification,12,4,1,36.65
+32,5,3.94,Scholarship,11,3,1,38.16
+1,1,9.01,Scholarship,14,0,0,8.46
+13,3,2.15,Exam Form,17,3,0,19.14
+39,2,7.86,Document Verification,12,1,1,172.08
+39,1,9.46,Fee Payment,17,6,0,368.15
+38,5,7.26,ID Card,13,6,1,64.79
+5,1,5.51,ID Card,15,5,1,41.08
+5,5,2.36,Enquiry,11,1,1,10.48
+2,4,9.36,Exam Form,11,5,1,17.34
+6,5,5.76,Scholarship,11,4,1,17.35
+7,5,2.23,ID Card,16,0,1,11.41
+14,5,7.52,Enquiry,14,4,0,23.71
+28,3,5.85,Scholarship,17,4,0,61.81
+32,5,2.99,Scholarship,17,0,0,21.44
+29,2,3.71,Exam Form,16,2,1,65.59
+38,2,2.52,Bonafide Certificate,9,2,0,59.08
+26,1,6.59,Enquiry,14,3,0,172.78
+35,3,6.98,Bonafide Certificate,12,2,1,86.44
+28,1,6.05,Bonafide Certificate,12,1,1,178.68
+37,2,8.54,Enquiry,11,6,1,163.07
+32,2,8.89,Document Verification,17,5,0,142.86
+36,4,6.92,Exam Form,10,6,0,69.88
+26,5,2.1,Enquiry,9,4,0,11.09
+32,2,7.56,Scholarship,11,6,1,130.49
+3,1,5.34,Enquiry,12,3,1,24.65
+21,1,6.52,ID Card,12,4,1,140.88
+1,5,7.19,Enquiry,14,0,0,1.0
+9,5,4.8,Document Verification,9,6,0,17.33
+4,4,9.34,Bonafide Certificate,9,2,0,6.61
+9,3,3.07,Fee Payment,10,0,0,9.31
+32,1,7.37,Document Verification,12,3,1,239.71
+37,5,2.03,Document Verification,15,5,1,24.11
+12,1,9.4,Exam Form,14,1,0,121.48
+30,5,2.9,ID Card,17,2,0,22.85
+35,2,2.76,Document Verification,15,0,1,68.85
+23,1,4.66,Enquiry,13,5,1,119.62
+14,2,4.99,ID Card,14,6,0,36.2
+28,1,3.71,Exam Form,17,2,0,106.21
+7,3,6.68,Enquiry,9,4,0,29.42
+4,4,5.54,Fee Payment,17,1,0,13.79
+28,2,2.27,Scholarship,14,6,0,41.19
+3,5,4.56,Scholarship,12,5,1,15.03
+11,3,8.48,Bonafide Certificate,13,2,1,42.2
+1,1,7.52,Bonafide Certificate,9,6,0,6.59
+26,2,7.8,Fee Payment,15,1,1,111.01
+30,1,7.58,Scholarship,16,5,1,239.83
+35,1,4.49,Bonafide Certificate,13,4,1,163.46
+35,1,2.8,ID Card,10,4,0,100.75
+25,4,4.18,Document Verification,16,0,1,43.18
+26,4,8.65,Exam Form,15,3,1,67.75
+4,5,9.84,Enquiry,17,0,0,19.16
+19,2,5.95,Bonafide Certificate,12,1,1,59.57
+10,3,2.08,Fee Payment,17,0,0,8.84
+9,3,3.12,Enquiry,12,5,1,11.17
+39,3,4.58,Scholarship,11,2,1,66.66
+37,1,6.63,Fee Payment,11,5,1,250.95
+5,4,2.6,Exam Form,10,0,0,11.51
+7,2,9.55,Exam Form,11,3,1,46.48
+22,1,4.92,Fee Payment,16,5,1,114.54
+25,4,9.3,Bonafide Certificate,16,5,1,59.22
+11,4,8.24,Bonafide Certificate,10,5,0,33.58
+25,2,8.04,Scholarship,10,3,0,106.4
+12,2,6.85,ID Card,10,5,0,41.66
+39,2,7.01,Scholarship,15,1,1,149.88
+17,1,7.1,Document Verification,14,4,0,127.59
+24,5,7.03,ID Card,9,3,0,37.45
+32,2,6.43,Enquiry,10,1,0,106.47
+39,5,9.89,Document Verification,9,3,0,78.53
+11,1,7.86,Scholarship,15,3,1,101.48
+35,5,8.22,ID Card,14,4,0,58.52
+3,3,8.98,ID Card,10,2,0,11.56
+4,5,3.73,Document Verification,10,1,0,11.58
+36,2,2.67,Fee Payment,10,3,0,56.88
+7,1,5.86,Bonafide Certificate,16,6,1,57.39
+27,2,6.11,ID Card,15,3,1,96.74
+30,3,8.63,Enquiry,9,0,0,88.04
+8,2,5.55,Enquiry,12,5,1,24.04
+28,2,6.57,ID Card,12,2,1,107.56
+13,2,6.22,Document Verification,15,4,1,56.89
+39,4,2.31,ID Card,10,6,0,24.79
+40,3,6.92,Document Verification,12,1,1,106.97
+21,2,8.62,Fee Payment,9,3,0,93.23
+10,2,3.26,Enquiry,12,5,1,30.31
+22,2,6.75,ID Card,9,1,0,77.24
+0,1,6.75,Exam Form,10,4,0,14.91
+36,4,3.31,Scholarship,10,2,0,39.97
+20,1,2.99,Enquiry,11,0,1,74.94
+25,4,9.84,Fee Payment,16,2,1,68.65
+35,2,5.15,Exam Form,14,0,0,98.74
+22,3,3.82,Enquiry,14,1,0,27.13
+0,5,3.37,Fee Payment,17,2,0,7.38
+39,5,7.34,Bonafide Certificate,16,2,1,70.85
+14,2,6.88,Fee Payment,10,2,0,61.72
+20,1,7.15,Fee Payment,14,4,0,148.9
+8,3,2.7,Bonafide Certificate,9,1,0,15.11
+8,4,9.15,ID Card,17,6,0,21.41
+9,2,5.11,Scholarship,12,0,1,37.18
+25,3,4.51,Exam Form,12,2,1,48.04
+40,3,5.7,Enquiry,17,1,0,79.45
+34,4,5.12,Document Verification,11,6,1,55.22
+24,3,8.91,Scholarship,13,5,1,81.86
+25,1,9.43,Enquiry,9,4,0,239.1
+10,1,4.43,Fee Payment,14,4,0,46.78
+37,1,8.91,Document Verification,11,5,1,339.21
+1,3,8.25,Bonafide Certificate,9,1,0,12.06
+6,1,9.45,Scholarship,14,0,0,64.38
+17,4,3.97,ID Card,10,1,0,23.24
+26,3,6.62,Exam Form,16,1,1,63.51
+33,5,4.2,Scholarship,10,3,0,36.39
+26,3,8.59,Scholarship,12,6,1,88.59
+16,4,2.04,ID Card,11,4,1,16.58
+23,5,6.52,Document Verification,17,0,0,44.33
+24,3,4.71,Bonafide Certificate,10,3,0,33.55
+6,1,4.58,ID Card,11,5,1,40.63
+5,2,7.16,Enquiry,15,1,1,28.75
+23,2,8.81,Bonafide Certificate,12,5,1,113.5
+32,1,6.87,ID Card,14,4,0,225.66
+28,2,8.83,Scholarship,11,3,1,137.76
+21,2,4.12,Bonafide Certificate,9,6,0,51.7
+25,1,6.16,Document Verification,14,3,0,157.0
+27,1,5.6,Document Verification,12,0,1,163.51
+20,3,2.09,Exam Form,10,6,0,20.22
+6,3,6.45,Bonafide Certificate,15,1,1,18.53
+16,1,7.29,Exam Form,13,0,1,131.54
+19,4,6.74,Enquiry,14,3,0,32.74
+40,2,7.89,ID Card,14,6,0,156.81
+19,3,6.57,Fee Payment,17,3,0,43.46
+21,2,2.53,Enquiry,10,0,0,26.41
+27,5,2.93,Document Verification,14,3,0,25.94
+39,1,6.77,Scholarship,17,6,0,271.71
+6,4,4.2,Document Verification,12,2,1,22.83
+0,5,2.64,Fee Payment,14,4,0,1.33
+31,5,5.44,Scholarship,15,1,1,49.2
+12,5,6.43,Bonafide Certificate,9,4,0,31.8
+29,1,4.63,Bonafide Certificate,13,1,1,145.69
+22,3,7.76,Enquiry,12,6,1,68.38
+18,1,7.15,Document Verification,10,3,0,137.48
+31,3,4.66,Scholarship,10,6,0,49.49
+29,5,8.04,ID Card,10,0,0,53.97
+28,5,7.19,Scholarship,15,0,1,53.49
+28,4,7.1,Exam Form,12,3,1,60.66
+29,3,6.43,Fee Payment,14,1,0,62.6
+15,5,2.09,Enquiry,15,3,1,17.05
+39,2,7.57,Bonafide Certificate,17,1,0,148.77
+18,4,5.01,Document Verification,10,3,0,37.07
+17,1,9.54,Scholarship,17,3,0,169.65
+0,4,8.54,Bonafide Certificate,13,3,1,5.11
+13,2,6.7,Document Verification,14,0,0,47.5
+1,3,4.02,Bonafide Certificate,14,1,0,5.23
+27,1,3.63,Document Verification,11,5,1,118.65
+29,1,4.72,Bonafide Certificate,15,3,1,143.43
+37,3,5.81,ID Card,15,4,1,81.22
+3,4,4.37,Exam Form,16,4,1,13.13
+0,5,6.12,Fee Payment,13,6,1,11.0
+7,4,3.32,Bonafide Certificate,10,6,0,8.73
+28,2,9.82,Fee Payment,11,0,1,141.95
+38,5,2.86,Bonafide Certificate,17,2,0,25.98
+2,4,9.46,Enquiry,14,5,0,6.53
+31,3,9.31,Scholarship,16,0,1,105.82
+9,2,6.2,Exam Form,16,2,1,37.76
+9,2,7.8,Enquiry,13,0,1,47.84
+18,2,5.49,ID Card,9,6,0,53.12
+33,5,7.04,Exam Form,14,4,0,48.93
+32,1,4.72,Fee Payment,15,3,1,158.34
+22,5,4.41,Scholarship,17,1,0,26.62
+27,4,6.63,Document Verification,10,6,0,45.38
+31,1,5.99,Enquiry,10,3,0,195.04
+6,4,6.64,Exam Form,9,4,0,20.42
+28,1,4.29,ID Card,13,1,1,135.93
+7,5,4.94,Enquiry,10,2,0,11.48
+0,2,2.67,Scholarship,11,2,1,3.63
+2,3,2.42,Scholarship,10,4,0,14.75
+23,2,4.03,Fee Payment,12,1,1,51.86
+22,5,2.59,ID Card,11,3,1,18.28
+7,1,2.83,Scholarship,17,4,0,27.44
+36,2,8.5,Scholarship,10,2,0,165.57
+2,5,2.31,Document Verification,15,4,1,16.14
+32,4,7.27,Fee Payment,11,3,1,70.8
+27,3,4.18,Fee Payment,16,0,1,45.38
+7,2,8.97,ID Card,12,5,1,40.09
+33,1,5.88,Scholarship,12,5,1,207.42
+34,4,4.44,Document Verification,17,6,0,43.26
+31,5,6.14,Bonafide Certificate,11,5,1,51.63
+23,3,5.06,Exam Form,15,0,1,54.08
+13,1,6.51,Enquiry,9,3,0,90.05
+31,5,2.92,Fee Payment,15,6,1,16.98
+15,5,9.98,Document Verification,10,1,0,36.44
+3,2,5.4,ID Card,14,4,0,12.67
+36,2,4.79,Document Verification,17,3,0,92.82
+20,1,7.68,Scholarship,14,0,0,157.62
+13,5,4.91,Exam Form,11,6,1,19.47
+30,2,8.67,Fee Payment,9,2,0,135.85
+17,3,5.63,Bonafide Certificate,12,5,1,40.5
+6,3,7.76,Scholarship,12,5,1,29.81
+9,5,2.86,Fee Payment,16,3,1,11.46
+6,2,8.77,Enquiry,15,5,1,39.97
+32,1,7.89,ID Card,15,5,1,266.35
+22,1,3.69,Fee Payment,15,3,1,91.45
+20,1,3.16,Document Verification,10,3,0,68.39
+18,3,4.53,Enquiry,17,6,0,33.59
+18,2,9.81,Exam Form,14,0,0,96.85
+35,2,4.05,Bonafide Certificate,10,0,0,76.91
+28,3,5.65,Exam Form,9,5,0,63.9
+17,1,2.24,Document Verification,9,6,0,49.79
+1,1,5.18,Bonafide Certificate,9,3,0,5.17
+0,5,6.57,Bonafide Certificate,12,3,1,5.8
+4,4,9.62,Scholarship,12,5,1,18.5
+19,2,6.13,Bonafide Certificate,17,1,0,57.26
+10,2,8.55,Fee Payment,9,2,0,46.51
+1,2,6.38,Exam Form,11,4,1,17.59
+2,4,2.33,ID Card,11,4,1,11.08
+22,5,4.52,ID Card,16,5,1,27.75
+11,4,6.6,Exam Form,10,6,0,29.67
+19,1,9.6,Scholarship,14,4,0,190.05
+4,1,8.87,Bonafide Certificate,12,0,1,46.86
+36,2,3.83,Document Verification,14,6,0,79.5
+37,3,3.76,Enquiry,13,6,1,53.89
+29,2,3.61,Enquiry,17,0,0,63.58
+8,3,9.38,Fee Payment,17,1,0,27.22
+33,4,8.82,Scholarship,9,5,0,87.77
+34,1,8.2,Enquiry,11,0,1,282.87
+21,3,5.14,Bonafide Certificate,9,5,0,43.06
+23,4,6.04,ID Card,14,5,0,37.13
+16,1,5.71,Document Verification,11,6,1,106.91
+9,3,4.03,Bonafide Certificate,9,3,0,15.17
+29,2,6.04,Scholarship,14,2,0,95.75
+22,2,2.24,Document Verification,13,2,1,33.08
+31,2,3.05,Enquiry,16,5,1,59.09
+16,4,9.09,Document Verification,10,2,0,39.75
+16,2,8.01,Document Verification,16,2,1,81.84
+13,5,5.38,Document Verification,13,4,1,21.01
+8,1,6.14,Enquiry,16,6,1,51.72
+39,4,4.96,Bonafide Certificate,12,4,1,62.17
+1,2,7.93,Document Verification,12,3,1,12.6
+24,1,8.27,Bonafide Certificate,12,1,1,208.53
+38,3,8.11,Document Verification,14,6,0,107.39
+8,2,7.78,Document Verification,12,0,1,36.87
+21,1,3.64,Scholarship,17,0,0,83.05
+3,5,4.7,Bonafide Certificate,17,4,0,12.88
+25,3,5.76,ID Card,11,5,1,62.0
+28,5,4.65,Bonafide Certificate,15,2,1,36.95
+33,1,8.04,Exam Form,13,3,1,281.75
+22,5,4.63,Enquiry,17,1,0,19.16
+36,1,3.11,ID Card,10,4,0,115.51
+10,1,5.19,Scholarship,11,5,1,65.51
+5,5,9.84,Bonafide Certificate,13,3,1,19.32
+17,1,3.81,Scholarship,13,5,1,75.73
+20,2,6.9,ID Card,15,3,1,74.17
+35,1,5.46,Scholarship,16,4,1,194.91
+40,4,2.57,Scholarship,16,3,1,40.95
+37,1,5.9,Fee Payment,9,6,0,223.38
+33,4,7.62,Bonafide Certificate,9,2,0,71.45
+16,1,6.11,Scholarship,11,3,1,107.94
+36,1,8.98,Fee Payment,9,1,0,324.32
+24,5,4.31,Fee Payment,9,3,0,24.72
+37,2,2.69,Document Verification,16,6,1,64.18
+11,2,9.49,Document Verification,9,0,0,57.28
+22,3,5.03,Enquiry,17,6,0,43.06
+21,5,6.61,ID Card,10,3,0,28.74
+20,5,8.34,Bonafide Certificate,17,5,0,37.7
+26,2,4.59,Document Verification,15,4,1,70.45
+30,5,7.73,ID Card,17,0,0,56.28
+5,2,3.08,Bonafide Certificate,11,4,1,18.54
+26,5,4.33,ID Card,9,5,0,34.5
+39,1,3.16,Enquiry,9,1,0,120.76
+33,2,8.49,Enquiry,14,2,0,143.6
+11,2,3.78,Fee Payment,15,1,1,30.51
+6,4,7.74,Fee Payment,17,0,0,18.09
+9,5,9.55,Bonafide Certificate,14,5,0,18.93
+16,5,6.22,ID Card,13,5,1,36.65
+25,2,6.32,ID Card,10,2,0,84.05
+20,1,5.69,Document Verification,10,3,0,115.42
+27,1,4.61,Document Verification,16,0,1,135.33
+1,1,5.81,Bonafide Certificate,9,2,0,9.55
+0,5,6.82,Exam Form,16,6,1,23.13
+35,4,9.89,Document Verification,15,6,1,101.72
+25,2,9.5,Scholarship,15,4,1,130.98
+28,3,8.9,Document Verification,13,2,1,93.59
+20,4,9.11,Exam Form,11,4,1,61.37
+10,3,5.74,ID Card,15,6,1,33.14
+39,4,7.26,Fee Payment,15,6,1,68.13
+10,1,9.16,Fee Payment,15,4,1,103.18
+35,5,5.14,ID Card,10,5,0,41.12
+38,3,9.69,Fee Payment,11,2,1,126.55
+39,4,5.33,Document Verification,11,5,1,66.45
+34,5,6.81,Enquiry,12,6,1,63.28
+33,3,7.68,Fee Payment,17,5,0,90.69
+23,2,9.6,Enquiry,9,1,0,117.86
+21,4,3.96,Exam Form,15,1,1,39.99
+4,2,7.97,Enquiry,15,5,1,20.62
+32,1,6.17,Exam Form,12,5,1,201.9
+35,2,4.15,Document Verification,9,4,0,81.23
+19,2,8.21,ID Card,11,5,1,87.03
+18,4,6.42,Scholarship,13,0,1,35.38
+34,1,7.29,Document Verification,10,2,0,253.47
+16,2,4.58,Fee Payment,15,0,1,48.58
+33,5,5.85,Document Verification,15,1,1,49.02
+8,3,6.94,Exam Form,13,0,1,27.36
+25,2,5.24,Document Verification,14,3,0,70.6
+1,1,3.59,Document Verification,9,3,0,9.51
+8,2,9.69,Scholarship,12,1,1,43.05
+8,3,6.09,Exam Form,12,0,1,27.67
+39,1,7.87,Bonafide Certificate,16,2,1,311.61
+16,4,5.29,Bonafide Certificate,10,1,0,28.79
+0,1,4.84,Exam Form,9,3,0,1.0
+24,4,5.26,Bonafide Certificate,15,1,1,45.59
+39,1,5.27,Fee Payment,14,0,0,208.03
+24,3,6.35,Bonafide Certificate,13,0,1,58.66
+38,3,6.35,Fee Payment,16,0,1,90.58
+34,1,5.98,Exam Form,10,4,0,206.76
+2,2,3.08,Bonafide Certificate,10,0,0,9.19
+36,3,5.97,Bonafide Certificate,17,5,0,73.69
+29,4,3.35,ID Card,9,3,0,27.08
+37,4,3.01,Enquiry,14,6,0,32.46
+33,5,9.46,Fee Payment,11,3,1,66.89
+11,4,6.84,Fee Payment,13,4,1,22.75
+18,5,7.28,Document Verification,16,3,1,38.19
+36,1,5.21,Scholarship,15,3,1,199.61
+16,1,9.27,Bonafide Certificate,12,1,1,159.02
+9,1,7.1,ID Card,16,6,1,75.24
+11,2,8.15,Scholarship,10,6,0,52.07
+15,2,4.95,Enquiry,15,0,1,47.55
+23,5,9.68,Enquiry,13,5,1,52.92
+18,4,8.56,ID Card,14,5,0,35.51
+7,4,8.83,Scholarship,11,1,1,20.46
+30,1,3.38,Bonafide Certificate,15,5,1,119.04
+20,3,4.17,Enquiry,15,1,1,35.78
+16,2,4.29,ID Card,10,6,0,43.08
+22,2,4.17,Fee Payment,9,6,0,48.46
+36,1,8.84,Document Verification,10,6,0,324.13
+15,2,2.26,ID Card,16,5,1,25.1
+5,1,2.61,Exam Form,11,3,1,34.91
+7,5,4.19,Enquiry,12,6,1,14.88
+24,4,3.6,Enquiry,16,2,1,27.45
+17,3,3.85,Bonafide Certificate,11,0,1,25.24
+24,4,8.38,Bonafide Certificate,14,2,0,63.2
+11,4,6.51,Exam Form,10,3,0,24.24
+14,5,2.05,Enquiry,11,4,1,16.71
+25,2,5.43,Scholarship,9,1,0,78.36
+40,3,5.26,Document Verification,17,5,0,74.32
+25,2,2.91,Scholarship,12,5,1,51.08
+31,4,7.41,Exam Form,14,3,0,62.0
+9,1,7.62,Exam Form,15,5,1,76.59
+15,4,7.77,Document Verification,10,3,0,39.78
+6,2,7.83,Exam Form,16,2,1,34.85
+16,4,2.0,Exam Form,17,4,0,17.08
+22,1,9.63,Enquiry,10,1,0,216.53
+25,5,8.51,ID Card,13,5,1,55.12
+20,2,9.23,Enquiry,10,4,0,89.09
+21,4,2.13,Document Verification,13,4,1,19.82
+6,2,9.47,Bonafide Certificate,15,4,1,37.11
+13,5,8.48,Scholarship,14,0,0,25.72
+14,4,8.7,Bonafide Certificate,12,4,1,42.16
+6,4,2.75,Bonafide Certificate,10,6,0,13.87
+8,2,7.91,ID Card,15,3,1,47.02
+7,2,9.68,Scholarship,17,0,0,39.52
+22,1,7.43,Bonafide Certificate,9,6,0,169.59
+28,5,6.56,Document Verification,11,0,1,49.54
+17,1,9.57,Scholarship,15,4,1,177.09
+30,4,5.54,Fee Payment,17,5,0,42.06
+29,2,6.79,ID Card,13,5,1,115.8
+38,4,5.81,Bonafide Certificate,15,5,1,68.91
+34,4,9.46,Exam Form,15,5,1,96.24
+17,3,2.61,Scholarship,12,3,1,31.6
+38,3,6.01,Fee Payment,13,5,1,87.25
+16,4,7.5,Exam Form,10,1,0,32.87
+13,2,8.34,Fee Payment,16,4,1,62.62
+30,4,6.66,Bonafide Certificate,9,0,0,48.38
+23,3,9.27,Exam Form,10,1,0,79.74
+34,2,9.54,Bonafide Certificate,11,5,1,171.43
+33,4,2.51,Exam Form,15,1,1,32.58
+2,5,5.22,Scholarship,14,0,0,13.9
+36,5,2.19,Enquiry,15,5,1,21.92
+39,4,4.64,Document Verification,13,1,1,55.19
+25,2,6.29,Enquiry,12,3,1,86.77
+22,4,9.29,Document Verification,15,3,1,54.72
+38,4,8.77,Enquiry,11,4,1,90.27
+14,3,3.02,Fee Payment,15,4,1,13.15
+3,5,2.74,ID Card,10,6,0,4.3
+28,3,6.71,Exam Form,16,1,1,78.09
+21,3,6.26,Bonafide Certificate,14,0,0,50.59
+24,4,4.13,ID Card,11,3,1,32.41
+12,3,9.2,Scholarship,11,2,1,48.95
+17,5,9.42,Scholarship,13,4,1,39.72
+32,3,5.22,Scholarship,11,6,1,67.68
+15,5,9.12,Document Verification,14,3,0,45.09
+1,3,5.07,Bonafide Certificate,10,6,0,14.07
+34,5,7.89,Scholarship,16,5,1,65.89
+33,3,5.81,Scholarship,17,1,0,71.52
+29,3,2.98,Enquiry,15,6,1,32.89
+12,2,9.42,Fee Payment,11,3,1,62.33
+12,5,5.63,Exam Form,12,3,1,26.97
+17,5,7.88,Exam Form,10,1,0,31.68
+31,5,4.94,Exam Form,17,4,0,41.23
+31,1,2.15,ID Card,13,4,1,82.96
+34,3,2.8,Enquiry,10,2,0,36.11
+38,5,5.97,Enquiry,14,2,0,48.78
+28,1,7.52,Fee Payment,15,4,1,212.83
+28,2,4.68,Document Verification,10,4,0,74.48
+15,5,7.56,ID Card,9,6,0,23.12
+9,5,7.59,Fee Payment,15,4,1,20.99
+29,1,7.63,Scholarship,9,4,0,232.15
+24,3,5.94,Bonafide Certificate,11,3,1,61.64
+38,2,9.32,ID Card,12,2,1,185.2
+19,5,5.91,ID Card,10,1,0,25.84
+4,3,5.6,Scholarship,15,0,1,16.67
+0,2,3.6,Scholarship,13,1,1,7.21
+29,4,4.46,Bonafide Certificate,9,5,0,34.8
+2,4,2.34,Exam Form,16,0,1,6.72
+13,2,7.07,ID Card,15,3,1,58.68
+29,1,3.99,Fee Payment,12,5,1,126.24
+3,2,4.43,Document Verification,10,2,0,14.89
+17,2,8.17,Scholarship,15,0,1,77.6
+36,1,4.62,Scholarship,10,4,0,168.46
+24,1,3.94,Document Verification,14,5,0,100.72
+0,3,3.35,Fee Payment,9,3,0,4.26
+14,3,8.2,Scholarship,15,0,1,49.67
+8,1,3.04,Document Verification,15,4,1,34.14
+14,4,5.63,Enquiry,12,5,1,34.55
+23,4,6.06,Scholarship,12,3,1,48.52
+3,2,7.5,Exam Form,13,5,1,31.13
+11,5,7.07,Exam Form,10,0,0,27.62
+36,2,8.49,Scholarship,17,4,0,166.56
+36,2,2.36,Enquiry,12,2,1,46.15
+5,5,4.37,Scholarship,17,6,0,13.74
+38,1,4.24,Exam Form,11,3,1,171.43
+23,4,3.17,Enquiry,17,0,0,14.56
+10,2,4.31,Scholarship,9,4,0,34.55
+12,5,4.48,Enquiry,15,2,1,17.57
+33,3,6.18,Fee Payment,12,5,1,72.71
+24,2,7.31,Fee Payment,15,4,1,95.06
+6,4,5.05,Bonafide Certificate,14,6,0,9.39
+3,1,7.76,Fee Payment,12,2,1,29.49
+7,2,4.69,ID Card,12,0,1,25.53
+19,2,4.32,Enquiry,16,4,1,55.98
+28,5,6.33,ID Card,15,6,1,42.78
+9,3,2.19,ID Card,12,4,1,23.21
+33,3,2.64,Scholarship,14,1,0,39.42
+25,1,5.34,Scholarship,14,3,0,142.18
+40,4,9.54,Document Verification,9,4,0,104.43
+2,1,7.77,Enquiry,10,6,0,18.6
+5,2,2.71,ID Card,12,2,1,21.91
+4,2,8.77,ID Card,14,3,0,24.81
+4,3,7.86,Fee Payment,14,0,0,7.82
+22,4,6.89,Exam Form,9,6,0,46.07
+8,5,8.56,Enquiry,16,3,1,24.84
+34,4,5.23,Exam Form,10,1,0,50.32
+19,2,3.77,Enquiry,13,0,1,44.34
+34,5,6.1,Enquiry,12,4,1,47.0
+17,4,6.39,Bonafide Certificate,13,6,1,31.65
+16,4,6.31,Document Verification,13,5,1,30.02
+23,5,6.52,Exam Form,16,0,1,35.85
+2,2,9.59,Bonafide Certificate,15,6,1,22.27
+31,4,9.22,Fee Payment,17,0,0,65.48
+34,5,9.01,Document Verification,9,1,0,64.57
+37,2,8.41,Document Verification,14,2,0,158.55
+12,5,9.55,ID Card,14,0,0,26.79
+24,5,2.79,Enquiry,10,6,0,8.96
+8,4,4.12,Enquiry,16,2,1,17.86
+3,2,5.96,Scholarship,14,3,0,10.85
+13,4,8.77,Enquiry,17,5,0,36.04
+36,1,6.04,Enquiry,13,1,1,223.0
+33,1,7.98,Enquiry,15,4,1,271.1
+10,2,3.11,ID Card,14,6,0,20.57
+40,5,4.02,Fee Payment,13,6,1,42.13
+2,4,7.85,Enquiry,14,6,0,7.08
+27,4,3.32,ID Card,12,0,1,30.69
+28,2,4.81,Document Verification,11,5,1,79.72
+8,2,4.12,ID Card,9,5,0,23.34
+2,1,4.8,Enquiry,9,2,0,9.54
+24,3,7.67,Bonafide Certificate,14,0,0,68.04
+33,2,4.94,ID Card,17,6,0,91.32
+11,3,6.44,Exam Form,16,5,1,38.44
+8,2,2.8,Fee Payment,10,6,0,18.93
+14,5,8.44,Fee Payment,17,6,0,28.32
+39,5,4.96,Document Verification,16,6,1,45.94
+24,1,7.19,ID Card,17,1,0,174.28
+4,1,7.8,Document Verification,12,4,1,43.49
+10,3,3.68,Document Verification,17,3,0,22.03
+33,2,9.08,Bonafide Certificate,10,3,0,165.92
+23,4,6.93,Scholarship,9,2,0,50.77
+14,1,5.43,Document Verification,17,5,0,77.34
+37,4,3.46,Scholarship,16,3,1,40.92
+7,4,9.54,Scholarship,15,2,1,37.81
+4,2,8.04,Fee Payment,16,4,1,24.22
+25,3,3.66,Exam Form,9,6,0,37.73
+17,2,4.7,Exam Form,17,0,0,43.12
+5,1,8.48,ID Card,17,1,0,53.65
+36,4,7.57,Bonafide Certificate,17,4,0,75.09
+12,2,8.13,Bonafide Certificate,14,4,0,50.66
+27,2,5.53,Exam Form,12,3,1,82.67
+4,2,7.73,ID Card,10,3,0,21.69
+12,1,5.09,Enquiry,12,1,1,69.28
+16,3,3.69,Exam Form,15,0,1,35.01
+39,2,7.06,ID Card,9,4,0,144.89
+31,1,9.81,ID Card,17,5,0,307.99
+28,4,4.48,ID Card,11,3,1,39.22
+2,5,5.69,ID Card,12,4,1,11.64
+39,1,7.39,Fee Payment,13,0,1,295.09
+33,5,6.33,Fee Payment,11,2,1,50.27
+39,2,8.75,Exam Form,12,0,1,182.64
+26,2,8.09,ID Card,13,4,1,111.63
+12,1,2.47,Document Verification,9,4,0,38.12
+32,5,9.99,ID Card,17,1,0,67.44
+5,2,8.02,Document Verification,12,4,1,27.68
+23,4,8.91,Fee Payment,17,3,0,53.83
+18,3,7.21,ID Card,12,5,1,54.23
+15,3,8.85,Scholarship,9,1,0,51.58
+39,2,2.9,Exam Form,13,4,1,70.22
+27,5,4.78,ID Card,17,0,0,34.42
+32,2,9.01,Bonafide Certificate,11,4,1,159.4
+40,5,3.61,Document Verification,13,0,1,41.05
+12,4,2.63,Enquiry,11,0,1,11.6
+24,5,8.3,Enquiry,11,4,1,46.79
+35,2,8.68,ID Card,9,0,0,152.95
+26,4,3.3,Scholarship,10,5,0,35.25
+37,1,8.83,Document Verification,10,2,0,340.84
+6,3,7.49,Scholarship,17,1,0,24.59
+4,2,6.16,Enquiry,15,4,1,23.76
+30,2,8.64,Exam Form,16,6,1,142.63
+22,2,5.35,Enquiry,10,2,0,63.36
+9,4,3.55,Exam Form,17,0,0,8.6
+31,1,4.28,Exam Form,11,0,1,144.35
+29,5,6.04,Fee Payment,10,1,0,35.51
+38,1,6.25,Enquiry,9,2,0,241.65
+30,4,8.44,Enquiry,17,2,0,66.1
+17,2,8.33,Scholarship,16,4,1,90.6
+35,3,6.65,ID Card,12,0,1,91.26
+1,2,8.25,Bonafide Certificate,15,6,1,15.26
+13,5,3.53,Bonafide Certificate,11,3,1,18.12
+12,3,2.4,Exam Form,11,6,1,28.31
+28,2,8.99,Bonafide Certificate,12,4,1,135.73
+11,3,2.6,Document Verification,10,4,0,16.88
+38,1,3.97,Scholarship,12,4,1,163.16
+1,4,7.56,Scholarship,11,1,1,12.27
+31,2,5.28,Scholarship,16,1,1,93.92
+12,5,9.01,Document Verification,10,4,0,19.78
+26,1,4.38,ID Card,17,5,0,112.79
+40,2,2.09,Fee Payment,11,3,1,52.3
+16,1,4.41,Document Verification,12,2,1,87.76
+39,5,6.62,Scholarship,11,2,1,65.06
+30,2,5.01,Scholarship,11,0,1,84.23
+33,5,6.28,Enquiry,16,2,1,43.67
+23,3,9.01,Scholarship,16,6,1,84.24
+34,5,9.3,ID Card,14,2,0,65.97
+5,3,4.13,Bonafide Certificate,12,3,1,19.45
+18,2,5.7,Fee Payment,9,2,0,56.83
+29,3,6.39,Document Verification,12,6,1,74.71
+6,2,9.59,Scholarship,16,3,1,40.91
+9,2,9.99,Enquiry,14,1,0,49.48
+40,4,3.88,Enquiry,10,3,0,41.35
+31,2,7.82,Exam Form,11,1,1,130.6
+33,3,5.02,Fee Payment,15,3,1,60.41
+27,4,2.06,Enquiry,12,4,1,12.4
+14,4,2.07,Exam Form,12,6,1,18.53
+29,2,5.68,Fee Payment,13,5,1,97.5
+36,5,5.91,Scholarship,16,1,1,57.45
+28,5,2.18,Fee Payment,15,1,1,22.12
+21,4,7.5,Fee Payment,17,2,0,40.41
+3,2,4.35,Scholarship,13,1,1,22.52
+19,5,6.48,ID Card,9,3,0,29.14
+31,2,4.41,Enquiry,12,4,1,82.61
+35,2,3.34,Exam Form,14,4,0,61.47
+3,4,5.26,ID Card,14,2,0,5.94
+26,4,3.86,Exam Form,17,3,0,28.69
+16,1,6.28,Bonafide Certificate,13,3,1,104.53
+11,5,3.59,Enquiry,13,0,1,12.15
+21,5,6.07,Exam Form,14,1,0,32.9
+16,5,3.26,Exam Form,14,2,0,14.58
+9,3,7.37,Fee Payment,11,4,1,15.68
+0,2,8.03,Bonafide Certificate,14,6,0,9.3
+21,4,2.88,Scholarship,16,5,1,20.4
+25,5,5.74,Scholarship,14,0,0,38.07
+17,1,2.57,Document Verification,13,3,1,54.76
+13,5,6.79,Bonafide Certificate,11,1,1,36.11
+28,2,4.12,Fee Payment,9,4,0,65.6
+11,2,6.22,Document Verification,13,6,1,43.2
+35,4,6.14,Document Verification,14,0,0,56.91
+34,3,9.39,Scholarship,14,3,0,119.49
+11,4,6.39,Exam Form,14,4,0,18.68
+6,5,6.66,Fee Payment,11,4,1,17.76
+28,1,5.21,Bonafide Certificate,12,3,1,155.45
+10,4,9.59,Document Verification,11,3,1,33.61
+32,3,8.22,Fee Payment,10,2,0,93.07
+5,4,4.28,Scholarship,16,4,1,18.11
+14,2,8.75,Document Verification,15,3,1,74.11
+31,5,5.46,Document Verification,16,5,1,45.4
+10,5,8.63,ID Card,14,6,0,23.93
+22,5,8.58,Scholarship,15,6,1,50.14
+25,5,3.51,ID Card,9,5,0,19.92
+33,5,7.61,Scholarship,13,6,1,62.24
+33,5,4.33,Scholarship,12,0,1,37.69
+28,1,4.38,ID Card,11,6,1,129.52
+3,3,4.37,Enquiry,10,1,0,6.03
+16,5,7.8,Fee Payment,17,6,0,28.5
+34,3,3.84,Fee Payment,16,5,1,52.65
+12,5,2.01,Enquiry,10,2,0,11.48
+40,4,7.72,Fee Payment,14,3,0,79.23
+38,5,3.37,Exam Form,11,1,1,38.4
+14,2,2.84,Document Verification,11,2,1,31.32
+28,1,3.9,Fee Payment,13,4,1,115.77
+28,4,5.04,Exam Form,15,1,1,47.57
+10,4,5.81,Document Verification,15,5,1,29.53
+31,2,2.36,Fee Payment,9,2,0,41.27
+1,5,9.76,Scholarship,15,3,1,14.86
+13,1,7.73,Enquiry,15,3,1,105.65
+19,4,4.59,Bonafide Certificate,14,6,0,34.66
+21,1,4.55,Fee Payment,14,2,0,96.95
+10,4,5.59,Bonafide Certificate,10,4,0,12.3
+26,5,7.01,Fee Payment,11,6,1,48.89
+2,4,3.17,Scholarship,11,5,1,13.13
+16,4,3.51,Enquiry,11,2,1,20.83
+27,3,8.88,Enquiry,10,0,0,80.7
+28,5,4.05,Bonafide Certificate,17,2,0,35.17
+20,2,5.04,Exam Form,14,2,0,58.83
+15,2,8.97,Scholarship,10,5,0,76.48
+36,5,7.31,Bonafide Certificate,11,3,1,63.25
+19,2,4.73,Bonafide Certificate,14,6,0,51.05
+5,5,7.47,ID Card,12,4,1,23.06
+18,2,2.16,ID Card,15,6,1,28.41
+4,3,7.89,Scholarship,14,2,0,11.69
+2,2,5.9,Scholarship,14,1,0,16.37
+0,4,8.51,Scholarship,11,3,1,13.99
+37,5,9.64,Document Verification,16,3,1,82.75
+14,1,9.41,Exam Form,17,2,0,140.57
+33,1,9.27,Fee Payment,14,5,0,308.56
+34,5,6.1,ID Card,10,1,0,46.54
+24,3,4.88,Enquiry,9,2,0,41.52
+23,2,5.72,Enquiry,11,1,1,71.42
+11,3,7.52,Bonafide Certificate,11,3,1,42.33
+17,1,9.07,ID Card,16,1,1,158.57
+14,5,3.66,Fee Payment,13,6,1,28.68
+15,5,9.35,Scholarship,9,2,0,38.55
+26,3,8.52,Enquiry,12,0,1,74.74
+7,3,9.83,ID Card,15,0,1,32.04
+24,2,9.04,Exam Form,13,1,1,119.83
+16,4,4.24,Exam Form,14,5,0,25.53
+28,4,2.85,Document Verification,12,2,1,26.98
+7,2,2.9,ID Card,10,4,0,15.27
+14,4,4.33,Scholarship,17,0,0,21.67
+26,1,6.91,Bonafide Certificate,10,3,0,181.8
+6,4,8.43,Document Verification,10,6,0,15.14
+2,2,9.19,Scholarship,10,2,0,19.87
+28,4,6.99,Document Verification,9,2,0,48.14
+23,5,2.05,ID Card,11,6,1,21.32
+2,3,3.49,Fee Payment,14,0,0,9.52
+19,1,2.8,Enquiry,15,6,1,60.28
+14,5,4.91,ID Card,9,6,0,18.95
+24,5,6.01,Scholarship,13,4,1,45.51
+29,2,2.35,Bonafide Certificate,13,6,1,41.21
+13,3,4.79,Bonafide Certificate,9,3,0,23.34
+6,3,3.43,Scholarship,12,4,1,16.88
+16,1,7.18,Document Verification,9,3,0,125.49
+19,2,5.71,Exam Form,9,0,0,66.45
+35,1,5.96,Scholarship,15,2,1,215.11
+8,4,5.42,Enquiry,15,3,1,22.87
+37,5,9.65,ID Card,11,2,1,84.67
+21,1,3.72,Bonafide Certificate,15,1,1,94.29
+1,5,6.13,Fee Payment,11,1,1,11.77
+23,2,7.89,Bonafide Certificate,10,0,0,95.54
+7,4,6.45,Exam Form,12,0,1,27.88
+10,2,9.43,Bonafide Certificate,11,5,1,59.96
+12,4,5.02,Exam Form,15,0,1,36.05
+16,4,5.71,Enquiry,9,1,0,29.67
+7,5,2.71,Scholarship,14,3,0,11.41
+20,2,6.87,Bonafide Certificate,10,6,0,69.02
+17,2,4.31,Document Verification,16,6,1,45.27
+29,1,3.28,ID Card,13,6,1,99.45
+17,2,6.36,Document Verification,11,4,1,64.17
+30,1,6.26,ID Card,15,6,1,201.46
+37,3,2.61,Bonafide Certificate,10,0,0,37.14
+31,3,7.59,Enquiry,13,6,1,90.47
+10,3,6.99,Bonafide Certificate,16,4,1,34.65
+24,2,3.51,ID Card,9,4,0,45.53
+32,2,5.76,Enquiry,9,1,0,95.44
+37,1,7.76,Fee Payment,11,5,1,298.1
+40,4,6.24,Enquiry,11,3,1,70.91
+7,1,5.16,Bonafide Certificate,15,1,1,46.75
+10,3,4.58,Fee Payment,14,0,0,16.19
+21,1,6.88,Fee Payment,15,1,1,151.81
+23,4,9.51,ID Card,12,1,1,73.73
+40,2,7.37,Fee Payment,10,1,0,156.39
+16,1,2.6,Fee Payment,10,0,0,39.67
+11,3,5.69,Scholarship,9,0,0,18.38
+31,3,9.13,Enquiry,17,1,0,97.61
+14,2,2.76,Document Verification,15,1,1,33.86
+15,1,9.91,Fee Payment,11,4,1,155.59
+21,4,9.59,Document Verification,10,3,0,60.45
+27,2,2.63,Fee Payment,11,4,1,44.69
+19,1,9.47,Document Verification,15,5,1,190.23
+32,5,4.91,Bonafide Certificate,13,3,1,44.42
+9,3,8.76,Bonafide Certificate,11,5,1,34.15
+39,4,5.35,Document Verification,17,3,0,56.99
+31,4,5.53,Enquiry,10,1,0,48.51
+32,4,7.07,Fee Payment,15,4,1,65.47
+1,3,8.2,Scholarship,14,3,0,17.37
+32,1,2.27,Enquiry,14,5,0,78.43
+32,2,6.75,Document Verification,15,3,1,121.44
+40,1,3.49,Enquiry,14,0,0,142.56
+12,2,4.77,Exam Form,10,3,0,39.1
+29,4,4.78,Scholarship,13,6,1,45.39
+32,1,5.75,Exam Form,11,1,1,197.21
+12,4,4.67,Document Verification,17,2,0,16.35
+25,5,2.86,Fee Payment,16,0,1,27.45
+21,4,3.17,Enquiry,10,2,0,20.78
+38,4,2.27,Enquiry,9,1,0,32.47
+1,2,5.76,Exam Form,12,6,1,24.45
+37,5,9.64,Enquiry,12,2,1,82.36
+38,4,2.93,Document Verification,10,3,0,34.07
+25,4,9.57,Scholarship,15,2,1,68.03
+14,5,7.87,Fee Payment,11,4,1,34.65
+33,5,7.1,Exam Form,15,1,1,59.7
+39,1,7.16,Enquiry,15,4,1,289.48
+10,2,8.61,Document Verification,9,2,0,55.99
+2,5,2.86,Fee Payment,14,6,0,1.84
+5,5,6.04,Fee Payment,12,4,1,11.34
+8,3,7.58,Bonafide Certificate,16,0,1,29.26
+5,5,6.69,Fee Payment,16,2,1,18.98
+8,2,8.66,Document Verification,11,5,1,47.87
+38,4,2.58,Scholarship,12,4,1,32.91
+30,4,7.53,ID Card,9,3,0,64.47
+31,4,6.27,Bonafide Certificate,10,2,0,48.8
+40,4,5.03,Document Verification,15,6,1,57.98
+11,3,4.72,Document Verification,15,5,1,27.85
+7,5,6.97,Document Verification,17,6,0,13.54
+7,4,9.13,Exam Form,17,0,0,26.53
+27,1,5.97,Enquiry,17,3,0,165.32
+19,4,8.6,Exam Form,14,2,0,54.9
+6,5,5.22,Scholarship,16,6,1,17.27
+10,4,2.82,Document Verification,17,3,0,12.56
+19,3,2.49,Enquiry,15,2,1,28.62
+15,2,2.41,Exam Form,12,2,1,29.72
+3,2,5.04,Exam Form,12,1,1,25.54
+5,5,4.7,Exam Form,14,4,0,13.86
+21,2,7.74,Scholarship,12,2,1,83.9
+25,2,7.94,Scholarship,15,0,1,115.99
+2,1,2.41,Document Verification,16,5,1,19.46
+40,5,3.77,Bonafide Certificate,16,4,1,43.96
+13,5,4.19,Document Verification,16,1,1,14.26
+10,2,6.38,Exam Form,10,4,0,36.25
+17,2,3.16,ID Card,10,4,0,29.47
+11,2,3.07,Enquiry,10,2,0,16.53
+22,3,9.55,Exam Form,10,0,0,84.0
+11,4,8.43,Fee Payment,12,2,1,32.15
+12,3,3.45,ID Card,13,6,1,23.63
+24,5,5.25,ID Card,12,0,1,37.42
+18,1,4.84,Enquiry,13,6,1,97.49
+35,4,8.33,Document Verification,12,0,1,70.53
+7,1,6.08,Exam Form,15,3,1,51.99
+28,5,3.02,Exam Form,9,2,0,18.28
+31,5,7.91,Bonafide Certificate,9,6,0,55.66
+17,1,5.18,Fee Payment,10,1,0,90.82
+5,1,4.1,Document Verification,9,5,0,26.58
+17,1,5.0,Scholarship,11,4,1,88.75
+18,5,5.98,Document Verification,14,3,0,26.3
+21,2,4.74,ID Card,14,6,0,59.28
+36,1,3.94,Document Verification,9,1,0,153.31
+31,4,5.19,Bonafide Certificate,14,5,0,48.08
+40,5,2.15,Document Verification,13,5,1,22.89
+2,3,8.18,Bonafide Certificate,15,2,1,20.49
+27,3,3.37,ID Card,14,0,0,38.2
+9,4,2.35,Bonafide Certificate,15,6,1,14.82
+34,2,7.23,Enquiry,10,2,0,117.8
+28,1,8.19,Enquiry,9,5,0,236.18
+14,5,8.51,Exam Form,15,2,1,33.46
+32,1,5.95,Scholarship,17,3,0,198.72
+6,5,3.64,ID Card,10,6,0,9.65
+11,3,7.9,Bonafide Certificate,15,1,1,45.11
+29,1,7.6,Fee Payment,11,5,1,228.83
+20,4,3.97,ID Card,14,6,0,24.79
+30,2,9.23,Fee Payment,11,3,1,153.72
+23,4,2.83,Scholarship,13,1,1,25.67
+19,2,9.86,Bonafide Certificate,10,3,0,101.94
+36,1,8.88,ID Card,16,4,1,328.96
+3,1,7.5,ID Card,16,0,1,28.5
+27,2,9.51,Scholarship,15,0,1,140.39
+19,3,7.78,Exam Form,14,0,0,59.03
+23,5,3.52,Fee Payment,9,4,0,25.62
+31,4,5.54,ID Card,16,5,1,58.81
+40,4,2.57,Document Verification,9,5,0,30.54
+35,4,5.12,Fee Payment,16,4,1,49.83
+33,1,7.93,Bonafide Certificate,10,0,0,265.51
+35,4,5.09,Scholarship,16,0,1,51.82
+1,5,4.64,Fee Payment,12,1,1,9.06
+14,5,6.76,Document Verification,15,1,1,28.57
+33,2,8.98,Enquiry,13,2,1,159.04
+35,1,2.38,Document Verification,16,6,1,85.5
+5,5,5.08,Scholarship,14,6,0,9.15
+38,3,3.27,Scholarship,13,6,1,50.47
+11,1,7.56,Enquiry,9,3,0,90.94
+2,1,2.85,Fee Payment,11,1,1,10.24
+17,5,7.32,Bonafide Certificate,17,1,0,30.79
+39,3,4.29,Exam Form,17,1,0,62.25
+20,2,3.59,Document Verification,13,1,1,51.09
+14,5,9.49,Scholarship,11,4,1,40.96
+32,3,2.15,Exam Form,14,2,0,30.4
+34,1,5.5,Exam Form,13,1,1,196.86
+25,3,2.17,Exam Form,9,5,0,17.7
+7,1,5.87,Bonafide Certificate,10,3,0,47.07
+35,5,6.01,Scholarship,13,6,1,56.18
+29,5,4.57,Document Verification,17,1,0,26.23
+22,4,3.06,Scholarship,12,4,1,23.88
+13,4,5.01,Fee Payment,17,5,0,21.3
+13,4,7.38,Document Verification,11,6,1,36.34
+1,5,8.26,Scholarship,9,0,0,4.69
+36,2,6.25,Document Verification,14,0,0,116.13
+4,5,6.72,Fee Payment,15,6,1,7.03
+37,3,3.6,ID Card,12,2,1,59.97
+40,5,4.3,Document Verification,13,0,1,40.19
+13,5,3.3,ID Card,12,1,1,20.74
+38,1,3.99,Exam Form,11,6,1,163.65
+24,1,3.8,Enquiry,9,4,0,99.34
+19,1,6.16,Bonafide Certificate,14,2,0,118.79
+1,5,6.5,Fee Payment,13,5,1,10.55
+38,2,9.56,Document Verification,9,1,0,180.84
+5,3,3.56,Fee Payment,13,0,1,7.19
+16,3,7.13,Exam Form,14,3,0,47.43
+24,2,8.54,ID Card,13,1,1,105.32
+27,2,6.48,Bonafide Certificate,9,3,0,91.59
+1,3,4.04,Fee Payment,13,5,1,14.39
+34,4,4.1,ID Card,9,3,0,42.84
+36,1,2.31,Exam Form,11,5,1,92.65
+4,1,4.44,Exam Form,10,2,0,18.42
+0,3,7.96,Exam Form,9,4,0,9.04
+39,2,2.38,Enquiry,12,0,1,59.78
+11,4,3.75,ID Card,10,0,0,12.68
+35,3,7.65,Document Verification,13,1,1,97.04
+22,1,8.26,Scholarship,9,6,0,186.65
+30,5,5.64,Fee Payment,9,0,0,40.14
+10,2,7.58,Enquiry,12,2,1,50.84
+9,5,5.1,Scholarship,15,0,1,16.23
+2,3,3.28,Exam Form,10,1,0,3.19
+13,1,5.19,Scholarship,10,0,0,83.77
+15,4,6.64,ID Card,9,4,0,29.19
+9,5,9.58,Exam Form,13,5,1,30.26
+28,4,2.55,Enquiry,14,3,0,18.08
+9,1,6.06,Exam Form,14,3,0,63.49
+11,5,4.63,Bonafide Certificate,10,5,0,19.03
+29,4,6.07,Bonafide Certificate,15,3,1,55.18
+40,4,2.19,Enquiry,14,4,0,31.88
+0,5,4.5,ID Card,16,2,1,8.69
+4,1,8.56,ID Card,14,1,0,38.18
+19,4,6.43,Scholarship,17,4,0,38.48
+7,3,5.6,Enquiry,10,1,0,17.94
+11,5,4.28,Fee Payment,15,2,1,19.34
+0,2,4.38,Enquiry,13,4,1,2.86
+19,2,5.06,Scholarship,9,0,0,56.37
+27,1,8.68,ID Card,11,6,1,242.99
+36,3,9.74,Fee Payment,12,2,1,123.53
+36,4,5.51,Enquiry,10,3,0,52.71
+11,2,5.15,Scholarship,15,4,1,36.46
+36,1,8.77,Document Verification,9,2,0,317.27
+27,3,5.42,Document Verification,11,2,1,49.28
+14,3,6.42,Fee Payment,17,4,0,40.93
+5,1,3.85,Bonafide Certificate,10,3,0,26.46
+19,1,7.95,Fee Payment,13,5,1,159.55
+13,4,6.26,Scholarship,12,3,1,29.66
+1,1,8.47,Exam Form,11,2,1,8.97
+8,4,8.25,Document Verification,13,1,1,24.58
+36,4,3.72,Exam Form,14,5,0,43.34
+19,5,7.73,Document Verification,9,5,0,39.12
+25,3,8.4,Scholarship,10,2,0,79.57
+28,3,4.77,Document Verification,9,4,0,51.14
+0,3,3.38,Fee Payment,11,4,1,14.22
+34,5,2.02,Exam Form,16,4,1,24.43
+5,4,5.61,ID Card,16,3,1,21.35
+36,4,4.82,Exam Form,12,0,1,53.84
+4,1,6.44,Scholarship,14,4,0,29.23
+32,5,3.5,ID Card,17,4,0,23.4
+13,1,8.88,Exam Form,15,5,1,123.15
+11,5,4.06,Enquiry,10,1,0,14.57
+19,1,3.81,Scholarship,10,1,0,76.45
+23,2,5.85,Enquiry,11,2,1,71.09
+33,3,5.99,Bonafide Certificate,16,2,1,78.75
+24,3,3.72,Fee Payment,17,2,0,35.08
+28,4,4.17,Document Verification,11,4,1,44.07
+38,2,3.36,Enquiry,17,1,0,68.85
+30,3,7.75,Document Verification,16,2,1,85.46
+22,4,8.16,Document Verification,13,1,1,56.19
+37,2,5.7,Bonafide Certificate,11,4,1,115.93
+19,3,7.71,Fee Payment,15,5,1,54.17
+22,1,7.89,Exam Form,17,4,0,176.11
+15,5,3.11,Enquiry,14,2,0,9.6
+7,2,9.73,Exam Form,11,4,1,54.2
+20,4,8.57,Fee Payment,13,4,1,50.19
+0,2,3.64,ID Card,15,1,1,14.93
+7,4,3.49,Fee Payment,16,0,1,13.23
+28,2,3.01,Document Verification,12,3,1,56.63
+31,4,3.11,Exam Form,10,2,0,34.69
+37,3,7.99,Fee Payment,10,6,0,106.3
+4,1,5.76,Exam Form,11,0,1,36.58
+21,3,8.26,Fee Payment,16,5,1,72.35
+33,1,7.97,Scholarship,9,6,0,271.52
+0,3,6.84,Enquiry,15,2,1,14.85
+25,3,7.49,Document Verification,14,0,0,61.94
+9,2,2.15,Fee Payment,10,4,0,15.05
+29,5,4.49,Bonafide Certificate,17,2,0,32.2
+17,4,7.1,Fee Payment,13,0,1,35.44
+16,4,2.07,Scholarship,10,3,0,17.62
+25,4,2.26,Bonafide Certificate,11,4,1,18.19
+7,1,8.82,Bonafide Certificate,15,2,1,69.09
+39,4,7.47,Fee Payment,15,5,1,73.86
+11,4,4.12,Scholarship,9,5,0,24.57
+26,2,7.5,Bonafide Certificate,12,2,1,106.62
+7,3,8.34,Enquiry,14,0,0,31.13
+24,4,4.45,Document Verification,16,2,1,40.94
+3,5,2.29,ID Card,11,6,1,13.17
+32,4,9.46,Document Verification,11,4,1,84.35
+0,1,4.76,Exam Form,16,1,1,7.81
+18,1,2.85,Exam Form,16,5,1,65.43
+30,1,5.93,Scholarship,16,0,1,189.76
+15,4,8.15,Bonafide Certificate,9,3,0,30.2
+13,2,3.77,Document Verification,16,2,1,29.46
+4,5,4.16,Document Verification,16,4,1,10.49
+40,4,3.94,ID Card,10,2,0,51.7
+25,2,9.93,Scholarship,17,3,0,140.02
+27,2,3.58,Enquiry,15,4,1,57.14
+1,4,6.6,Bonafide Certificate,16,3,1,12.25
+5,4,9.4,Scholarship,10,4,0,17.41
+8,2,3.18,Fee Payment,12,1,1,17.96
+32,2,9.77,Document Verification,15,5,1,172.77
+40,2,9.58,Scholarship,14,4,0,206.09
+24,4,9.08,Scholarship,15,3,1,62.89
+12,2,3.72,ID Card,9,0,0,26.97
+8,1,7.07,Enquiry,16,5,1,62.78
+12,4,8.09,Fee Payment,15,6,1,31.58
+30,1,9.89,Exam Form,12,1,1,313.39
+40,3,3.44,Document Verification,9,2,0,46.66
+10,4,8.13,ID Card,16,1,1,32.19
+3,3,4.71,Enquiry,15,1,1,15.62
+33,2,3.41,Enquiry,16,2,1,63.61
+37,2,5.37,Scholarship,9,4,0,109.94
+3,5,8.35,Document Verification,13,1,1,16.6
+37,2,5.72,Exam Form,17,5,0,117.67
+18,3,6.3,Enquiry,13,1,1,39.71
+5,2,9.96,Scholarship,11,0,1,35.51
+33,4,5.19,Enquiry,17,5,0,45.55
+17,2,6.92,Fee Payment,17,0,0,52.16
+12,5,4.92,Enquiry,12,5,1,15.47
+40,2,5.14,Document Verification,12,3,1,110.59
+22,3,7.57,Enquiry,16,2,1,67.27
+18,3,9.5,Enquiry,15,5,1,62.19
+10,2,6.34,ID Card,13,5,1,38.42
+0,3,8.15,Fee Payment,14,4,0,7.27
+23,3,2.71,Exam Form,11,4,1,26.33
+6,5,3.69,Exam Form,14,3,0,3.14
+24,4,6.02,Document Verification,16,4,1,45.66
+20,5,2.16,Exam Form,17,6,0,9.85
+14,1,4.02,Bonafide Certificate,11,6,1,60.68
+0,5,6.14,ID Card,16,4,1,12.29
+11,2,2.12,Document Verification,11,6,1,26.16
+6,4,4.12,Enquiry,10,0,0,12.33
+14,2,6.11,Bonafide Certificate,13,6,1,57.22
+20,1,6.59,Exam Form,12,4,1,148.67
+18,4,9.41,Enquiry,13,4,1,41.81
+28,3,7.16,Document Verification,14,6,0,74.65
+24,5,5.32,Bonafide Certificate,11,3,1,33.41
+32,2,9.44,Exam Form,9,3,0,155.1
+31,1,8.28,Scholarship,12,1,1,270.89
+34,3,3.6,Scholarship,14,4,0,40.88
+37,5,3.05,Fee Payment,10,4,0,19.54
+25,3,7.41,Scholarship,10,5,0,71.26
+10,5,6.48,Bonafide Certificate,9,4,0,19.91
+34,4,8.32,ID Card,17,0,0,76.24
+7,3,7.91,Scholarship,11,6,1,26.94
+13,3,7.0,Document Verification,10,5,0,39.32
+9,3,9.89,Document Verification,12,4,1,43.39
+1,4,6.27,Document Verification,14,0,0,7.91
+8,1,2.9,Scholarship,9,1,0,25.53
+2,5,8.63,Enquiry,17,5,0,4.75
+20,3,4.01,Scholarship,17,6,0,37.12
+25,4,8.22,Fee Payment,16,6,1,65.67
+7,1,9.66,ID Card,14,2,0,71.29
+1,5,7.57,Enquiry,12,4,1,8.52
+5,4,6.77,ID Card,10,5,0,12.81
+27,5,5.68,Enquiry,16,6,1,39.79
+28,3,4.92,Enquiry,15,3,1,51.55
+25,1,4.82,Exam Form,12,5,1,121.02
+24,4,7.09,Fee Payment,11,3,1,56.32
+11,1,8.01,Bonafide Certificate,14,4,0,100.29
+4,3,7.43,Document Verification,9,0,0,13.45
+33,1,3.59,Scholarship,10,3,0,121.11
+36,1,5.95,Exam Form,15,5,1,225.72
+14,2,8.33,Exam Form,11,5,1,69.58
+35,1,5.81,Enquiry,9,6,0,210.18
+14,5,6.29,Scholarship,10,3,0,24.84
+22,4,8.17,Fee Payment,17,1,0,45.76
+5,2,7.29,Exam Form,15,6,1,24.95
+20,4,5.27,ID Card,15,1,1,39.84
+22,4,9.16,Fee Payment,16,1,1,61.8
+15,3,3.3,Scholarship,16,3,1,32.74
+14,3,9.96,Enquiry,17,3,0,45.63
+24,2,2.95,Fee Payment,10,5,0,46.76
+35,3,2.12,Enquiry,16,4,1,25.75
+10,3,9.12,ID Card,16,4,1,43.24
+14,3,3.96,Document Verification,13,0,1,21.84
+3,4,7.84,Enquiry,13,3,1,10.72
+20,2,8.49,Enquiry,12,6,1,99.13
+12,4,8.87,Scholarship,13,6,1,41.94
+21,5,9.93,ID Card,10,4,0,44.53
+18,4,4.35,Scholarship,10,4,0,24.51
+33,5,7.68,ID Card,13,1,1,61.1
+13,1,2.92,ID Card,11,1,1,50.06
+3,1,5.25,Exam Form,9,6,0,27.77
+26,5,8.78,Exam Form,17,6,0,50.85
+28,5,4.94,Exam Form,10,1,0,28.22
+27,4,6.73,Document Verification,10,2,0,52.05
+34,5,6.03,Document Verification,12,4,1,50.18
+7,2,7.17,ID Card,10,1,0,24.88
+15,1,9.78,Bonafide Certificate,15,1,1,157.94
+35,1,2.45,Scholarship,9,3,0,91.75
+29,5,6.59,Exam Form,10,6,0,46.46
+17,3,8.9,Scholarship,13,5,1,58.88
+1,3,5.85,Enquiry,10,1,0,6.9
+12,5,2.63,ID Card,17,3,0,6.04
+3,2,6.48,Fee Payment,12,0,1,15.42
+25,3,4.66,ID Card,17,1,0,42.83
+24,5,3.24,Document Verification,9,5,0,28.52
+29,2,8.79,Bonafide Certificate,9,3,0,135.63
+10,2,6.17,Fee Payment,9,5,0,39.17
+6,4,9.47,Scholarship,12,1,1,31.87
+30,2,8.45,Document Verification,17,0,0,147.13
+9,3,7.54,Exam Form,16,1,1,34.8
+38,3,2.04,Fee Payment,15,3,1,40.52
+12,5,5.42,Document Verification,9,0,0,23.06
+30,5,3.58,Scholarship,11,0,1,37.46
+6,2,9.29,ID Card,17,0,0,39.96
+35,1,3.4,Scholarship,17,2,0,124.21
+19,4,4.29,Fee Payment,13,3,1,27.38
+3,1,6.13,Fee Payment,14,2,0,23.68
+6,2,4.11,ID Card,14,5,0,16.59
+0,2,3.68,Fee Payment,12,0,1,10.27
+12,1,6.79,Bonafide Certificate,9,2,0,92.76
+21,4,2.71,Exam Form,13,1,1,24.32
+20,1,2.47,Document Verification,9,2,0,54.09
+21,5,4.98,ID Card,9,4,0,26.6
+27,3,7.77,Scholarship,13,5,1,80.97
+8,5,6.44,Scholarship,13,0,1,14.65
+25,3,5.38,Exam Form,15,0,1,54.54
+8,2,6.53,Fee Payment,10,6,0,32.85
+14,4,4.92,Fee Payment,14,5,0,26.98
+9,1,9.49,Scholarship,10,5,0,87.78
+23,4,2.44,Exam Form,13,3,1,21.39
+7,1,7.39,Scholarship,12,1,1,63.83
+23,5,9.13,Fee Payment,13,6,1,42.7
+15,5,8.43,ID Card,10,5,0,28.51
+25,1,3.47,Document Verification,16,6,1,90.86
+26,4,4.37,Fee Payment,16,5,1,42.86
+36,1,7.74,ID Card,14,6,0,280.43
+3,2,2.67,Document Verification,11,3,1,21.62
+23,5,8.49,Enquiry,12,5,1,51.53
+18,2,7.75,Bonafide Certificate,9,2,0,72.18
+35,5,7.84,Exam Form,17,4,0,57.57
+38,5,2.8,ID Card,13,4,1,30.52
+9,3,7.74,Bonafide Certificate,16,4,1,32.81
+24,2,7.44,Fee Payment,11,5,1,99.65
+17,2,8.65,Enquiry,12,6,1,78.4
+18,3,2.33,Exam Form,12,4,1,28.98
+35,4,2.18,ID Card,16,1,1,30.18
+9,2,4.98,Enquiry,17,2,0,24.07
+32,1,3.19,Fee Payment,11,4,1,108.24
+4,3,6.47,Exam Form,15,0,1,19.88
+34,2,9.34,Exam Form,17,5,0,162.49
+33,4,5.13,Fee Payment,10,2,0,46.57
+32,2,8.76,Fee Payment,12,1,1,149.5
+20,5,2.0,Enquiry,11,4,1,17.05
+16,1,3.35,Enquiry,16,1,1,68.63
+21,3,2.24,ID Card,12,5,1,25.17
+36,5,4.63,Exam Form,17,4,0,44.32
+14,4,9.27,ID Card,9,0,0,38.35
+34,5,2.78,Enquiry,9,2,0,20.92
+27,5,6.85,Exam Form,12,6,1,48.52
+6,4,5.61,ID Card,11,0,1,18.18
+31,5,9.51,Fee Payment,11,4,1,69.07
+10,3,2.98,Fee Payment,10,3,0,10.1
+9,2,3.7,Scholarship,10,2,0,17.77
+8,5,2.24,Enquiry,16,1,1,14.2
+13,3,5.47,ID Card,9,4,0,32.3
+12,2,4.22,Scholarship,16,0,1,40.32
+24,2,8.96,Scholarship,11,5,1,120.13
+1,5,6.84,Bonafide Certificate,10,6,0,9.44
+34,3,6.91,Exam Form,17,3,0,88.2
+6,5,6.26,Document Verification,13,6,1,21.66
+20,4,2.73,Bonafide Certificate,13,5,1,20.24
+17,2,5.56,Enquiry,14,4,0,45.87
+2,5,10.0,Exam Form,12,1,1,14.44
+38,2,8.68,Document Verification,15,0,1,175.89
+40,3,9.15,Scholarship,15,2,1,133.0
+10,1,8.59,Document Verification,17,3,0,84.35
+38,5,2.82,Fee Payment,14,4,0,32.35
+23,5,3.82,Enquiry,9,4,0,19.47
+18,2,2.02,Fee Payment,17,4,0,22.92
+3,3,4.43,ID Card,17,4,0,14.41
+25,4,2.87,Exam Form,13,0,1,20.55
+37,3,5.78,Bonafide Certificate,15,2,1,79.27
+31,5,7.42,Enquiry,9,1,0,47.44
+38,4,9.0,Scholarship,12,3,1,96.12
+35,3,7.99,Enquiry,12,6,1,100.57
+39,1,9.51,Exam Form,13,4,1,388.63
+36,2,2.43,Scholarship,14,5,0,53.46
+32,3,2.1,Fee Payment,12,4,1,35.2
+35,3,7.29,Enquiry,14,2,0,88.25
+2,1,4.31,Bonafide Certificate,15,2,1,13.03
+8,5,4.03,Bonafide Certificate,11,0,1,8.13
+7,2,4.65,Fee Payment,17,0,0,14.15
+32,3,4.16,Document Verification,16,5,1,56.79
+5,4,6.09,Bonafide Certificate,9,5,0,12.74
+40,3,5.52,Document Verification,10,0,0,78.78
+38,2,6.1,Scholarship,10,3,0,121.41
+3,3,7.38,Bonafide Certificate,17,5,0,20.43
+12,1,5.1,ID Card,17,0,0,62.87
+1,3,4.01,Fee Payment,17,4,0,9.05
+4,3,3.33,Enquiry,9,0,0,7.45
+26,4,4.8,Document Verification,15,6,1,41.93
+31,1,7.93,ID Card,11,3,1,260.67
+20,1,8.05,Scholarship,17,0,0,173.92
+7,3,7.34,Scholarship,16,0,1,28.16
+37,4,3.87,Bonafide Certificate,11,4,1,49.01
+7,3,6.7,Bonafide Certificate,9,5,0,22.1
+2,3,6.57,ID Card,17,4,0,9.41
+2,2,5.87,Exam Form,9,6,0,13.69
+21,2,6.4,Exam Form,11,6,1,76.45
+5,4,5.93,Bonafide Certificate,14,4,0,11.19
+1,5,6.52,Exam Form,14,0,0,5.98
+22,2,7.72,Fee Payment,12,4,1,97.57
+1,5,2.88,ID Card,10,2,0,5.19
+37,1,8.0,Fee Payment,14,1,0,294.7
+16,2,3.09,Exam Form,13,1,1,33.8
+34,2,2.53,Bonafide Certificate,14,4,0,35.26
+33,4,9.81,Fee Payment,15,5,1,87.94
+22,5,9.66,Scholarship,17,3,0,49.64
+29,2,2.48,Enquiry,15,6,1,43.47
+7,2,5.55,Bonafide Certificate,12,4,1,37.33
+21,4,3.49,ID Card,13,5,1,30.62
+35,4,5.88,Document Verification,14,4,0,59.6
+4,5,8.64,Document Verification,17,0,0,6.34
+12,1,9.6,Bonafide Certificate,13,6,1,123.8
+28,1,7.07,Exam Form,13,6,1,208.13
+30,3,4.83,Fee Payment,15,5,1,54.17
+15,2,6.83,Fee Payment,10,6,0,52.0
+29,5,4.5,Bonafide Certificate,11,3,1,28.84
+15,2,9.28,Scholarship,10,4,0,71.49
+11,5,8.96,ID Card,10,2,0,28.22
+16,5,6.47,Exam Form,11,5,1,32.12
+15,5,4.6,Scholarship,14,1,0,18.77
+11,2,4.35,Bonafide Certificate,13,5,1,33.89
+7,4,2.27,Bonafide Certificate,13,2,1,18.64
+19,2,8.53,Scholarship,10,6,0,88.02
+2,5,5.6,Document Verification,10,2,0,10.4
+15,3,4.6,Bonafide Certificate,9,6,0,24.62
+29,1,5.77,ID Card,11,2,1,174.82
+22,5,8.55,Enquiry,15,3,1,47.04
+27,3,3.0,Exam Form,13,3,1,46.54
+39,4,8.86,Scholarship,15,5,1,104.12
+4,5,9.18,Document Verification,17,3,0,15.68
+19,3,9.57,Scholarship,14,1,0,68.24
+39,5,5.18,Document Verification,10,6,0,52.01
+0,2,3.74,Document Verification,9,0,0,9.18
+29,3,4.99,ID Card,9,5,0,44.05
+20,2,4.66,Exam Form,17,4,0,49.42
+19,2,3.41,Bonafide Certificate,14,4,0,38.74
+5,3,6.86,Document Verification,14,5,0,10.28
+21,1,5.81,Bonafide Certificate,12,0,1,128.48
+17,3,8.93,Exam Form,10,4,0,54.78
+7,1,2.26,Bonafide Certificate,11,5,1,24.77
+38,5,7.15,ID Card,11,5,1,63.2
+31,5,8.1,ID Card,16,2,1,59.09
+32,3,8.08,Fee Payment,14,1,0,93.44
+15,5,9.09,ID Card,15,4,1,36.2
+11,4,7.83,Document Verification,17,1,0,26.0
+37,2,9.42,Exam Form,9,6,0,175.92
+33,2,4.66,ID Card,10,5,0,86.01
+13,1,6.03,Scholarship,17,0,0,82.65
+35,5,2.11,Exam Form,13,5,1,22.44
+32,1,2.06,Document Verification,12,4,1,77.63
+22,2,3.92,Exam Form,9,1,0,47.06
+1,2,2.81,ID Card,17,2,0,4.3
+40,5,4.08,Scholarship,17,2,0,40.69
+20,4,3.42,Fee Payment,12,5,1,24.78
+1,4,2.23,Document Verification,17,0,0,15.8
+26,5,9.27,Enquiry,9,6,0,50.93
+8,5,2.07,Document Verification,13,3,1,16.78
+0,1,7.89,Exam Form,9,4,0,1.0
+10,5,3.22,Enquiry,12,5,1,10.99
+2,4,9.3,Enquiry,13,2,1,8.3
+22,5,9.14,Bonafide Certificate,11,2,1,46.41
+25,1,7.23,Enquiry,10,0,0,185.44
+3,1,7.38,Bonafide Certificate,14,2,0,31.28
+17,1,2.04,Enquiry,11,4,1,44.1
+5,1,9.88,Scholarship,9,0,0,55.49
+34,3,9.02,Fee Payment,13,1,1,108.73
+21,5,9.16,Fee Payment,10,0,0,46.93
+14,2,7.27,Enquiry,10,6,0,62.2
+21,5,4.76,Exam Form,12,4,1,32.53
+36,3,9.15,Exam Form,12,6,1,125.55
+11,1,4.33,Bonafide Certificate,12,4,1,59.03
+37,3,6.5,ID Card,15,1,1,93.21
+17,4,2.8,Fee Payment,9,5,0,11.23
+34,4,9.38,ID Card,16,0,1,87.74
+29,5,3.13,Fee Payment,17,4,0,23.71
+23,5,3.8,ID Card,14,4,0,27.33
+29,2,6.47,ID Card,12,1,1,100.47
+13,2,8.11,Fee Payment,14,3,0,48.6
+5,4,6.95,Scholarship,15,0,1,18.7
+2,1,3.86,Scholarship,14,4,0,18.75
+15,3,2.01,Exam Form,9,2,0,10.7
+6,2,8.06,ID Card,13,1,1,29.46
+13,2,9.88,ID Card,16,3,1,74.85
+8,1,8.48,ID Card,16,3,1,77.37
+14,1,5.68,ID Card,17,1,0,86.92
+20,5,9.23,ID Card,12,3,1,42.01
+34,3,5.28,Bonafide Certificate,14,4,0,63.53
+1,1,6.2,Document Verification,15,3,1,21.98
+26,2,5.82,ID Card,13,0,1,80.85
+1,2,5.58,Bonafide Certificate,16,2,1,18.7
+34,4,8.2,Scholarship,11,4,1,77.44
+17,1,6.21,ID Card,16,1,1,119.04
+13,5,4.53,Scholarship,13,2,1,22.3
+19,3,4.07,Exam Form,9,5,0,28.17
+17,5,2.3,Document Verification,14,4,0,11.84
+9,2,6.67,Fee Payment,10,2,0,36.17
+24,5,3.84,Document Verification,15,3,1,29.4
+1,2,3.19,ID Card,17,5,0,11.07
+24,2,7.23,ID Card,11,1,1,102.51
+32,2,7.45,Document Verification,12,1,1,125.46
+35,2,8.02,Document Verification,12,0,1,146.28
+30,2,6.03,Exam Form,12,3,1,97.21
+13,4,9.15,Enquiry,11,0,1,34.15
+0,5,9.49,Scholarship,13,0,1,16.42
+15,4,8.46,Fee Payment,17,3,0,37.96
+2,4,7.08,Enquiry,16,4,1,9.36
+34,1,4.43,Document Verification,10,5,0,156.57
+40,1,9.86,Fee Payment,17,6,0,404.16
+5,1,4.19,Document Verification,10,0,0,34.6
+24,3,3.62,Scholarship,15,2,1,42.01
+12,1,5.54,Fee Payment,13,5,1,64.81
+33,5,2.45,Enquiry,15,4,1,25.39
+7,4,9.83,Bonafide Certificate,13,3,1,30.94
+20,5,6.71,Scholarship,14,1,0,34.73
+33,1,6.46,Enquiry,16,4,1,223.94
+3,3,7.25,Fee Payment,9,0,0,12.67
+24,3,5.98,Document Verification,9,2,0,48.87
+14,4,2.26,Enquiry,13,5,1,12.35
+3,5,6.9,Document Verification,9,3,0,8.85
+11,2,7.73,Scholarship,11,1,1,58.77
+31,5,5.33,Scholarship,17,5,0,37.01
+31,1,8.06,Enquiry,15,2,1,259.63
+27,2,3.82,Document Verification,14,6,0,58.73
+12,3,3.77,Fee Payment,16,1,1,30.43
+30,4,3.29,Enquiry,16,3,1,32.52
+13,4,4.98,Bonafide Certificate,14,5,0,14.15
+19,3,8.78,Exam Form,12,4,1,70.17
+17,1,8.62,Scholarship,12,0,1,167.15
+28,3,5.06,Document Verification,12,3,1,61.1
+5,1,6.71,Fee Payment,14,2,0,34.41
+31,2,7.77,Scholarship,9,4,0,123.05
+28,3,3.93,Fee Payment,10,5,0,36.86
+1,1,3.35,Scholarship,14,1,0,18.36
+22,2,9.78,Document Verification,9,4,0,112.24
+18,3,6.94,Fee Payment,17,4,0,42.99
+30,4,9.85,Document Verification,14,2,0,79.25
+4,3,4.7,Fee Payment,15,0,1,14.0
+18,5,7.62,Scholarship,9,6,0,40.72
+33,3,3.78,Exam Form,16,4,1,49.53
+9,5,4.09,Exam Form,13,4,1,24.08
+24,2,6.1,Enquiry,13,0,1,81.63
+1,3,4.56,Bonafide Certificate,14,0,0,11.35
+10,2,3.34,Bonafide Certificate,15,1,1,33.04
+30,2,4.1,Enquiry,15,5,1,69.88
+14,1,2.29,Enquiry,13,1,1,38.74
+8,2,7.64,ID Card,9,0,0,35.81
+22,2,5.94,Document Verification,17,6,0,70.93
+18,3,2.75,Fee Payment,14,3,0,13.9
+8,3,3.37,Bonafide Certificate,17,0,0,20.21
+34,4,2.82,Scholarship,12,1,1,36.96
+20,1,6.9,Enquiry,10,2,0,136.36
+8,2,2.75,Exam Form,11,2,1,14.74
+27,1,8.03,Fee Payment,12,5,1,216.61
+6,5,2.16,ID Card,16,4,1,15.68
+15,2,4.0,Exam Form,11,6,1,39.49
+15,1,9.13,Enquiry,16,2,1,143.06
+32,4,7.75,Fee Payment,14,1,0,67.94
+3,4,2.58,Enquiry,12,2,1,7.87
+3,2,8.57,Bonafide Certificate,15,6,1,25.04
+38,5,5.94,Bonafide Certificate,13,6,1,55.56
+39,4,8.77,Document Verification,13,3,1,96.21
+16,4,6.81,ID Card,17,0,0,25.93
+36,5,7.45,Fee Payment,11,0,1,59.39
+38,1,9.95,ID Card,12,1,1,390.43
+28,4,3.86,Scholarship,13,4,1,36.28
+35,3,6.99,ID Card,9,6,0,91.39
+37,4,5.68,Enquiry,15,0,1,69.95
+38,1,2.32,Enquiry,16,2,1,98.62
+36,1,2.12,Bonafide Certificate,14,6,0,87.14
+34,2,2.95,Document Verification,17,3,0,59.1
+6,3,7.19,Enquiry,11,4,1,20.25
+26,1,6.54,Bonafide Certificate,10,4,0,175.77
+27,5,6.43,Exam Form,13,4,1,54.76
+21,3,2.25,Bonafide Certificate,17,0,0,18.69
+13,3,5.75,Fee Payment,9,5,0,24.78
+6,5,9.4,Document Verification,9,4,0,12.74
+36,4,5.18,Enquiry,11,1,1,53.76
+21,5,7.0,Fee Payment,11,2,1,34.38
+4,5,8.24,Scholarship,13,5,1,25.29
+1,4,8.27,Scholarship,12,3,1,14.93
+26,4,6.15,Bonafide Certificate,14,2,0,48.89
+20,4,8.86,Document Verification,16,1,1,54.12
+37,4,5.13,ID Card,16,1,1,52.9
+14,4,9.11,Document Verification,12,6,1,37.65
+20,5,3.92,Document Verification,9,5,0,18.06
+9,2,4.24,Document Verification,15,2,1,31.48
+22,2,2.42,Bonafide Certificate,14,0,0,33.75
+38,1,8.36,Fee Payment,13,6,1,329.27
+4,2,5.34,Bonafide Certificate,12,1,1,14.72
+0,2,3.83,ID Card,14,4,0,5.0
+12,5,3.85,Fee Payment,16,3,1,14.15
+20,4,9.21,ID Card,14,3,0,52.66
+25,4,8.67,Exam Form,11,1,1,68.11
+20,5,6.43,Exam Form,17,4,0,28.02
+17,2,6.93,Enquiry,11,2,1,70.77
+36,5,5.79,Enquiry,12,3,1,59.08
+31,1,5.13,Fee Payment,13,4,1,171.47
+35,4,9.32,Bonafide Certificate,10,4,0,85.93
+16,3,3.0,ID Card,10,0,0,19.76
+34,1,5.35,ID Card,14,1,0,185.98
+10,1,4.76,Enquiry,10,4,0,47.52
+20,5,5.99,Enquiry,9,6,0,27.95
+25,2,5.66,Scholarship,16,2,1,78.21
+3,4,6.15,ID Card,9,3,0,2.05
+33,3,3.12,Bonafide Certificate,14,6,0,40.19
+17,1,6.11,Scholarship,9,0,0,110.87
+39,3,3.94,Bonafide Certificate,16,2,1,58.93
+34,2,3.47,Document Verification,13,3,1,64.94
+40,2,2.52,ID Card,11,1,1,61.53
+28,3,8.1,Document Verification,13,2,1,82.65
+28,4,5.42,Exam Form,9,3,0,44.38
+37,2,7.01,Exam Form,9,0,0,143.8
+20,3,7.82,Fee Payment,12,6,1,63.74
+12,1,7.43,ID Card,17,3,0,88.74
+40,3,5.76,Enquiry,17,4,0,74.75
+16,3,5.1,Scholarship,9,0,0,34.82
+8,5,5.01,Document Verification,11,2,1,13.51
+40,2,7.12,Bonafide Certificate,12,5,1,144.4
+0,4,5.96,ID Card,10,1,0,7.13
+1,4,8.79,Fee Payment,15,6,1,12.48
+28,5,9.0,Bonafide Certificate,11,0,1,62.19
+32,4,3.36,Document Verification,9,6,0,33.97
+9,3,3.09,ID Card,9,0,0,14.01
+39,5,7.04,Enquiry,11,0,1,60.29
+20,1,4.41,Document Verification,14,3,0,96.26
+27,2,2.15,ID Card,12,4,1,45.13
+10,2,9.11,ID Card,9,5,0,48.54
+33,2,3.82,Document Verification,15,1,1,69.87
+7,3,9.43,Document Verification,10,6,0,23.47
+21,1,7.74,Bonafide Certificate,13,1,1,169.06
+7,5,8.1,Fee Payment,16,4,1,21.15
+14,5,3.61,Document Verification,15,3,1,12.55
+16,2,3.87,Exam Form,16,3,1,44.75
+22,1,6.17,Fee Payment,14,4,0,142.32
+23,1,3.38,Exam Form,15,6,1,82.47
+18,1,4.44,Bonafide Certificate,17,4,0,81.07
+4,4,4.57,Document Verification,14,2,0,10.89
+31,4,3.28,Fee Payment,17,3,0,28.82
+0,2,3.64,Enquiry,10,6,0,5.08
+22,1,8.31,Document Verification,10,0,0,188.22
+36,1,3.34,ID Card,10,1,0,130.21
+7,5,2.23,Document Verification,14,3,0,7.83
+12,5,7.03,Enquiry,10,4,0,15.95
+7,2,9.81,Fee Payment,11,0,1,39.07
+22,1,4.65,Document Verification,16,2,1,116.24
+0,2,2.95,Document Verification,16,5,1,11.12
+23,5,6.56,Scholarship,12,2,1,44.73
+34,5,9.25,Scholarship,17,0,0,72.36
+23,4,8.27,Fee Payment,16,6,1,48.49
+16,2,6.98,Fee Payment,9,6,0,55.28
+4,2,4.52,ID Card,16,0,1,14.96
+19,1,6.34,ID Card,9,6,0,122.1
+20,1,2.73,Document Verification,12,4,1,63.92
+39,4,7.43,Exam Form,14,6,0,83.45
+30,3,7.8,Fee Payment,15,5,1,91.8
+35,3,9.72,Enquiry,12,4,1,120.23
+10,3,4.08,Document Verification,16,1,1,23.61
+14,2,2.15,Exam Form,16,6,1,24.21
+18,2,6.36,Scholarship,17,5,0,64.64
+6,5,7.65,ID Card,14,5,0,15.0
+27,2,8.32,Enquiry,12,1,1,123.59
+4,2,3.55,Fee Payment,10,2,0,14.29
+4,2,4.09,Document Verification,15,0,1,9.98
+29,4,6.1,Scholarship,11,2,1,55.62
+31,2,4.64,Bonafide Certificate,11,6,1,87.53
+7,1,8.88,Scholarship,11,6,1,72.44
+9,1,5.79,Document Verification,12,4,1,67.67
+37,5,8.4,ID Card,10,3,0,65.91
+31,4,6.64,Exam Form,13,6,1,64.2
+27,1,8.18,Enquiry,11,6,1,224.44
+16,4,4.66,Enquiry,13,4,1,22.25
+30,4,8.65,Bonafide Certificate,15,3,1,77.79
+7,5,4.2,Enquiry,17,0,0,12.4
+39,4,6.37,Bonafide Certificate,10,0,0,67.2
+24,2,3.71,ID Card,17,5,0,44.63
+8,4,5.8,Bonafide Certificate,14,0,0,16.78
+1,5,4.55,Fee Payment,14,1,0,9.94
+14,5,4.13,Document Verification,11,1,1,29.55
+2,5,9.74,Enquiry,17,3,0,5.63
+35,1,3.28,Bonafide Certificate,12,2,1,118.18
+3,2,8.3,Scholarship,13,5,1,27.81
+13,1,9.87,Exam Form,11,2,1,139.25
+40,3,2.16,Document Verification,13,3,1,43.56
+40,2,7.59,ID Card,16,1,1,162.97
+24,4,4.02,Enquiry,16,4,1,28.61
+9,5,2.32,Scholarship,16,6,1,16.42
+20,3,5.22,Fee Payment,14,5,0,44.05
+35,2,9.48,Bonafide Certificate,9,3,0,170.33
+11,1,2.09,Scholarship,14,2,0,25.9
+26,5,6.7,Document Verification,15,3,1,39.5
+39,1,6.01,Enquiry,17,3,0,234.35
+1,2,8.99,Scholarship,16,0,1,14.85
+12,2,2.67,Fee Payment,16,1,1,28.31
+31,3,7.45,Exam Form,15,5,1,84.52
+30,4,7.44,Bonafide Certificate,10,0,0,67.02
+15,1,7.35,Document Verification,9,1,0,110.94
+31,3,9.54,Enquiry,10,3,0,110.89
+31,5,8.58,Bonafide Certificate,14,1,0,65.13
+33,4,2.34,Bonafide Certificate,10,2,0,24.83
+10,3,5.77,ID Card,12,5,1,22.64
+9,1,5.18,Bonafide Certificate,11,0,1,56.43
+14,2,4.48,Scholarship,14,5,0,36.82
+16,5,5.61,Scholarship,16,3,1,24.86
+39,1,5.07,Exam Form,14,2,0,206.03
+17,4,5.46,Fee Payment,10,1,0,23.9
+8,4,9.83,Enquiry,13,6,1,24.81
+24,2,2.71,Enquiry,14,1,0,34.69
+39,2,9.38,Document Verification,17,2,0,186.57
+13,5,5.84,Scholarship,14,6,0,30.5
+24,5,6.99,Bonafide Certificate,13,1,1,41.41
+21,2,8.64,Fee Payment,9,0,0,96.5
+29,2,4.88,Document Verification,13,4,1,82.4
+19,4,5.44,Enquiry,13,1,1,35.27
+20,2,5.28,Document Verification,14,3,0,60.48
+31,3,5.0,Document Verification,15,1,1,66.17
+20,1,9.4,Enquiry,12,5,1,197.15
+34,2,8.63,Document Verification,15,3,1,158.63
+31,5,2.87,Exam Form,13,1,1,30.04
+29,3,2.86,Document Verification,14,1,0,33.14
+38,5,5.42,Fee Payment,12,3,1,46.57
+11,3,2.79,Scholarship,16,0,1,21.98
+40,2,6.95,Fee Payment,17,6,0,144.02
+17,1,3.15,Bonafide Certificate,10,6,0,60.15
+20,5,6.18,ID Card,12,4,1,35.44
+12,3,2.06,Exam Form,16,4,1,19.3
+20,4,4.53,Exam Form,16,6,1,34.44
+7,2,7.42,Bonafide Certificate,17,0,0,28.75
+39,1,5.87,Enquiry,11,1,1,238.27
+6,2,9.83,Fee Payment,9,4,0,32.59
+22,4,8.99,Fee Payment,17,0,0,54.18
+31,1,4.87,Bonafide Certificate,9,0,0,160.05
+10,4,2.36,Enquiry,11,4,1,11.07
+21,2,8.77,ID Card,11,6,1,104.42
+21,3,9.29,Document Verification,17,3,0,71.16
+24,2,8.57,Enquiry,9,2,0,113.87
+21,2,3.02,Document Verification,15,6,1,41.88
+27,2,9.98,Scholarship,10,3,0,144.56
+28,5,4.07,Fee Payment,15,6,1,31.85
+12,4,7.79,Fee Payment,9,1,0,21.83
+17,4,9.26,Bonafide Certificate,16,3,1,47.29
+1,4,3.89,Bonafide Certificate,10,5,0,9.49
+28,5,9.27,Document Verification,11,2,1,61.16
+20,3,4.48,Enquiry,16,6,1,28.96
+14,2,9.81,Fee Payment,11,2,1,77.55
+26,3,4.25,Fee Payment,9,0,0,36.46
+30,5,9.63,Exam Form,17,5,0,65.29
+14,4,2.43,Scholarship,16,1,1,26.7
+22,2,7.67,Scholarship,12,0,1,99.49
+23,1,6.26,Document Verification,16,3,1,161.06
+12,1,5.82,ID Card,13,3,1,77.63
+21,3,3.79,Enquiry,11,4,1,33.94
+36,4,7.64,Fee Payment,9,0,0,68.63
+32,1,3.53,Exam Form,13,5,1,122.11
+2,3,6.42,Enquiry,14,0,0,3.57
+18,5,4.03,Fee Payment,12,0,1,18.27
+22,3,9.64,Bonafide Certificate,15,0,1,86.19
+28,3,2.23,Enquiry,11,2,1,20.44
+29,3,3.6,Document Verification,15,4,1,51.26
+38,2,3.94,Enquiry,9,6,0,82.82
+24,3,5.31,ID Card,15,1,1,54.5
+36,3,3.86,Enquiry,9,1,0,44.88
+7,2,5.93,Enquiry,9,1,0,17.43
+15,2,8.98,Enquiry,10,2,0,68.15
+7,5,7.7,Scholarship,10,4,0,20.28
+0,4,6.64,Fee Payment,12,5,1,9.01
+4,1,2.71,ID Card,9,4,0,11.67
+2,1,7.55,Document Verification,12,2,1,30.7
+0,3,3.33,Scholarship,10,5,0,13.74
+3,5,8.29,Fee Payment,12,0,1,13.07
+39,3,4.0,Exam Form,12,3,1,64.44
+34,1,5.34,Document Verification,17,0,0,181.4
+31,2,4.8,Fee Payment,17,1,0,76.8
+33,4,8.87,Scholarship,9,0,0,82.22
+24,5,3.01,Scholarship,13,2,1,27.88
+9,2,6.53,Exam Form,15,1,1,39.33
+20,4,3.14,Document Verification,12,3,1,25.59
+38,5,7.64,Document Verification,13,5,1,67.26
+26,5,9.24,ID Card,10,5,0,51.94
+26,1,5.48,Fee Payment,11,1,1,153.09
+1,2,5.9,ID Card,15,6,1,5.08
+40,5,9.42,Scholarship,15,6,1,87.06
+12,5,6.17,Scholarship,12,0,1,28.2
+8,4,5.9,Enquiry,9,6,0,12.52
+35,1,6.63,Exam Form,9,4,0,237.01
+21,3,7.51,Exam Form,12,4,1,62.8
+25,1,2.86,Document Verification,12,5,1,80.46
+11,3,8.57,ID Card,14,4,0,36.44
+16,2,5.48,Scholarship,15,1,1,56.39
+13,2,2.58,Enquiry,17,4,0,11.36
+13,5,8.29,Fee Payment,17,2,0,28.16
+33,2,5.02,Enquiry,13,5,1,89.6
+19,5,2.8,Bonafide Certificate,11,3,1,28.38
+10,1,7.07,Fee Payment,11,4,1,74.94
+15,2,9.04,Exam Form,14,2,0,71.34
+30,1,9.1,Fee Payment,9,2,0,276.25
+5,1,9.66,Scholarship,15,1,1,61.96
+18,2,8.94,ID Card,11,5,1,82.67
+36,1,2.02,Enquiry,13,1,1,77.3
+3,2,5.04,Document Verification,15,3,1,20.93
+3,2,8.55,ID Card,15,3,1,19.03
+19,2,4.93,Bonafide Certificate,17,0,0,57.32
+9,3,6.81,Document Verification,9,3,0,24.62
+23,1,6.85,Bonafide Certificate,11,5,1,163.96
+34,4,4.92,Bonafide Certificate,17,6,0,49.26
+25,2,9.24,Scholarship,16,6,1,133.88
+36,1,6.03,Scholarship,10,5,0,225.6
+37,5,5.72,Exam Form,16,1,1,59.36
+20,2,9.98,Exam Form,16,2,1,118.51
+39,2,5.95,Bonafide Certificate,10,0,0,117.3
+38,4,3.43,ID Card,16,6,1,46.31
+20,3,6.1,Exam Form,11,6,1,46.6
+9,3,8.51,Scholarship,15,3,1,39.24
+37,2,8.21,Exam Form,17,2,0,158.69
+3,1,8.31,Bonafide Certificate,12,1,1,39.9
+19,5,7.66,Enquiry,14,4,0,36.81
+16,5,4.03,Document Verification,17,0,0,21.19
+6,1,8.9,ID Card,13,5,1,64.57
+3,2,9.15,ID Card,9,2,0,20.75
+28,5,3.55,Fee Payment,11,1,1,29.15
+13,3,3.04,Exam Form,17,1,0,19.94
+2,1,9.8,ID Card,11,0,1,35.38
+23,4,8.95,Enquiry,10,0,0,60.69
+36,2,9.15,Enquiry,12,3,1,172.06
+15,1,9.09,Scholarship,13,3,1,149.32
+3,5,6.33,Document Verification,15,5,1,15.13
+23,2,7.17,Scholarship,15,5,1,88.02
+33,3,6.36,Exam Form,17,0,0,75.65
+29,2,2.41,Bonafide Certificate,16,0,1,51.34
+17,2,7.96,Enquiry,10,2,0,67.7
+18,3,6.04,Enquiry,16,3,1,52.71
+30,3,7.18,Fee Payment,16,1,1,85.51
+18,2,6.02,Fee Payment,13,6,1,64.8
+18,3,5.93,Enquiry,11,6,1,45.85
+21,1,3.37,Document Verification,17,6,0,73.19
+23,3,4.23,ID Card,15,3,1,41.37
+11,3,3.27,ID Card,9,3,0,22.76
+29,2,3.57,Enquiry,16,0,1,57.24
+37,1,9.78,ID Card,13,6,1,376.25
+30,4,3.22,Fee Payment,14,0,0,22.68
+35,4,4.15,Bonafide Certificate,17,3,0,36.56
+18,5,6.72,ID Card,16,4,1,41.81
+35,3,6.88,Scholarship,11,4,1,92.24
+29,3,3.23,Enquiry,13,5,1,37.09
+32,1,8.35,ID Card,12,3,1,282.64
+17,4,8.28,Bonafide Certificate,9,6,0,45.18
+27,5,3.9,Enquiry,13,4,1,32.74
+10,1,4.31,Document Verification,15,5,1,51.81
+32,3,9.5,Document Verification,9,5,0,106.23
+16,4,8.61,Fee Payment,12,3,1,44.67
+5,5,7.58,Bonafide Certificate,14,5,0,15.36
+3,2,2.66,Scholarship,17,0,0,8.95
+19,4,5.35,Bonafide Certificate,16,0,1,36.08
+26,5,6.47,Scholarship,10,0,0,41.74
+14,1,3.5,Scholarship,11,1,1,66.14
+5,2,5.59,Bonafide Certificate,13,0,1,26.98
+13,5,6.81,Enquiry,15,6,1,19.67
+10,5,4.62,Exam Form,11,0,1,20.38
+38,3,8.25,Bonafide Certificate,15,3,1,110.75
+8,4,8.72,Enquiry,13,4,1,27.72
+25,3,4.59,Scholarship,14,6,0,48.93
+15,2,8.71,Enquiry,14,4,0,68.73
+4,5,2.83,Enquiry,12,0,1,9.19
+9,3,8.7,ID Card,16,0,1,36.38
+2,4,3.22,Document Verification,17,0,0,8.45
+12,2,2.66,Document Verification,10,5,0,19.42
+29,1,7.13,Fee Payment,17,3,0,206.02
+5,3,5.78,Document Verification,12,3,1,12.43
+16,2,9.26,Exam Form,14,3,0,86.17
+18,1,4.91,Scholarship,15,4,1,102.28
+34,3,4.3,Bonafide Certificate,12,6,1,60.15
+25,2,6.01,Bonafide Certificate,16,6,1,90.13
+4,2,5.65,Exam Form,16,1,1,18.27
+28,3,4.76,Document Verification,9,4,0,43.44
+36,2,7.55,Scholarship,16,3,1,149.44
+19,5,8.08,Document Verification,11,2,1,42.86
+20,3,8.82,Enquiry,13,1,1,59.9
+9,2,9.78,Fee Payment,16,0,1,54.46
+4,1,4.13,Document Verification,14,5,0,20.93
+35,1,7.73,Fee Payment,12,4,1,276.28
+5,5,5.15,Bonafide Certificate,12,5,1,13.82
+25,3,7.42,Scholarship,12,1,1,64.04
+3,2,5.81,ID Card,14,6,0,11.35
+38,2,9.95,Enquiry,15,2,1,194.24
+38,1,7.83,Fee Payment,13,1,1,308.81
+34,5,9.62,Document Verification,16,4,1,75.78
+0,1,8.68,Enquiry,15,3,1,10.56
+23,1,9.22,Document Verification,16,0,1,212.94
+35,5,8.52,Enquiry,12,3,1,64.25
+5,3,5.67,Bonafide Certificate,16,3,1,21.68
+40,2,4.01,Exam Form,14,4,0,86.05
+30,3,4.96,Enquiry,11,3,1,61.01
+19,4,2.16,ID Card,16,3,1,13.05
+23,4,6.19,Exam Form,15,4,1,50.53
+24,4,6.04,Document Verification,13,4,1,44.69
+35,5,6.2,Exam Form,12,2,1,52.47
+20,1,9.79,Enquiry,9,3,0,202.81
+29,3,9.29,ID Card,11,1,1,104.47
+23,2,3.29,ID Card,10,6,0,47.02
+29,4,4.95,Scholarship,16,0,1,56.05
+21,3,5.39,Exam Form,16,5,1,54.81
+27,4,4.88,Scholarship,13,0,1,41.79
+6,4,8.39,Document Verification,13,4,1,24.15
+34,2,6.19,Document Verification,12,5,1,114.83
+27,5,6.58,Document Verification,9,4,0,49.63
+13,1,8.82,Bonafide Certificate,9,6,0,124.13
+9,5,8.45,Exam Form,14,6,0,21.45
+15,3,3.06,Fee Payment,12,2,1,27.8
+15,5,7.71,ID Card,12,3,1,28.21
+30,3,5.48,Fee Payment,11,4,1,64.84
+24,3,4.36,Document Verification,17,6,0,37.11
+12,1,2.4,Enquiry,11,4,1,30.05
+5,2,5.9,Enquiry,16,0,1,25.88
+8,1,4.84,Exam Form,10,3,0,49.38
+35,5,4.01,Enquiry,12,2,1,37.91
+19,3,7.56,Scholarship,9,6,0,54.13
+17,4,8.16,Fee Payment,13,4,1,38.6
+20,4,3.96,Enquiry,10,4,0,18.15
+3,3,2.4,Document Verification,9,4,0,4.52
+32,1,8.79,Fee Payment,9,0,0,284.35
+26,2,2.08,Fee Payment,10,6,0,35.34
+6,1,9.5,ID Card,13,4,1,71.22
+5,3,7.02,Fee Payment,17,4,0,9.11
+14,3,4.57,Document Verification,14,0,0,24.58
+17,2,3.97,ID Card,12,4,1,40.88
+31,5,2.07,Document Verification,11,3,1,13.72
+10,5,3.88,Bonafide Certificate,16,3,1,20.03
+19,2,3.1,Enquiry,11,0,1,36.48
+23,5,6.9,Bonafide Certificate,9,3,0,36.28
+14,4,3.33,Enquiry,12,5,1,25.05
+6,5,6.23,Bonafide Certificate,13,5,1,17.83
+20,5,6.72,Fee Payment,13,5,1,34.16
+25,5,4.38,Exam Form,13,2,1,36.21
+13,4,2.28,Document Verification,16,4,1,22.65
+36,5,2.3,Bonafide Certificate,16,2,1,27.73
+20,4,2.21,Exam Form,12,3,1,25.81
+17,2,7.91,Bonafide Certificate,17,0,0,71.68
+4,1,4.54,Enquiry,9,5,0,20.85
+2,2,8.37,Bonafide Certificate,13,0,1,18.82
+22,1,5.45,Exam Form,13,2,1,128.97
+25,2,5.62,Bonafide Certificate,13,3,1,78.03
+36,1,6.1,Fee Payment,16,6,1,234.22
+23,1,7.7,Fee Payment,17,4,0,189.23
+18,3,4.19,ID Card,11,6,1,41.5
+24,1,2.97,Fee Payment,17,3,0,70.05
+20,1,6.45,Scholarship,16,5,1,135.29
+11,3,4.62,ID Card,11,3,1,22.16
+40,5,5.54,Bonafide Certificate,10,0,0,49.86
+32,5,7.18,Scholarship,12,1,1,46.69
+3,3,5.95,Document Verification,10,5,0,9.6
+6,4,6.96,Exam Form,12,6,1,28.07
+21,1,6.35,Document Verification,13,4,1,148.36
+32,1,7.92,Scholarship,10,5,0,258.35
+16,3,7.65,Fee Payment,16,5,1,48.05
+23,3,6.27,Enquiry,9,4,0,53.37
+33,4,7.43,Bonafide Certificate,11,6,1,75.05
+27,5,8.99,ID Card,15,5,1,56.41
+40,2,5.46,Enquiry,9,0,0,111.23
+38,5,5.3,Enquiry,10,3,0,41.03
+21,1,8.11,Bonafide Certificate,11,0,1,175.07
+16,3,6.66,Fee Payment,10,3,0,38.64
+33,4,2.57,Bonafide Certificate,10,1,0,25.0
+5,5,9.14,Exam Form,14,5,0,11.09
+5,4,2.25,Enquiry,15,1,1,13.39
+33,5,7.99,Exam Form,14,2,0,61.65
+0,1,8.07,Exam Form,14,6,0,9.78
+9,2,9.62,Document Verification,17,3,0,46.24
+20,4,2.43,Fee Payment,16,0,1,13.23
+4,4,6.77,Exam Form,16,0,1,20.64
+1,2,5.42,Scholarship,14,5,0,7.05
+21,4,4.65,Exam Form,13,0,1,32.82
+1,4,2.72,ID Card,17,2,0,1.0
+9,5,6.5,Document Verification,10,4,0,16.6
+33,5,5.83,Scholarship,15,0,1,56.8
+15,2,2.84,Enquiry,14,5,0,22.25
+38,1,6.9,Fee Payment,15,1,1,266.84
+21,4,7.9,Fee Payment,12,6,1,53.1
+11,1,8.14,ID Card,17,0,0,95.21
+23,2,9.24,Enquiry,15,0,1,105.82
+39,2,5.28,Exam Form,10,0,0,112.53
+37,5,9.62,Scholarship,12,5,1,91.74
+9,4,8.92,ID Card,13,6,1,19.68
+34,3,4.37,Scholarship,10,4,0,51.61
+31,2,3.27,Exam Form,16,0,1,51.36
+6,4,5.48,Enquiry,9,4,0,10.92
+20,1,5.22,Exam Form,11,4,1,120.27
+19,5,6.61,Bonafide Certificate,9,6,0,30.52
+25,1,6.67,Bonafide Certificate,13,6,1,182.25
+3,2,8.0,Exam Form,16,2,1,27.32
+21,2,6.08,Document Verification,15,1,1,81.64
+14,1,2.84,ID Card,17,0,0,49.38
+39,2,8.87,Bonafide Certificate,10,0,0,176.28
+20,4,4.48,Exam Form,16,0,1,34.66
+14,2,9.77,Scholarship,16,4,1,76.92
+21,5,2.94,ID Card,14,6,0,16.44
+27,4,9.67,Enquiry,11,3,1,73.49
+13,3,2.73,Bonafide Certificate,10,1,0,16.48
+26,2,3.85,Enquiry,16,5,1,63.4
+40,2,2.37,Document Verification,14,0,0,52.13
+39,5,7.64,ID Card,12,3,1,65.87
+27,5,8.8,ID Card,13,3,1,54.05
+25,1,5.47,Fee Payment,13,6,1,148.43
+1,1,9.43,Scholarship,17,3,0,10.82
+24,1,6.72,Document Verification,17,1,0,166.53
+2,5,7.04,Document Verification,16,3,1,19.13
+7,1,8.76,Enquiry,16,5,1,70.51
+32,1,4.37,Document Verification,10,0,0,145.68
+34,3,4.83,Scholarship,11,5,1,66.64
+5,1,9.25,Document Verification,16,0,1,53.12
+38,2,9.21,Fee Payment,13,2,1,180.52
+22,5,9.81,Bonafide Certificate,15,4,1,52.39
+24,4,9.21,Scholarship,16,3,1,68.37
+18,3,3.02,Document Verification,14,5,0,27.91
+4,5,8.59,Exam Form,13,4,1,19.24
+10,5,5.28,Bonafide Certificate,16,4,1,25.97
+11,2,9.93,Enquiry,9,4,0,64.02
+9,1,5.78,ID Card,9,4,0,60.19
+7,2,6.43,Scholarship,9,4,0,34.41
+23,1,6.24,Exam Form,11,0,1,151.52
+27,1,4.57,ID Card,14,1,0,123.9
+40,5,2.6,Exam Form,14,3,0,29.87
+35,1,9.17,Document Verification,13,3,1,326.42
+36,3,8.42,Scholarship,15,0,1,111.9
+20,3,3.12,Enquiry,13,5,1,31.86
+7,3,8.21,Document Verification,10,0,0,30.82
+8,5,7.01,ID Card,12,6,1,20.19
+14,2,5.27,Enquiry,9,4,0,37.31
+39,4,4.03,Fee Payment,15,1,1,49.6
+17,1,8.88,Exam Form,12,3,1,158.63
+19,4,7.6,Fee Payment,12,5,1,44.41
+5,2,6.38,ID Card,12,2,1,25.92
+11,2,6.88,Document Verification,11,0,1,48.71
+1,5,2.73,Enquiry,16,2,1,8.9
+6,3,5.79,Enquiry,12,3,1,16.24
+15,3,3.55,Enquiry,16,0,1,22.84
+2,2,3.67,Bonafide Certificate,17,3,0,5.68
+2,5,7.29,Exam Form,9,0,0,3.44
+26,5,9.29,Bonafide Certificate,12,5,1,59.68
+39,1,5.23,Scholarship,14,3,0,214.55
+37,3,3.66,Exam Form,16,6,1,60.35
+32,2,7.19,Fee Payment,14,2,0,117.99
+27,4,8.97,Bonafide Certificate,14,1,0,62.3
+0,3,7.99,ID Card,12,5,1,12.98
+7,1,8.95,Scholarship,17,6,0,72.21
+36,5,6.29,Exam Form,15,5,1,58.18
+31,2,8.02,Enquiry,14,0,0,134.21
+36,3,3.12,ID Card,9,2,0,42.34
+3,4,4.79,Scholarship,10,3,0,9.56
+29,1,5.12,Fee Payment,14,2,0,150.78
+5,1,6.09,Enquiry,9,5,0,27.21
+18,3,9.43,ID Card,13,0,1,69.24
+31,4,8.99,Exam Form,9,2,0,76.28
+8,1,3.08,Scholarship,11,6,1,38.65
+11,2,3.38,Document Verification,15,3,1,36.97
+10,1,4.86,Exam Form,13,4,1,59.05
+15,4,4.33,Exam Form,9,5,0,13.87
+0,5,6.92,Enquiry,9,1,0,4.92
+20,5,9.22,Exam Form,16,1,1,49.56
+29,3,9.7,Enquiry,17,5,0,93.82
+12,4,7.23,Exam Form,15,4,1,35.28
+33,1,8.71,Document Verification,11,0,1,301.42
+3,1,6.2,ID Card,14,2,0,19.82
+27,5,3.67,ID Card,11,2,1,28.59
+37,5,6.2,ID Card,12,4,1,61.77
+30,2,6.44,Fee Payment,12,6,1,102.72
+26,5,7.94,Document Verification,11,4,1,52.55
+4,2,3.76,Document Verification,14,3,0,3.02
+24,1,4.95,Scholarship,13,3,1,124.79
+2,2,4.91,Bonafide Certificate,17,1,0,10.54
+32,2,9.68,ID Card,17,0,0,164.72
+3,3,5.55,Bonafide Certificate,11,0,1,10.1
+24,5,8.04,Scholarship,17,6,0,45.89
+19,2,8.01,Document Verification,11,4,1,85.56
+33,1,4.12,Scholarship,12,1,1,151.92
+25,4,6.57,Exam Form,9,1,0,43.22
+4,2,9.15,Scholarship,13,3,1,32.03
+34,5,5.8,Scholarship,17,2,0,43.84
+27,3,9.56,Enquiry,10,6,0,89.94
+28,1,3.72,Exam Form,12,0,1,116.31
+8,3,2.59,Enquiry,10,6,0,8.91
+37,4,9.13,Bonafide Certificate,16,1,1,96.38
+5,2,8.78,Exam Form,17,3,0,29.13
+18,2,9.94,Fee Payment,11,3,1,97.94
+10,5,7.44,Scholarship,17,3,0,20.44
+1,2,9.49,Scholarship,14,6,0,12.06
+8,1,8.62,Enquiry,14,2,0,72.81
+20,4,8.76,Bonafide Certificate,15,1,1,49.82
+23,3,6.55,Enquiry,13,4,1,56.84
+33,4,5.06,Document Verification,14,4,0,43.52
+21,2,9.48,Exam Form,9,3,0,106.34
+2,3,5.46,Document Verification,11,3,1,12.27
+11,5,6.31,Fee Payment,17,2,0,20.97
+27,4,5.57,Exam Form,13,3,1,52.28
+29,3,6.52,Fee Payment,13,5,1,68.32
+25,3,5.76,Fee Payment,16,1,1,57.02
+20,3,2.38,Fee Payment,10,3,0,22.45
+27,1,9.06,ID Card,15,3,1,253.82
+25,4,5.56,Exam Form,17,1,0,38.81
+32,3,6.71,Exam Form,15,0,1,79.22
+20,4,3.11,ID Card,13,5,1,28.98
+34,3,2.03,Bonafide Certificate,14,5,0,31.58
+33,5,3.96,ID Card,12,4,1,35.32
+40,5,7.64,Scholarship,15,3,1,76.16
+17,5,2.79,Document Verification,9,1,0,3.64
+10,2,9.27,Document Verification,12,4,1,62.67
+22,3,3.72,Fee Payment,11,6,1,35.65
+21,2,3.64,Exam Form,12,6,1,50.75
+16,4,3.45,Exam Form,9,2,0,19.53
+4,2,2.11,Fee Payment,10,6,0,13.81
+10,4,8.17,Scholarship,17,6,0,23.19
+29,4,9.0,Document Verification,15,0,1,82.15
+14,4,6.91,ID Card,14,3,0,30.78
+26,2,3.51,Bonafide Certificate,10,0,0,53.06
+34,3,4.28,Enquiry,9,3,0,50.22
+32,2,5.81,Scholarship,10,3,0,94.69
+19,3,9.63,Exam Form,15,3,1,76.74
+15,3,3.98,Enquiry,10,0,0,24.14
+33,4,7.85,Fee Payment,11,5,1,79.24
+1,2,5.52,Document Verification,16,2,1,12.98
+34,3,4.38,Enquiry,15,5,1,55.99
+39,5,5.65,Fee Payment,17,1,0,53.6
+27,3,2.57,Exam Form,12,1,1,42.77
+38,5,8.39,Fee Payment,15,6,1,72.8
+5,2,3.95,ID Card,9,5,0,11.86
+8,2,7.8,Enquiry,10,2,0,37.46
+19,2,2.55,Enquiry,15,6,1,31.18
+0,3,9.64,Document Verification,10,2,0,8.4
+7,1,3.54,Fee Payment,14,3,0,27.77
+22,3,9.06,Document Verification,17,3,0,78.71
+2,3,8.48,Enquiry,13,1,1,10.85
+3,4,9.74,Fee Payment,15,3,1,18.23
+24,4,5.82,Fee Payment,9,6,0,36.98
+37,3,7.82,Document Verification,16,3,1,106.31
+14,5,4.97,ID Card,17,2,0,17.26
+20,4,3.47,Fee Payment,13,0,1,29.33
+34,3,5.54,ID Card,14,5,0,71.51
+13,1,3.33,Scholarship,16,4,1,57.47
+35,5,9.86,Bonafide Certificate,12,4,1,78.56
+11,2,2.77,Scholarship,10,3,0,22.8
+16,3,6.71,Bonafide Certificate,16,3,1,49.4
+38,3,7.01,Scholarship,10,5,0,99.53
+8,5,6.3,Bonafide Certificate,13,4,1,9.33
+34,4,7.3,Fee Payment,14,2,0,64.94
+12,4,2.93,Document Verification,13,4,1,18.89
+14,4,6.44,Document Verification,14,4,0,31.22
+17,2,4.3,Exam Form,14,6,0,43.26
+32,5,9.52,Bonafide Certificate,11,4,1,73.81
+5,5,8.1,Exam Form,11,3,1,15.78
+26,4,9.78,ID Card,17,6,0,69.61
+22,4,2.3,ID Card,11,3,1,26.25
+26,1,4.28,Exam Form,11,5,1,117.41
+33,1,3.56,Bonafide Certificate,10,4,0,132.65
+37,3,2.09,Document Verification,15,3,1,41.53
+13,3,3.94,Bonafide Certificate,12,5,1,27.07
+35,5,7.43,ID Card,9,4,0,53.7
+7,5,3.85,Fee Payment,14,2,0,8.69
+34,2,6.07,Exam Form,13,3,1,115.56
+18,2,9.1,Exam Form,10,0,0,90.69
+29,1,7.55,ID Card,14,5,0,229.95
+13,3,5.16,Bonafide Certificate,9,3,0,25.44
+19,1,4.98,Exam Form,11,2,1,108.87
+24,1,5.65,Document Verification,12,2,1,141.33
+39,3,3.42,Exam Form,11,3,1,54.76
+23,2,7.07,Bonafide Certificate,14,1,0,87.83
+13,3,4.91,ID Card,12,5,1,34.06
+25,4,8.82,Document Verification,9,4,0,58.11
+37,4,8.05,Document Verification,13,4,1,83.72
+22,4,6.88,Exam Form,13,2,1,55.7
+21,5,4.91,Bonafide Certificate,17,3,0,30.28
+18,2,3.68,Exam Form,16,1,1,45.95
+2,2,8.21,Enquiry,16,5,1,7.26
+18,5,5.89,Fee Payment,13,0,1,40.25
+8,1,3.8,ID Card,16,4,1,40.3
+27,4,3.56,Enquiry,15,6,1,30.79
+19,4,3.32,Fee Payment,9,5,0,17.7
+6,1,8.22,Document Verification,15,5,1,61.81
+13,3,3.83,Exam Form,16,1,1,30.15
+8,3,6.21,Fee Payment,11,5,1,29.37
+18,2,5.61,Scholarship,17,4,0,53.81
+13,5,6.64,Fee Payment,16,3,1,25.01
+37,2,9.02,Exam Form,10,4,0,181.94
+35,3,8.94,Exam Form,14,0,0,112.22
+39,1,5.61,ID Card,12,3,1,228.05
+16,2,2.12,Fee Payment,11,2,1,22.22
+29,4,5.41,Exam Form,14,1,0,48.26
+8,4,6.85,Exam Form,17,4,0,24.82
+32,1,6.46,Enquiry,10,3,0,213.29
+24,3,7.21,ID Card,13,5,1,66.65
+13,4,3.23,Enquiry,14,3,0,14.95
+10,4,7.17,ID Card,12,4,1,34.62
+34,5,3.46,ID Card,15,2,1,37.82
+40,2,8.0,Enquiry,10,4,0,159.95
+13,3,4.71,ID Card,15,2,1,20.24
+29,2,7.68,Scholarship,10,5,0,119.53
+40,3,2.38,Document Verification,9,4,0,40.97
+3,4,5.26,Exam Form,13,3,1,11.59
+3,5,7.64,Bonafide Certificate,10,0,0,9.55
+27,2,3.81,ID Card,16,0,1,60.45
+7,4,8.36,Document Verification,16,5,1,26.05
+1,3,7.05,ID Card,9,6,0,5.17
+40,2,6.7,Document Verification,12,6,1,150.17
+21,2,4.83,Bonafide Certificate,17,3,0,56.29
+40,4,5.86,Fee Payment,13,0,1,64.08
+15,2,6.78,Scholarship,14,5,0,61.51
+28,5,5.78,Exam Form,11,2,1,39.31
+29,5,7.59,Fee Payment,13,3,1,58.14
+11,4,5.47,Enquiry,9,6,0,22.01
+34,3,3.62,Bonafide Certificate,16,2,1,56.57
+10,4,3.71,Scholarship,14,3,0,15.65
+20,5,2.05,Scholarship,10,2,0,13.2
+20,1,4.41,Scholarship,12,2,1,100.49
+4,1,7.99,Bonafide Certificate,12,0,1,41.63
+19,2,8.35,ID Card,17,3,0,81.75
+36,2,3.62,ID Card,17,4,0,67.94
+2,1,9.67,Enquiry,13,0,1,25.88
+32,5,6.02,ID Card,11,2,1,43.84
+8,2,9.34,Fee Payment,9,2,0,44.06
+8,4,7.65,Exam Form,14,6,0,22.1
+3,4,7.78,Scholarship,16,4,1,16.6
+34,5,2.68,Enquiry,9,6,0,16.78
+16,2,3.76,Enquiry,9,4,0,28.44
+33,4,2.07,Scholarship,15,2,1,36.83
+23,2,7.73,Fee Payment,15,4,1,95.37
+31,2,4.76,ID Card,10,1,0,81.15
+0,4,8.29,Scholarship,11,6,1,12.65
+7,1,4.71,Scholarship,10,6,0,28.88
+22,4,8.55,Bonafide Certificate,14,0,0,59.22
+39,5,3.05,Document Verification,16,3,1,37.49
+11,3,3.39,Enquiry,16,6,1,17.35
+11,4,4.73,Fee Payment,9,4,0,16.89
+14,2,5.27,Fee Payment,17,4,0,36.28
+40,2,4.79,ID Card,16,1,1,113.1
+18,4,8.11,Fee Payment,17,3,0,36.86
+25,3,2.78,ID Card,17,1,0,26.04
+28,4,4.81,Bonafide Certificate,14,3,0,35.75
+21,3,8.7,Bonafide Certificate,11,6,1,71.21
+39,3,2.53,Exam Form,9,6,0,45.43
+20,5,9.54,ID Card,16,0,1,55.31
+37,2,9.89,Enquiry,11,4,1,189.38
+19,2,2.71,Bonafide Certificate,15,0,1,37.24
+28,3,4.33,ID Card,14,3,0,45.74
+3,2,4.98,Enquiry,11,4,1,11.54
+6,1,8.21,Enquiry,14,6,0,61.96
+27,3,6.77,Fee Payment,11,1,1,75.36
+27,2,7.15,Exam Form,17,6,0,104.35
+3,1,8.06,Document Verification,9,6,0,36.51
+21,5,2.94,Scholarship,16,2,1,29.21
+11,2,8.67,Scholarship,13,1,1,59.99
+2,1,7.64,Exam Form,12,2,1,28.59
+21,4,6.62,ID Card,9,1,0,45.8
+1,4,9.12,ID Card,17,3,0,3.49
+23,1,7.6,ID Card,17,0,0,186.55
+33,3,3.61,Document Verification,13,2,1,49.85
+26,3,5.44,Enquiry,17,3,0,56.23
+40,2,5.95,Scholarship,17,0,0,126.03
+0,4,2.44,Exam Form,15,0,1,13.35
+7,3,9.64,ID Card,16,4,1,32.35
+22,3,3.03,Bonafide Certificate,9,6,0,25.08
+37,4,7.58,Fee Payment,12,4,1,78.03
+5,5,6.05,Document Verification,12,6,1,22.57
+21,3,2.21,ID Card,17,4,0,11.18
+24,1,9.4,Scholarship,11,2,1,232.6
+17,2,8.81,Fee Payment,9,2,0,76.02
+16,3,6.19,Exam Form,13,6,1,40.72
+11,3,3.83,ID Card,15,0,1,30.09
+5,5,2.97,Scholarship,12,2,1,20.0
+25,1,4.91,Fee Payment,17,0,0,129.05
+26,2,4.04,Bonafide Certificate,14,3,0,55.01
+7,3,6.05,Document Verification,14,1,0,25.47
+18,2,9.73,Exam Form,11,0,1,93.23
+0,4,6.6,Scholarship,13,0,1,20.57
+28,3,9.12,Enquiry,14,3,0,85.38
+34,3,7.21,Bonafide Certificate,12,6,1,90.63
+39,4,5.8,Document Verification,11,4,1,65.85
+13,5,8.84,Document Verification,13,5,1,29.68
+34,3,5.77,Enquiry,15,6,1,81.1
+19,2,8.95,Bonafide Certificate,14,4,0,93.17
+12,1,4.33,Scholarship,10,4,0,63.85
+37,2,3.03,Document Verification,9,6,0,57.17
+7,5,8.84,Exam Form,13,6,1,25.1
+19,1,6.7,Fee Payment,13,0,1,138.37
+32,2,9.11,Exam Form,14,0,0,153.89
+25,2,9.5,ID Card,11,2,1,124.14
+38,4,2.43,Document Verification,9,2,0,33.38
+20,5,6.01,Fee Payment,12,1,1,33.52
+40,4,5.0,Bonafide Certificate,12,1,1,56.18
+8,1,7.01,Fee Payment,10,5,0,52.63
+23,4,8.35,Fee Payment,16,6,1,59.43
+36,5,4.24,Enquiry,14,2,0,43.36
+40,3,6.45,Fee Payment,11,6,1,91.0
+16,3,7.67,Document Verification,9,0,0,47.59
+23,1,3.08,Enquiry,11,3,1,83.18
+20,3,8.51,Enquiry,16,2,1,59.67
+38,4,6.85,ID Card,12,0,1,73.14
+40,1,9.6,ID Card,11,6,1,390.41
+38,5,4.72,Enquiry,12,2,1,47.78
+12,1,2.87,Enquiry,12,4,1,47.68
+10,1,6.05,Scholarship,10,2,0,68.16
+18,2,2.69,ID Card,12,6,1,30.81
+10,2,9.76,Document Verification,17,6,0,53.01
+12,1,2.31,Scholarship,12,5,1,37.19
+0,3,8.03,Bonafide Certificate,9,6,0,1.09
+39,2,6.2,Bonafide Certificate,9,4,0,125.51
+18,5,4.95,Bonafide Certificate,9,0,0,25.12
+11,4,2.53,Bonafide Certificate,13,4,1,18.91
+7,2,6.98,Bonafide Certificate,14,2,0,29.39
+7,1,6.68,Exam Form,14,4,0,54.0
+11,3,4.25,Enquiry,14,5,0,18.25
+32,4,9.28,Document Verification,17,3,0,75.07
+25,2,4.43,Scholarship,9,4,0,63.05
+38,3,5.6,Bonafide Certificate,14,6,0,73.57
+27,3,6.35,Exam Form,16,5,1,63.76
+4,3,2.8,ID Card,16,4,1,15.22
+7,1,9.46,Exam Form,11,1,1,75.75
+24,5,5.0,Exam Form,13,3,1,36.89
+26,3,2.65,Document Verification,12,0,1,37.32
+22,4,5.1,Bonafide Certificate,9,6,0,29.24
+29,2,6.8,Exam Form,17,5,0,105.99
+22,4,6.11,Enquiry,13,4,1,34.36
+19,1,7.56,Exam Form,10,3,0,156.7
+17,1,2.44,Bonafide Certificate,10,0,0,41.11
+17,4,4.28,Document Verification,15,3,1,27.12
+1,5,8.55,Exam Form,12,5,1,19.06
+3,1,2.64,Scholarship,9,1,0,13.98
+29,1,8.84,Fee Payment,13,5,1,260.68
+32,4,2.74,ID Card,10,5,0,29.73
+35,1,8.68,Fee Payment,15,0,1,315.41
+17,5,4.89,Fee Payment,17,0,0,18.08
+36,5,6.9,Document Verification,9,4,0,53.56
+18,5,3.22,Exam Form,10,2,0,16.86
+27,2,2.53,Fee Payment,14,5,0,37.32
+39,5,3.73,Fee Payment,16,0,1,30.5
+19,5,3.02,ID Card,15,5,1,20.76
+32,2,4.5,Bonafide Certificate,17,5,0,84.12
+11,3,6.12,Enquiry,10,0,0,21.84
+14,1,6.71,Enquiry,17,1,0,94.61
+40,5,8.32,Exam Form,12,1,1,73.82
+38,1,7.25,Exam Form,11,5,1,289.95
+1,4,6.87,ID Card,15,1,1,16.53
+28,1,5.29,Bonafide Certificate,13,5,1,162.96
+40,2,5.79,Exam Form,13,4,1,122.82
+9,1,5.32,Enquiry,10,0,0,52.84
+1,1,8.74,Enquiry,14,5,0,17.47
+10,1,3.84,Scholarship,14,1,0,47.44
+12,3,2.05,ID Card,12,1,1,20.1
+9,3,7.21,Document Verification,13,3,1,30.75
+13,4,3.62,Bonafide Certificate,15,3,1,22.64
+17,2,9.12,ID Card,16,6,1,92.47
+8,1,8.87,Fee Payment,14,1,0,76.29
+38,1,2.61,Exam Form,13,6,1,106.33
+27,1,2.85,Scholarship,11,6,1,87.16
+2,1,5.96,Enquiry,15,6,1,24.76
+19,3,6.87,Scholarship,16,4,1,56.83
+5,4,4.2,Document Verification,11,2,1,16.73
+26,5,7.73,ID Card,13,5,1,48.0
+1,2,6.76,Scholarship,10,3,0,15.13
+28,1,4.6,ID Card,12,5,1,145.41
+37,4,2.2,Exam Form,12,3,1,37.43
+2,5,8.0,Exam Form,16,0,1,20.97
+15,4,3.72,Enquiry,11,0,1,20.51
+29,3,8.68,Scholarship,13,1,1,93.87
+39,5,5.36,Exam Form,13,0,1,53.2
+1,4,6.62,ID Card,10,0,0,6.81
+16,3,8.98,Enquiry,17,2,0,56.64
+40,4,8.91,Exam Form,12,6,1,105.75
+11,4,4.97,Enquiry,17,4,0,18.83
+34,5,3.67,Fee Payment,17,1,0,23.24
+0,3,8.2,ID Card,10,2,0,1.0
+14,1,5.46,Enquiry,17,1,0,80.47
+25,2,3.54,Bonafide Certificate,17,4,0,52.73
+36,5,9.24,Exam Form,10,1,0,73.18
+20,3,3.58,Exam Form,14,5,0,38.56
+30,4,2.21,ID Card,17,5,0,17.22
+24,3,2.16,Document Verification,12,5,1,23.46
+22,2,6.98,Bonafide Certificate,10,0,0,79.11
+23,2,7.29,Enquiry,15,4,1,89.06
+37,1,4.49,Bonafide Certificate,17,2,0,173.17
+27,1,4.56,Enquiry,14,2,0,124.44
+20,2,4.72,Bonafide Certificate,12,3,1,50.97
+17,5,7.44,Scholarship,9,2,0,35.87
+35,5,2.47,Fee Payment,12,6,1,19.22
+34,4,9.43,Fee Payment,11,5,1,84.9
+8,1,3.78,Document Verification,15,6,1,34.75
+37,4,10.0,Bonafide Certificate,13,6,1,103.3
+29,1,3.37,Bonafide Certificate,11,5,1,108.54
+33,2,8.17,Exam Form,10,3,0,149.51
+31,5,3.79,Enquiry,10,0,0,30.14
+2,5,2.65,ID Card,13,2,1,16.83
+2,2,9.0,Scholarship,16,4,1,22.15
+27,4,8.87,Scholarship,16,3,1,67.96
+14,4,5.23,Document Verification,13,2,1,29.81
+40,3,7.62,Fee Payment,10,0,0,107.96
+22,1,6.46,Bonafide Certificate,12,6,1,154.86
+39,4,8.82,ID Card,15,4,1,94.14
+10,2,4.52,Document Verification,14,4,0,30.56
+31,4,6.19,Enquiry,15,6,1,52.24
+35,5,5.88,Scholarship,13,0,1,49.01
+32,1,4.83,Scholarship,10,2,0,157.14
+23,3,9.13,Scholarship,16,6,1,82.11
+38,1,3.33,Bonafide Certificate,10,1,0,126.72
+33,5,3.2,Bonafide Certificate,16,2,1,29.4
+27,5,6.62,Bonafide Certificate,15,6,1,49.33
+36,5,7.26,Exam Form,11,6,1,60.16
+6,5,3.56,Fee Payment,12,3,1,11.25
+3,2,5.13,Enquiry,15,3,1,15.98
+36,3,9.57,Scholarship,12,2,1,127.86
+0,5,3.97,Scholarship,17,5,0,5.0
+0,5,7.35,Exam Form,15,3,1,15.15
+19,4,7.92,Scholarship,9,1,0,46.99
+18,3,5.59,Enquiry,9,5,0,41.07
+28,1,9.5,Scholarship,12,1,1,277.68
+9,3,7.89,Bonafide Certificate,17,4,0,26.63
+17,3,5.66,Bonafide Certificate,12,3,1,39.36
+27,3,6.55,Fee Payment,13,6,1,69.22
+34,5,7.54,Enquiry,9,5,0,52.77
+30,5,6.74,Enquiry,10,2,0,41.15
+26,2,9.03,Scholarship,12,5,1,127.59
+10,1,4.86,Document Verification,12,6,1,56.82
+37,4,4.4,Scholarship,14,4,0,48.49
+4,3,3.71,Scholarship,14,1,0,6.3
+7,1,2.3,Fee Payment,16,4,1,26.33
+33,1,2.34,Document Verification,17,0,0,86.06
+11,2,8.96,Scholarship,9,3,0,53.96
+37,4,7.43,ID Card,9,2,0,81.39
+0,3,7.28,ID Card,14,1,0,5.07
+30,4,6.92,Enquiry,12,4,1,53.63
+3,2,8.79,Enquiry,12,2,1,20.07
+4,5,5.84,Document Verification,9,3,0,10.92
+29,1,8.96,ID Card,17,6,0,266.73
+23,3,4.88,Bonafide Certificate,11,2,1,46.35
+2,5,9.41,Bonafide Certificate,13,3,1,9.72
+10,2,7.59,Document Verification,9,3,0,39.57
+3,4,4.06,Scholarship,16,3,1,12.43
+25,1,6.51,Enquiry,11,4,1,168.59
+26,3,6.26,Document Verification,9,6,0,55.75
+26,5,3.1,ID Card,14,3,0,18.21
+5,5,6.73,Document Verification,9,2,0,15.37
+14,1,4.52,ID Card,11,6,1,79.85
+29,4,2.42,Enquiry,13,0,1,28.56
+36,2,9.59,Bonafide Certificate,12,2,1,187.83
+36,4,7.13,Document Verification,15,4,1,79.08
+36,4,9.02,Enquiry,14,3,0,87.47
+34,4,7.41,Enquiry,11,6,1,69.62
+22,1,4.86,Exam Form,16,0,1,119.39
+5,1,6.1,ID Card,16,4,1,38.83
+3,2,7.41,Exam Form,10,1,0,17.23
+17,4,9.68,Bonafide Certificate,15,1,1,51.42
+8,1,4.03,Enquiry,9,1,0,38.09
+28,2,9.0,Enquiry,10,0,0,130.69
+12,2,9.39,Scholarship,16,6,1,67.71
+16,4,7.36,ID Card,9,2,0,34.68
+31,3,9.45,Scholarship,10,0,0,106.39
+21,4,5.18,Bonafide Certificate,9,6,0,34.88
+3,3,9.62,Scholarship,13,0,1,15.55
+4,2,7.62,Enquiry,15,6,1,18.93
+36,1,2.34,ID Card,14,0,0,93.53
+40,5,9.25,Fee Payment,14,1,0,77.8
+12,2,5.88,ID Card,14,5,0,38.56
+33,1,5.68,ID Card,16,6,1,196.47
+21,2,6.53,Exam Form,13,6,1,79.53
+22,4,3.2,Fee Payment,15,6,1,28.8
+2,3,5.75,Fee Payment,11,2,1,8.4
+33,2,8.65,Fee Payment,17,5,0,146.81
+31,1,2.12,ID Card,11,5,1,76.82
+20,4,4.18,Bonafide Certificate,14,0,0,27.5
+20,5,2.02,Fee Payment,11,2,1,17.97
+10,4,5.33,Document Verification,9,5,0,21.38
+38,3,7.83,Scholarship,9,3,0,103.85
+3,4,8.39,Bonafide Certificate,11,0,1,12.53
+0,5,9.56,Document Verification,12,0,1,20.83
+27,1,6.87,ID Card,10,0,0,189.23
+23,2,4.04,ID Card,17,3,0,50.69
+34,3,9.39,Document Verification,16,3,1,120.17
+12,5,8.2,Exam Form,11,1,1,38.07
+33,3,6.6,Exam Form,15,4,1,82.37
+10,4,7.57,Document Verification,12,2,1,25.92
+35,3,9.39,Exam Form,13,4,1,116.63
+16,5,7.7,Scholarship,12,0,1,43.01
+34,2,4.95,Scholarship,17,5,0,86.95
+17,2,7.7,ID Card,15,0,1,75.38
+39,3,2.32,Exam Form,12,5,1,38.28
+21,1,5.09,Fee Payment,16,1,1,110.12
+23,3,5.25,Document Verification,10,6,0,45.08
+18,4,3.33,Scholarship,15,4,1,23.26
+36,2,2.18,Enquiry,9,6,0,39.56
+38,2,3.07,Exam Form,16,6,1,78.3
+20,2,7.24,Enquiry,14,0,0,77.07
+7,1,8.42,Exam Form,13,4,1,74.65
+27,1,9.91,Scholarship,17,1,0,277.75
+4,5,4.77,Scholarship,17,4,0,10.41
+16,3,6.8,Fee Payment,11,5,1,43.48
+36,3,9.5,Exam Form,17,2,0,121.96
+35,4,3.34,Exam Form,17,6,0,36.87
+18,2,7.74,Bonafide Certificate,10,1,0,72.4
+26,1,8.04,ID Card,13,4,1,219.55
+33,4,2.71,Fee Payment,10,0,0,23.55
+10,4,8.89,Scholarship,9,3,0,28.54
+11,1,8.5,Enquiry,15,3,1,100.21
+20,3,2.27,Scholarship,12,1,1,22.04
+10,2,2.73,Document Verification,13,3,1,15.24
+38,3,2.39,ID Card,12,2,1,36.56
+27,4,4.68,Scholarship,14,1,0,45.79
+4,2,6.07,Exam Form,10,0,0,17.91
+16,5,6.26,Scholarship,16,0,1,35.13
+19,4,4.14,Exam Form,12,1,1,23.17
+40,3,9.29,Exam Form,16,3,1,131.87
+11,3,4.95,Fee Payment,11,3,1,21.72
+5,3,2.36,Scholarship,13,0,1,15.13
+16,1,4.4,Fee Payment,11,2,1,89.12
+18,4,6.25,Enquiry,15,5,1,37.96
+25,2,5.27,Enquiry,11,3,1,80.6
+31,3,4.19,ID Card,16,2,1,52.29
+5,3,3.05,Exam Form,17,6,0,17.54
+35,1,8.55,Enquiry,10,3,0,310.66
+37,2,9.97,ID Card,11,5,1,193.99
+10,4,4.64,Scholarship,15,1,1,21.43
+32,5,5.05,ID Card,13,4,1,37.07
+23,1,6.94,ID Card,15,0,1,168.48
+22,4,7.75,Scholarship,10,1,0,49.94
+14,5,5.14,Fee Payment,12,3,1,31.51
+26,3,9.24,Fee Payment,9,5,0,78.9
+10,3,6.48,Exam Form,13,0,1,33.84
+16,2,5.6,Exam Form,16,4,1,49.57
+13,5,7.17,Scholarship,9,4,0,23.94
+26,3,9.62,Scholarship,15,5,1,96.64
+17,3,8.36,Bonafide Certificate,15,5,1,59.4
+27,2,2.32,Bonafide Certificate,15,3,1,43.68
+3,4,4.66,Document Verification,9,0,0,11.08
+6,3,5.76,Enquiry,11,6,1,21.85
+34,1,4.52,Exam Form,10,6,0,160.73
+8,1,7.6,ID Card,13,3,1,66.62
+7,4,8.61,Enquiry,10,4,0,10.66
+16,5,7.85,Document Verification,13,1,1,33.94
+16,2,9.91,Enquiry,13,1,1,86.78
+32,1,4.18,Document Verification,12,2,1,149.79
+31,1,9.0,Fee Payment,15,4,1,287.59
+7,4,8.13,ID Card,14,6,0,18.45
+18,5,4.9,Fee Payment,10,6,0,23.17
+37,5,7.87,Bonafide Certificate,12,4,1,67.18
+2,4,2.83,Document Verification,15,3,1,15.66
+4,1,8.31,Enquiry,17,2,0,44.18
+12,2,6.26,Bonafide Certificate,17,5,0,51.32
+30,1,4.34,ID Card,11,2,1,140.54
+15,5,7.25,ID Card,9,0,0,28.09
+31,1,7.13,Exam Form,17,3,0,234.44
+21,2,3.68,Scholarship,16,5,1,50.0
+28,3,2.24,Fee Payment,15,5,1,32.65
+21,1,5.47,Exam Form,14,6,0,117.31
+2,4,6.56,Enquiry,15,1,1,10.03
+9,3,9.01,Exam Form,17,0,0,38.66
+20,4,9.43,Enquiry,14,2,0,47.26
+15,4,6.23,Fee Payment,11,1,1,31.85
+11,4,8.03,Fee Payment,11,4,1,24.79
+1,1,5.51,ID Card,12,3,1,23.54
+40,5,7.97,ID Card,16,2,1,78.8
+23,3,3.64,Document Verification,17,4,0,34.65
+34,2,4.97,Bonafide Certificate,16,5,1,96.49
+29,5,7.07,ID Card,10,6,0,47.61
+29,1,2.15,Exam Form,12,2,1,79.75
+34,4,7.78,Document Verification,12,1,1,75.05
+18,2,8.68,Enquiry,10,0,0,84.09
+7,3,5.19,Document Verification,16,1,1,27.43
+25,5,5.58,Exam Form,11,3,1,44.78
+39,5,8.81,ID Card,10,6,0,64.68
+6,2,8.21,Enquiry,15,3,1,30.22
+29,1,4.31,Exam Form,9,2,0,127.77
+6,3,4.59,Scholarship,14,1,0,16.78
+2,2,7.43,ID Card,11,0,1,9.37
+0,4,6.51,Bonafide Certificate,11,5,1,1.82
+35,3,3.3,Enquiry,13,3,1,55.16
+24,5,4.48,Exam Form,11,0,1,35.97
+36,2,9.2,ID Card,12,4,1,176.08
+0,5,7.51,Fee Payment,11,2,1,10.45
+14,5,9.89,Scholarship,15,0,1,40.27
+36,5,8.14,Enquiry,11,2,1,70.57
+12,1,9.54,Enquiry,12,4,1,119.9
+39,5,3.73,Bonafide Certificate,10,0,0,34.84
+7,4,8.17,ID Card,10,6,0,20.21
+4,4,2.16,Fee Payment,17,0,0,1.97
+8,3,7.37,ID Card,9,5,0,29.75
+0,5,5.75,Fee Payment,9,4,0,2.22
+35,5,4.77,Bonafide Certificate,9,6,0,42.49
+34,2,8.9,Scholarship,11,6,1,163.75
+1,1,8.83,Enquiry,10,1,0,18.37
+39,3,2.18,Fee Payment,11,0,1,33.15
+22,5,6.88,Document Verification,13,5,1,36.92
+8,2,4.94,Bonafide Certificate,17,0,0,21.15
+33,1,5.33,Bonafide Certificate,10,5,0,181.27
+13,3,8.66,Exam Form,9,6,0,50.68
+3,3,4.48,Scholarship,14,3,0,17.85
+29,5,9.54,Document Verification,11,6,1,57.12
+30,3,3.44,Document Verification,15,1,1,46.37
+37,2,7.3,Exam Form,14,0,0,129.23
+10,3,7.38,Fee Payment,15,4,1,36.77
+34,4,4.02,Fee Payment,13,2,1,47.62
+7,2,4.6,Document Verification,9,4,0,21.93
+2,1,8.68,Scholarship,11,1,1,29.69
+13,1,8.09,Fee Payment,11,3,1,114.52
+12,5,4.63,Bonafide Certificate,15,3,1,17.98
+31,5,6.27,ID Card,11,3,1,50.61
+33,4,2.49,Exam Form,13,5,1,31.65
+18,1,3.67,Scholarship,12,4,1,81.78
+37,1,5.89,Fee Payment,12,2,1,226.35
+15,1,2.69,ID Card,15,6,1,46.87
+1,1,8.75,Document Verification,9,6,0,8.6
+39,3,7.74,Exam Form,15,2,1,105.22
+16,2,9.55,Fee Payment,16,6,1,90.64
+33,2,7.55,Document Verification,11,5,1,133.71
+15,4,9.52,Fee Payment,11,0,1,46.07
+37,3,6.44,Exam Form,12,5,1,98.51
+1,1,6.8,Bonafide Certificate,14,2,0,9.55
+1,1,9.82,Enquiry,15,2,1,15.31
+25,5,7.14,Bonafide Certificate,9,0,0,40.16
+12,5,2.25,Enquiry,12,4,1,13.51
+30,4,7.79,ID Card,15,4,1,75.98
+33,1,9.24,Document Verification,10,1,0,317.31
+38,4,8.36,Enquiry,9,4,0,84.95
+2,3,6.67,Bonafide Certificate,9,3,0,15.24
+7,2,7.37,Exam Form,14,3,0,32.08
+22,1,9.92,Document Verification,13,1,1,230.47
+13,3,2.73,Fee Payment,9,2,0,14.6
+26,1,7.34,Enquiry,11,1,1,193.63
+28,5,4.27,Enquiry,15,0,1,36.71
+38,4,7.12,Scholarship,17,1,0,76.77
+38,5,6.86,Enquiry,17,1,0,55.22
+0,2,3.23,Enquiry,14,5,0,2.99
+16,5,3.65,Fee Payment,11,3,1,14.67
+40,1,6.97,Exam Form,9,0,0,282.01
+29,5,3.03,ID Card,11,5,1,28.89
+12,1,4.12,Document Verification,10,0,0,53.34
+20,2,8.68,Fee Payment,13,1,1,94.95
+18,5,4.62,Document Verification,16,5,1,27.2
+18,4,5.9,Bonafide Certificate,13,5,1,33.84
+24,4,9.53,Scholarship,9,0,0,60.3
+21,4,3.82,Exam Form,11,0,1,25.59
+30,5,5.12,Fee Payment,13,4,1,39.12
+16,5,6.85,Scholarship,15,6,1,36.4
+22,5,8.04,Enquiry,13,0,1,36.81
+31,1,9.21,Exam Form,13,5,1,297.51
+9,2,9.32,Exam Form,15,2,1,55.08
+9,4,8.21,ID Card,16,0,1,24.52
+35,1,3.83,Bonafide Certificate,16,3,1,149.62
+7,4,2.2,ID Card,15,4,1,12.3
+19,1,5.07,ID Card,11,3,1,105.93
+31,5,3.13,Document Verification,10,6,0,24.78
+13,4,7.68,Document Verification,9,3,0,23.89
+27,5,7.29,Enquiry,14,2,0,46.4
+23,4,2.35,Scholarship,17,4,0,16.7
+14,3,8.69,Bonafide Certificate,11,6,1,49.62
+21,1,3.99,Exam Form,13,1,1,98.18
+29,3,5.46,Enquiry,17,5,0,61.6
+3,1,7.34,Bonafide Certificate,17,5,0,22.71
+12,2,5.44,Bonafide Certificate,15,0,1,40.83
+22,4,5.53,Scholarship,12,5,1,47.95
+7,2,2.53,Document Verification,10,2,0,16.69
+17,2,5.21,Bonafide Certificate,10,5,0,51.98
+11,1,8.12,Bonafide Certificate,12,2,1,95.1
+30,3,9.32,Bonafide Certificate,9,1,0,96.7
+13,5,5.31,Fee Payment,12,2,1,22.13
+33,1,5.39,Bonafide Certificate,14,1,0,179.4
+17,5,7.62,Bonafide Certificate,14,1,0,24.21
+33,2,9.54,Exam Form,15,1,1,167.4
+10,5,4.14,ID Card,13,2,1,23.69
+40,3,5.52,Fee Payment,17,6,0,77.85
+11,1,8.37,Bonafide Certificate,10,1,0,102.54
+14,3,6.88,ID Card,10,6,0,37.81
+30,3,2.88,Bonafide Certificate,12,2,1,35.79
+28,1,7.02,Scholarship,12,4,1,213.72
+25,3,3.49,Scholarship,12,1,1,41.97
+17,4,6.08,ID Card,9,2,0,34.69
+31,4,6.23,Fee Payment,12,2,1,53.03
+21,4,9.01,Exam Form,13,6,1,63.46
+37,5,5.7,Fee Payment,17,2,0,50.46
+16,3,4.24,Fee Payment,11,0,1,32.75
+22,1,3.85,Scholarship,11,6,1,93.42
+23,1,8.99,Scholarship,13,6,1,218.68
+7,5,3.37,Exam Form,14,0,0,14.16
+40,1,5.41,Enquiry,11,1,1,225.22
+5,4,3.5,Enquiry,9,5,0,9.78
+4,3,8.19,Enquiry,16,4,1,22.96
+28,1,5.79,Bonafide Certificate,9,5,0,164.67
+27,1,4.81,Exam Form,10,1,0,132.23
+10,2,4.89,Bonafide Certificate,11,3,1,34.29
+0,2,8.82,ID Card,14,3,0,3.68
+18,2,6.43,ID Card,12,4,1,71.02
+8,3,7.74,Document Verification,12,6,1,27.35
+26,4,9.18,Enquiry,17,4,0,66.73
+33,4,9.21,Scholarship,14,4,0,88.43
+3,4,4.63,Document Verification,10,0,0,9.47
+35,3,9.62,Document Verification,15,0,1,123.47
+17,3,2.2,Scholarship,11,3,1,21.39
+14,2,5.01,Document Verification,17,4,0,38.93
+12,1,9.17,Enquiry,14,2,0,111.36
+18,5,4.2,Fee Payment,16,5,1,29.88
+5,5,4.18,Bonafide Certificate,9,3,0,8.9
+11,1,4.42,Enquiry,10,4,0,46.34
+36,2,6.9,Exam Form,14,2,0,132.19
+16,1,5.51,Scholarship,11,4,1,103.41
+22,1,7.81,Fee Payment,9,6,0,175.8
+25,5,9.16,ID Card,14,1,0,56.67
+28,2,7.39,Exam Form,13,2,1,118.62
+32,3,3.64,Exam Form,17,6,0,41.58
+26,5,9.46,Exam Form,14,5,0,53.99
+24,3,4.12,Document Verification,13,1,1,44.83
+9,2,3.2,Document Verification,9,6,0,13.73
+22,1,2.72,Document Verification,9,0,0,67.18
+20,4,6.51,Enquiry,9,3,0,28.49
+20,4,2.91,Document Verification,15,4,1,29.64
+12,2,3.11,Fee Payment,14,3,0,26.29
+36,4,4.4,Document Verification,13,5,1,52.62
+32,3,4.25,Scholarship,12,4,1,54.66
+23,4,6.83,Exam Form,16,1,1,51.98
+10,2,8.53,Fee Payment,16,2,1,49.62
+16,2,8.09,ID Card,13,2,1,70.6
+3,3,4.1,Document Verification,12,4,1,13.74
+24,4,3.96,ID Card,10,1,0,31.57
+29,4,9.73,Exam Form,15,4,1,82.69
+8,1,2.07,Fee Payment,13,4,1,31.33
+20,5,9.04,Exam Form,11,6,1,51.21
+19,2,3.6,ID Card,17,4,0,41.81
+18,1,9.58,Enquiry,17,2,0,168.97
+18,2,4.74,Fee Payment,16,5,1,50.51
+11,1,5.52,Bonafide Certificate,9,4,0,61.49
+36,5,7.66,Enquiry,11,2,1,62.4
+16,1,6.7,Fee Payment,10,0,0,108.45
+36,2,4.54,Document Verification,12,1,1,91.27
+38,4,6.43,ID Card,10,0,0,70.34
+27,2,7.85,Exam Form,16,4,1,119.82
+40,3,2.34,Exam Form,9,2,0,42.21
+34,3,2.09,Exam Form,12,1,1,29.28
+17,3,5.66,Scholarship,13,3,1,44.33
+13,3,3.05,Scholarship,12,1,1,29.1
+34,5,7.31,Document Verification,16,1,1,66.77
+40,4,3.71,Bonafide Certificate,10,4,0,35.93
+6,4,5.46,Scholarship,17,6,0,13.79
+40,2,3.58,Fee Payment,10,0,0,79.76
+12,1,6.39,Enquiry,10,0,0,78.89
+17,2,2.93,ID Card,10,3,0,26.25
+36,2,2.18,Document Verification,16,4,1,44.13
+12,2,2.41,Enquiry,11,1,1,18.66
+35,2,9.63,Bonafide Certificate,16,6,1,171.84
+30,4,3.14,Enquiry,15,5,1,31.77
+1,1,7.67,Fee Payment,12,0,1,20.25
+15,2,2.54,Exam Form,15,0,1,26.03
+8,4,2.87,Scholarship,16,2,1,18.76
+8,2,6.07,Fee Payment,14,1,0,31.67
+37,3,5.72,Bonafide Certificate,14,4,0,75.52
+10,2,9.61,Document Verification,11,0,1,52.62
+21,2,9.56,Enquiry,13,6,1,109.91
+32,5,8.24,Fee Payment,10,4,0,56.5
+35,3,6.82,Document Verification,13,1,1,89.9
+22,1,5.64,Exam Form,13,1,1,133.89
+33,2,4.85,Bonafide Certificate,15,0,1,90.36
+8,1,9.58,Bonafide Certificate,12,3,1,88.65
+23,3,6.82,Enquiry,14,4,0,64.87
+7,2,6.63,Scholarship,17,4,0,30.66
+6,5,3.86,ID Card,12,2,1,20.67
+35,4,2.37,Bonafide Certificate,14,6,0,27.2
+17,5,9.56,Fee Payment,17,1,0,36.11
+2,5,4.51,Fee Payment,9,1,0,6.4
+27,4,5.54,Fee Payment,16,0,1,41.51
+5,4,2.92,Exam Form,9,0,0,11.87
+20,4,8.7,Bonafide Certificate,12,0,1,45.51
+27,2,2.22,Bonafide Certificate,11,2,1,36.53
+39,1,8.67,Fee Payment,12,6,1,347.64
+0,1,3.12,Enquiry,15,3,1,12.78
+35,4,9.09,Scholarship,17,0,0,92.28
+20,5,7.84,Enquiry,17,0,0,33.41
+34,3,3.32,Scholarship,9,5,0,45.22
+12,4,6.53,Bonafide Certificate,9,6,0,28.52
+9,5,4.5,Enquiry,17,0,0,5.78
+9,5,3.43,Bonafide Certificate,12,2,1,17.79
+12,2,8.87,Document Verification,11,4,1,60.93
+36,2,5.23,Bonafide Certificate,17,3,0,98.42
+37,1,5.19,Enquiry,13,4,1,198.13
+23,1,3.36,Fee Payment,14,5,0,83.0
+1,3,5.06,ID Card,9,1,0,8.89
+21,3,8.97,Exam Form,9,1,0,73.37
+16,3,4.91,Bonafide Certificate,15,0,1,37.55
+35,3,9.61,Bonafide Certificate,16,5,1,122.84
+13,5,9.57,Fee Payment,16,4,1,41.3
+9,5,3.16,Document Verification,15,2,1,10.59
+34,1,3.42,ID Card,17,3,0,128.01
+24,2,8.9,Bonafide Certificate,9,6,0,110.66
+2,2,5.14,Scholarship,10,4,0,14.43
+37,4,2.03,Scholarship,11,5,1,29.52
+16,5,4.19,Scholarship,13,5,1,22.6
+11,3,6.78,Exam Form,12,6,1,38.8
+23,3,8.39,Exam Form,12,4,1,80.52
+28,4,3.07,ID Card,16,3,1,33.36
+24,2,2.88,Bonafide Certificate,16,4,1,42.44
+35,3,9.38,Bonafide Certificate,15,4,1,133.84
+25,2,8.01,Bonafide Certificate,9,3,0,109.91
+37,4,6.72,Exam Form,12,2,1,77.88
+0,2,8.15,ID Card,9,6,0,3.59
+19,2,5.43,Bonafide Certificate,13,5,1,59.09
+27,2,8.07,Fee Payment,11,3,1,116.79
+15,3,4.97,Document Verification,11,0,1,40.2
+16,1,3.95,Enquiry,12,0,1,67.28
+39,5,7.83,Scholarship,10,0,0,63.82
+27,2,5.36,Scholarship,15,0,1,86.48
+11,2,9.85,Fee Payment,12,6,1,64.46
+26,2,4.8,Bonafide Certificate,13,1,1,69.27
+29,1,9.37,ID Card,10,2,0,272.48
+40,4,9.46,ID Card,14,1,0,105.39
+33,3,3.93,Exam Form,17,4,0,51.71
+36,1,8.39,Bonafide Certificate,16,4,1,306.43
+5,2,5.46,ID Card,16,3,1,18.49
+6,1,9.34,Bonafide Certificate,10,0,0,59.6
+31,1,5.6,Scholarship,12,3,1,188.56
+31,1,7.95,Enquiry,16,4,1,256.97
+24,4,5.74,Enquiry,9,0,0,41.94
+32,5,3.82,Enquiry,16,6,1,26.5
+6,3,3.59,Scholarship,11,5,1,20.08
+11,4,5.4,Exam Form,16,2,1,32.56
+15,4,8.04,Enquiry,14,4,0,38.5
+15,5,6.84,Scholarship,15,5,1,33.96
+35,4,7.51,Bonafide Certificate,10,3,0,80.1
+12,1,4.26,Enquiry,9,5,0,56.54
+6,1,5.85,Fee Payment,14,3,0,43.28
+35,2,2.36,Exam Form,11,4,1,53.39
+8,4,8.54,Fee Payment,12,1,1,22.96
+31,2,9.92,Bonafide Certificate,17,6,0,155.25
+10,3,5.26,Exam Form,11,6,1,30.24
+7,1,2.09,Fee Payment,10,2,0,17.77
+32,3,3.36,Exam Form,10,6,0,35.75
+22,5,7.22,Bonafide Certificate,10,5,0,32.67
+24,1,6.9,ID Card,14,6,0,169.25
+7,3,8.3,Enquiry,10,5,0,25.28
+21,5,4.03,Exam Form,15,4,1,28.87
+3,3,8.11,Enquiry,15,6,1,15.82
+39,5,7.5,Enquiry,15,4,1,62.58
+2,5,4.58,ID Card,10,6,0,6.93
+28,1,6.36,Bonafide Certificate,15,3,1,193.47
+40,2,3.18,Exam Form,16,0,1,76.19
+28,5,5.62,Exam Form,16,0,1,37.45
+33,5,9.05,ID Card,10,0,0,59.72
+33,1,5.37,Scholarship,13,3,1,191.55
+27,2,8.72,ID Card,14,0,0,121.78
+12,4,6.72,ID Card,17,4,0,24.87
+14,4,3.54,ID Card,14,1,0,14.92
+22,2,6.65,Bonafide Certificate,14,1,0,80.15
+25,3,6.05,Document Verification,14,6,0,55.2
+3,1,5.19,ID Card,17,1,0,19.82
+25,2,2.96,Exam Form,15,0,1,45.56
+39,4,5.33,Fee Payment,9,1,0,59.69
+8,5,2.58,Scholarship,9,5,0,10.25
+4,4,2.79,ID Card,12,0,1,15.22
+31,5,5.33,ID Card,10,5,0,33.26
+19,1,4.44,Scholarship,11,4,1,103.35
+10,5,9.4,ID Card,15,5,1,33.92
+14,2,5.01,Exam Form,15,4,1,39.4
+31,5,8.06,Document Verification,11,3,1,57.78
+27,3,6.24,ID Card,10,3,0,63.09
+21,2,7.63,Scholarship,9,6,0,81.86
+40,1,4.08,ID Card,17,5,0,167.71
+16,2,9.54,Bonafide Certificate,11,2,1,87.99
+25,3,6.24,Exam Form,17,4,0,58.27
+6,1,8.65,Exam Form,12,0,1,66.06
+25,4,4.92,Document Verification,14,2,0,33.98
+24,3,2.8,Bonafide Certificate,15,4,1,23.44
+9,1,7.39,Bonafide Certificate,14,0,0,75.44
+18,5,2.06,Document Verification,9,4,0,17.33
+10,2,5.8,Enquiry,14,4,0,42.03
+12,1,3.54,Enquiry,14,0,0,36.68
+7,2,7.02,Fee Payment,13,4,1,36.57
+39,5,9.84,Enquiry,11,4,1,76.84
+3,1,5.72,ID Card,11,4,1,34.17
+30,4,8.54,Bonafide Certificate,15,6,1,76.0
+27,3,6.06,Fee Payment,16,3,1,59.75
+10,1,5.97,Fee Payment,11,1,1,71.79
+0,5,9.44,Exam Form,11,4,1,9.79
+37,1,9.12,ID Card,15,6,1,348.63
+23,2,8.29,Exam Form,15,0,1,108.12
+30,1,4.37,Scholarship,17,5,0,145.08
+40,4,6.36,Enquiry,14,4,0,73.86
+25,1,3.79,Exam Form,15,6,1,104.39
+4,3,5.55,Bonafide Certificate,9,3,0,16.63
+19,1,5.87,Bonafide Certificate,15,6,1,123.02
+40,2,8.65,ID Card,10,3,0,172.41
+10,1,9.17,Fee Payment,15,5,1,97.9
+32,4,5.32,Bonafide Certificate,11,4,1,61.88
+37,5,2.14,Enquiry,17,2,0,20.28
+26,1,8.89,Exam Form,13,5,1,247.25
+33,1,3.39,Enquiry,15,1,1,119.16
+14,3,6.98,Exam Form,16,0,1,42.39
+31,4,2.2,ID Card,10,6,0,22.16
+20,5,5.2,Enquiry,9,0,0,22.72
+4,2,9.89,Exam Form,15,0,1,25.8
+5,1,2.81,Enquiry,14,0,0,13.01
+37,5,5.39,Document Verification,14,3,0,48.71
+21,2,4.46,ID Card,10,6,0,50.28
+17,4,9.24,ID Card,11,1,1,49.38
+13,4,8.95,Bonafide Certificate,12,4,1,40.04
+9,5,3.9,ID Card,11,4,1,18.28
+12,2,2.65,Scholarship,10,2,0,27.48
+30,4,7.02,Bonafide Certificate,11,4,1,58.23
+29,5,4.69,Bonafide Certificate,14,1,0,34.49
+2,4,7.38,Enquiry,17,4,0,9.71
+29,4,2.26,Document Verification,12,3,1,31.31
+5,4,3.07,Bonafide Certificate,14,5,0,3.18
+28,3,7.49,Fee Payment,9,4,0,74.94
+7,2,3.7,Exam Form,14,0,0,26.81
+32,5,8.86,Exam Form,11,0,1,68.31
+16,5,2.47,ID Card,17,5,0,14.83
+10,2,3.72,Enquiry,12,0,1,29.74
+12,2,9.99,Document Verification,15,0,1,66.83
+10,2,5.46,Exam Form,12,3,1,46.66
+30,2,7.62,Fee Payment,14,3,0,120.35
+27,1,3.46,Document Verification,15,3,1,106.53
+5,5,6.88,Scholarship,10,4,0,7.23
+40,1,7.81,Exam Form,14,5,0,322.53
+15,4,4.52,Bonafide Certificate,16,0,1,28.96
+3,4,8.63,Fee Payment,14,2,0,16.97
+34,5,6.83,Enquiry,10,5,0,48.18
+25,4,5.11,Enquiry,12,2,1,36.01
+11,2,6.46,Fee Payment,9,0,0,36.81
+10,1,6.61,Exam Form,15,1,1,76.12
+36,2,3.32,ID Card,16,5,1,65.36
+24,4,5.22,Scholarship,10,4,0,43.49
+17,1,4.75,Bonafide Certificate,13,2,1,96.02
+18,2,5.21,Scholarship,16,5,1,58.08
+22,5,8.09,Scholarship,16,5,1,46.02
+37,2,5.86,Exam Form,13,3,1,113.15
+17,4,9.52,Bonafide Certificate,16,1,1,53.25
+25,1,4.35,Exam Form,14,3,0,122.35
+5,5,5.33,Exam Form,13,1,1,14.78
+3,1,8.3,ID Card,12,1,1,34.42
+28,5,6.37,Fee Payment,13,4,1,46.4
+33,1,6.38,Enquiry,12,5,1,225.31
+16,4,2.43,ID Card,9,3,0,15.51
+15,5,5.19,Enquiry,11,3,1,24.35
+1,3,4.17,ID Card,16,2,1,12.11
+33,1,9.99,Exam Form,15,5,1,336.12
+7,1,4.47,ID Card,15,0,1,35.48
+12,2,9.08,Enquiry,11,0,1,59.22
+7,5,7.41,ID Card,17,2,0,19.43
+29,3,4.73,Document Verification,14,1,0,50.36
+31,4,6.35,Bonafide Certificate,16,2,1,57.08
+35,2,8.72,Fee Payment,16,2,1,159.49
+29,3,9.07,Enquiry,11,3,1,95.1
+0,5,3.28,Bonafide Certificate,12,2,1,16.81
+38,3,4.72,Fee Payment,14,6,0,63.14
+16,1,4.68,Document Verification,10,1,0,77.76
+19,1,2.34,Exam Form,15,0,1,56.49
+23,2,6.79,Enquiry,10,4,0,88.06
+21,5,8.84,Fee Payment,13,5,1,44.11
+28,5,5.05,Fee Payment,12,2,1,32.57
+21,3,7.92,Fee Payment,17,5,0,57.44
+8,2,7.02,Document Verification,10,2,0,34.6
+36,5,5.01,Bonafide Certificate,15,6,1,48.79
+9,1,3.13,Document Verification,15,5,1,43.18
+35,3,7.67,Fee Payment,15,3,1,94.35
+36,4,8.84,ID Card,9,3,0,80.73
+27,1,7.49,Fee Payment,16,5,1,209.85
+27,2,2.14,ID Card,10,2,0,36.67
+20,5,3.73,Exam Form,13,6,1,21.88
+23,1,2.56,Document Verification,10,6,0,62.36
+39,4,6.56,ID Card,13,2,1,71.62
+1,4,8.05,Document Verification,15,1,1,16.78
+7,2,2.88,Scholarship,14,0,0,19.21
+26,1,8.71,Bonafide Certificate,13,0,1,239.99
+21,3,6.44,Scholarship,12,6,1,62.46
+36,1,7.52,ID Card,16,4,1,279.49
+26,4,9.77,Scholarship,16,0,1,70.76
+28,2,2.67,Enquiry,9,4,0,35.65
+2,2,9.21,Bonafide Certificate,10,3,0,6.86
+12,3,3.01,ID Card,11,4,1,20.2
+9,2,5.14,Exam Form,9,4,0,28.61
+35,2,8.81,Exam Form,11,0,1,169.35
+8,2,9.25,Bonafide Certificate,16,6,1,47.07
+26,2,6.05,Bonafide Certificate,12,2,1,86.7
+33,2,6.75,ID Card,15,6,1,120.96
+0,4,7.67,Document Verification,15,3,1,6.84
+31,1,8.66,Enquiry,13,1,1,280.63
+24,5,2.97,ID Card,9,4,0,16.12
+28,2,8.48,Document Verification,12,4,1,125.17
+6,5,5.85,Document Verification,15,5,1,21.29
+2,5,5.6,Document Verification,13,4,1,15.54
+19,4,5.39,ID Card,10,6,0,23.71
+19,2,6.07,Fee Payment,16,2,1,70.12
+29,5,9.56,Fee Payment,10,1,0,56.48
+34,2,6.39,Exam Form,16,6,1,119.06
+34,3,9.63,Fee Payment,10,5,0,113.84
+38,3,3.44,Fee Payment,13,6,1,54.95
+26,3,7.79,Document Verification,12,0,1,80.32
+25,5,8.5,Document Verification,9,3,0,48.29
+13,3,7.43,Bonafide Certificate,16,2,1,40.51
+16,4,6.86,Document Verification,11,1,1,40.07
+17,4,6.52,ID Card,12,3,1,37.23
+28,5,8.89,Bonafide Certificate,12,0,1,66.99
+19,2,8.57,Enquiry,13,3,1,91.79
+26,1,2.98,Bonafide Certificate,11,5,1,83.74
+17,2,8.79,Fee Payment,17,4,0,76.79
+3,2,5.31,Document Verification,12,4,1,19.16
+0,2,4.03,Fee Payment,12,2,1,14.2
+0,2,8.96,Document Verification,14,3,0,11.64
+25,1,5.46,Fee Payment,16,6,1,143.82
+19,3,8.47,Enquiry,15,4,1,57.89
+22,2,4.11,Fee Payment,12,2,1,49.93
+9,4,2.03,Fee Payment,12,2,1,14.58
+10,5,5.96,ID Card,13,5,1,31.14
+40,5,2.8,Enquiry,13,2,1,32.57
+40,4,8.04,Exam Form,9,0,0,80.97
+4,2,4.21,Enquiry,16,6,1,13.51
+0,1,5.55,Fee Payment,13,4,1,6.5
+16,3,2.7,Scholarship,11,4,1,23.09
+21,5,4.29,Scholarship,11,1,1,28.48
+33,3,8.25,Scholarship,12,0,1,104.25
+40,1,3.21,ID Card,15,4,1,141.24
+28,5,7.18,Bonafide Certificate,13,5,1,54.56
+3,3,9.34,Fee Payment,9,4,0,15.44
+4,1,7.44,Enquiry,13,1,1,29.94
+10,3,8.49,Scholarship,13,3,1,36.06
+20,2,2.87,ID Card,14,3,0,33.09
+34,1,4.01,Bonafide Certificate,15,0,1,146.79
+11,3,9.16,Scholarship,13,2,1,49.02
+25,2,7.72,Document Verification,10,1,0,102.68
+18,2,7.12,Exam Form,10,1,0,71.25
+6,1,7.31,Fee Payment,12,4,1,53.81
+6,4,5.31,Exam Form,9,5,0,13.95
+25,5,2.36,Exam Form,15,4,1,24.13
+39,1,8.28,Document Verification,9,5,0,333.25
+4,2,7.43,Document Verification,11,1,1,25.52
+20,2,5.78,Document Verification,15,2,1,68.7
+13,1,9.2,Bonafide Certificate,14,3,0,124.44
+3,4,4.69,Scholarship,15,0,1,20.71
+22,5,4.35,Enquiry,13,6,1,22.73
+19,3,8.98,Fee Payment,16,5,1,72.99
+14,1,8.38,Document Verification,14,3,0,118.56
+28,5,6.12,ID Card,12,0,1,41.65
+7,5,3.05,Fee Payment,9,2,0,11.24
+40,2,3.72,Enquiry,10,1,0,81.53
+18,3,7.25,Fee Payment,14,2,0,41.88
+38,1,5.08,Fee Payment,12,5,1,197.68
+27,2,8.69,Document Verification,11,1,1,129.45
+26,2,9.6,Document Verification,15,4,1,145.17
+3,4,8.45,Scholarship,15,0,1,23.32
+14,5,5.02,Enquiry,10,4,0,16.06
+34,1,8.31,Document Verification,16,1,1,283.85
+36,1,4.81,Document Verification,9,6,0,179.54
+0,1,3.34,Fee Payment,15,0,1,10.45
+2,2,2.27,Scholarship,9,0,0,7.74
+23,4,5.09,Exam Form,11,4,1,37.84
+26,3,9.23,Document Verification,11,0,1,91.62
+39,2,3.91,ID Card,10,1,0,77.51
+35,3,3.65,Document Verification,13,6,1,61.1
+33,4,9.76,Exam Form,12,5,1,98.58
+28,5,2.2,Fee Payment,14,5,0,18.95
+23,1,8.29,Enquiry,10,1,0,193.94
+23,3,4.57,Scholarship,12,4,1,44.4
+3,2,2.3,Fee Payment,15,2,1,12.37
+2,3,9.34,Enquiry,9,1,0,15.79
+33,5,3.12,Bonafide Certificate,11,5,1,34.05
+22,1,6.41,Document Verification,9,1,0,147.93
+22,3,4.19,Enquiry,10,0,0,37.44
+4,5,2.52,ID Card,17,0,0,9.2
+30,2,2.4,Enquiry,13,1,1,45.58
+40,4,2.92,Bonafide Certificate,12,4,1,43.17
+5,2,2.57,Document Verification,12,2,1,19.5
+36,1,8.08,Bonafide Certificate,16,0,1,304.47
+9,2,5.88,Exam Form,11,5,1,39.13
+39,2,4.74,Document Verification,12,6,1,102.47
+6,2,5.35,ID Card,10,0,0,18.85
+38,2,9.43,Document Verification,14,5,0,182.53
+37,1,9.29,Bonafide Certificate,17,6,0,342.16
+20,5,7.73,Scholarship,12,2,1,39.25
+19,3,9.08,Bonafide Certificate,14,6,0,58.73
+2,4,4.56,Document Verification,12,0,1,11.25
+21,3,5.05,Document Verification,10,6,0,47.59
+3,3,6.91,Enquiry,14,4,0,9.28
+27,4,6.99,Scholarship,15,5,1,60.14
+11,1,5.85,Fee Payment,12,0,1,74.48
+37,4,5.21,Scholarship,15,0,1,66.5
+35,1,9.89,Fee Payment,16,1,1,352.83
+40,3,8.57,ID Card,11,4,1,123.36
+4,1,5.48,Document Verification,10,4,0,27.49
+12,5,7.82,Enquiry,13,1,1,31.31
+22,4,4.16,Exam Form,10,6,0,35.24
+29,5,2.8,Exam Form,13,5,1,30.15
+36,3,4.82,Bonafide Certificate,14,3,0,67.77
+24,4,5.22,Scholarship,16,2,1,44.05
+26,3,2.13,Scholarship,14,4,0,24.79
+13,5,8.52,Exam Form,12,3,1,38.86
+35,3,4.87,Fee Payment,11,5,1,67.81
+38,4,6.64,Scholarship,10,2,0,67.17
+15,4,2.59,Fee Payment,9,4,0,17.71
+21,3,3.4,Fee Payment,10,0,0,26.97
+20,4,9.12,Fee Payment,10,4,0,48.26
+20,4,6.87,Fee Payment,13,2,1,46.92
+7,3,9.6,Enquiry,17,6,0,25.05
+15,5,9.99,Bonafide Certificate,9,3,0,36.53
+30,4,4.97,Bonafide Certificate,12,6,1,49.96
+9,4,4.39,Enquiry,15,0,1,14.75
+31,4,8.87,Exam Form,11,2,1,82.26
+33,4,9.99,Bonafide Certificate,16,5,1,97.81
+8,3,7.04,ID Card,11,6,1,24.94
+16,5,8.36,Enquiry,16,2,1,36.56
+10,5,8.25,Scholarship,10,4,0,20.19
+31,1,4.84,ID Card,13,5,1,164.21
+9,4,6.59,Enquiry,12,1,1,26.88
+21,4,8.66,Bonafide Certificate,17,1,0,49.07
+16,1,7.5,Scholarship,11,6,1,140.92
+3,5,2.17,Scholarship,13,0,1,17.73
+24,2,4.69,Fee Payment,17,2,0,63.15
+20,2,3.16,Exam Form,14,3,0,41.16
+36,5,3.86,Fee Payment,10,0,0,35.75
+37,4,9.24,Enquiry,9,5,0,84.52
+0,2,2.3,Fee Payment,9,6,0,4.78
+24,3,3.76,ID Card,15,0,1,41.6
+35,3,4.48,Bonafide Certificate,10,6,0,55.63
+16,1,6.94,ID Card,15,4,1,122.82
+40,5,6.27,Bonafide Certificate,9,5,0,60.11
+23,5,3.75,ID Card,12,3,1,25.55
+1,2,3.31,Scholarship,12,2,1,13.44
+39,4,3.89,Bonafide Certificate,13,5,1,44.69
+14,5,6.02,Bonafide Certificate,9,2,0,14.71
+31,2,4.17,ID Card,15,2,1,77.74
+38,2,9.58,Document Verification,10,0,0,187.93
+5,5,5.71,Scholarship,10,4,0,12.9
+0,2,2.47,Enquiry,16,0,1,4.05
+22,1,7.83,Scholarship,17,1,0,178.61
+38,1,4.63,Enquiry,14,1,0,183.36
+16,5,7.23,Document Verification,9,2,0,29.13
+33,4,4.24,ID Card,9,4,0,40.07
+40,1,6.57,ID Card,15,5,1,273.47
+28,1,8.18,Scholarship,16,2,1,236.02
+8,5,9.42,ID Card,11,5,1,27.58
+12,3,4.09,Exam Form,17,2,0,18.34
+5,2,4.68,Exam Form,12,0,1,19.94
+5,1,5.71,Enquiry,12,2,1,32.37
+19,3,9.42,Document Verification,11,2,1,69.94
+2,4,9.21,Bonafide Certificate,16,4,1,13.2
+16,3,2.72,Exam Form,17,4,0,21.5
+11,5,3.06,Enquiry,9,6,0,6.1
+0,4,5.96,ID Card,10,5,0,9.02
+16,4,2.85,Document Verification,9,4,0,20.75
+2,3,4.76,Enquiry,12,2,1,10.48
+25,5,3.19,Enquiry,15,4,1,22.02
+14,1,7.09,Exam Form,15,4,1,108.92
+35,3,9.6,Fee Payment,14,3,0,114.71
+31,1,9.97,Document Verification,13,3,1,314.59
+31,3,5.0,Scholarship,12,1,1,59.85
+3,1,6.79,Enquiry,16,0,1,31.82
+17,3,8.85,Exam Form,15,6,1,63.36
+18,4,2.94,Scholarship,9,6,0,26.77
+34,2,7.52,Document Verification,14,0,0,132.58
+39,4,5.27,Exam Form,10,4,0,56.94
+13,1,3.65,Scholarship,12,1,1,57.81
+32,5,5.22,Bonafide Certificate,13,1,1,42.14
+13,4,2.61,Enquiry,16,5,1,13.84
+33,2,7.56,Bonafide Certificate,14,6,0,130.88
+3,1,4.02,Fee Payment,10,3,0,16.18
+23,4,4.49,ID Card,13,1,1,33.79
+28,3,2.97,Document Verification,13,2,1,43.71
+18,5,8.92,ID Card,14,5,0,44.69
+5,1,5.95,ID Card,9,6,0,39.4
+32,4,6.58,Scholarship,16,4,1,66.85
+39,1,6.56,Fee Payment,11,2,1,267.71
+18,3,5.28,Document Verification,13,0,1,50.13
+0,2,3.54,Bonafide Certificate,15,6,1,13.04
+4,4,7.96,ID Card,11,3,1,15.62
+26,1,3.02,Scholarship,14,2,0,87.0
+15,1,2.83,ID Card,13,4,1,54.97
+5,1,7.68,Exam Form,15,2,1,46.43
+39,2,3.67,Bonafide Certificate,11,2,1,80.44
+12,1,4.45,ID Card,10,1,0,62.85
+34,5,5.8,Exam Form,12,3,1,44.16
+18,5,5.59,Exam Form,11,0,1,27.14
+11,1,7.67,Scholarship,12,4,1,95.65
+15,5,6.99,Scholarship,15,5,1,34.38
+9,4,7.16,Exam Form,13,5,1,22.67
+24,5,7.71,Fee Payment,12,4,1,45.51
+19,1,4.34,ID Card,14,0,0,92.09
+30,3,4.58,Exam Form,15,4,1,58.06
+3,4,5.5,Exam Form,13,1,1,19.88
+22,2,4.46,Scholarship,15,5,1,58.69
+1,1,9.88,ID Card,11,6,1,16.64
+21,2,8.51,Document Verification,15,5,1,103.78
+36,3,3.32,Bonafide Certificate,11,6,1,51.28
+7,2,2.04,Scholarship,14,2,0,9.41
+6,1,2.34,ID Card,16,1,1,20.85
+13,1,3.95,ID Card,14,5,0,62.64
+2,3,2.91,Enquiry,11,1,1,6.24
+15,1,6.27,Fee Payment,13,1,1,106.74
+18,3,8.86,Bonafide Certificate,17,0,0,56.27
+17,3,7.89,Scholarship,16,5,1,56.72
+15,1,3.72,Scholarship,14,6,0,64.05
+7,5,5.19,Document Verification,17,3,0,4.87
+32,3,6.06,Enquiry,10,6,0,61.82
+11,1,8.48,Enquiry,17,0,0,96.64
+10,5,8.71,Fee Payment,14,0,0,18.53
+4,3,9.28,Enquiry,17,1,0,19.36
+26,5,6.07,Fee Payment,12,3,1,34.16
+11,4,7.55,ID Card,13,0,1,33.04
+16,4,2.89,ID Card,10,3,0,11.07
+5,5,6.52,Scholarship,11,5,1,17.11
+32,3,3.99,Document Verification,9,1,0,44.3
+4,1,5.45,Scholarship,12,0,1,41.42
+27,2,7.07,Enquiry,10,3,0,93.12
+13,1,4.06,Exam Form,10,4,0,59.24
+4,2,2.42,ID Card,9,6,0,2.93
+32,2,2.08,Exam Form,10,0,0,46.71
+40,3,2.18,Enquiry,12,0,1,38.64
+18,5,2.07,Document Verification,14,0,0,13.99
+21,1,2.88,Scholarship,15,3,1,78.44
+4,5,3.92,ID Card,15,2,1,13.72
+1,4,3.77,Document Verification,15,5,1,12.82
+29,3,9.89,Scholarship,12,6,1,108.17
+38,3,4.45,Scholarship,13,0,1,70.6
+3,4,3.02,Exam Form,11,4,1,12.29
+32,1,6.36,Bonafide Certificate,9,4,0,207.81
+12,4,8.86,Enquiry,16,1,1,37.83
+19,1,7.42,Fee Payment,15,2,1,151.17
+6,2,4.37,ID Card,17,2,0,17.65
+14,3,6.49,Fee Payment,12,3,1,33.7
+22,1,7.72,Document Verification,13,1,1,186.81
+13,5,7.82,Fee Payment,13,6,1,26.7
+22,5,7.33,Exam Form,15,3,1,48.21
+18,3,8.97,Bonafide Certificate,17,1,0,59.5
+28,4,8.96,ID Card,16,5,1,67.55
+19,4,6.63,Enquiry,15,2,1,44.51
+28,1,5.44,Scholarship,9,6,0,160.31
+23,4,7.13,Scholarship,14,5,0,53.35
+17,3,8.55,Enquiry,17,6,0,50.7
+9,1,2.05,Exam Form,15,3,1,33.22
+40,2,9.94,ID Card,9,1,0,196.67
+7,4,3.46,Fee Payment,17,2,0,8.06
+25,4,5.76,Enquiry,11,2,1,38.92
+28,1,8.98,Scholarship,17,6,0,256.84
+9,5,3.8,Fee Payment,12,6,1,17.73
+16,4,5.81,Exam Form,17,6,0,27.84
+1,3,3.06,Scholarship,16,0,1,16.48
+5,4,5.16,Document Verification,15,3,1,14.02
+4,2,3.42,Bonafide Certificate,12,0,1,20.38
+27,4,4.91,Fee Payment,17,6,0,42.37
+40,5,4.99,Enquiry,12,6,1,51.96
+4,4,9.95,ID Card,9,2,0,13.57
+17,1,9.96,Fee Payment,14,3,0,164.79
+25,4,2.92,Fee Payment,12,3,1,29.57
+19,5,7.81,Fee Payment,11,5,1,38.17
+40,1,2.41,Enquiry,13,4,1,100.64
+26,3,2.24,Exam Form,11,1,1,29.2
+11,1,2.84,Exam Form,17,4,0,44.01
+6,2,9.72,ID Card,14,4,0,29.62
+2,1,9.53,Exam Form,11,6,1,32.93
+9,3,3.55,Enquiry,13,2,1,19.53
+33,4,3.29,ID Card,16,5,1,35.74
+24,1,3.92,ID Card,16,1,1,106.76
+34,1,6.12,Exam Form,14,6,0,221.76
+15,1,6.56,Scholarship,13,6,1,109.18
+1,1,3.77,Exam Form,13,4,1,14.8
+23,3,8.05,Scholarship,9,4,0,71.23
+9,5,4.48,Document Verification,10,3,0,17.73
+37,5,9.38,Exam Form,12,2,1,80.88
+21,1,7.25,Document Verification,14,4,0,157.11
+25,3,5.49,Exam Form,15,1,1,48.89
+38,3,8.32,Document Verification,9,0,0,108.27
+26,1,8.54,Bonafide Certificate,16,6,1,227.57
+28,2,4.32,Document Verification,9,0,0,69.27
+37,1,4.72,Scholarship,17,2,0,180.58
+19,2,9.49,Fee Payment,12,0,1,98.0
+26,1,3.32,ID Card,15,3,1,96.23
+40,2,2.34,Document Verification,14,3,0,49.26
+19,2,5.63,Fee Payment,17,1,0,63.72
+18,1,8.41,Enquiry,10,5,0,159.57
+19,2,8.17,Bonafide Certificate,15,2,1,94.12
+34,4,9.36,Bonafide Certificate,13,2,1,92.26
+1,5,6.27,Enquiry,15,6,1,9.14
+29,3,2.8,Enquiry,9,0,0,36.53
+33,2,6.71,Enquiry,17,4,0,110.98
+21,2,8.23,Scholarship,9,4,0,89.9
+2,3,2.75,Enquiry,13,5,1,7.43
+5,2,3.38,Scholarship,16,6,1,22.54
+14,3,2.1,Document Verification,9,4,0,12.74
+26,1,6.75,Exam Form,15,5,1,186.86
+9,4,9.09,Enquiry,10,6,0,17.05
+8,4,7.37,Enquiry,15,1,1,24.66
+32,5,9.86,Bonafide Certificate,15,2,1,67.01
+31,2,2.5,Fee Payment,17,0,0,39.09
+5,5,9.22,Exam Form,14,1,0,21.09
+40,1,8.51,Bonafide Certificate,12,3,1,355.22
+35,4,4.51,Document Verification,15,3,1,51.99
+1,1,9.79,Enquiry,15,3,1,18.89
+28,1,4.3,Bonafide Certificate,12,5,1,128.37
+3,2,9.11,Scholarship,10,5,0,17.58
+0,1,9.05,Fee Payment,17,6,0,2.55
+18,4,8.06,Fee Payment,16,2,1,39.22
+25,5,6.51,Scholarship,13,3,1,45.55
+24,4,2.96,Enquiry,13,5,1,25.96
+9,2,6.26,Enquiry,9,6,0,27.42
+14,4,4.85,Exam Form,17,5,0,30.27
+21,3,8.34,Scholarship,16,4,1,72.79
+20,5,8.07,Enquiry,13,5,1,43.03
+21,3,9.28,Fee Payment,14,3,0,67.04
+35,3,2.12,Enquiry,16,1,1,32.71
+33,2,8.47,Document Verification,14,3,0,148.31
+29,1,9.51,Enquiry,12,6,1,284.33
+24,3,8.31,Exam Form,11,6,1,84.92
+27,4,3.04,ID Card,15,6,1,29.72
+0,1,2.65,Bonafide Certificate,10,4,0,2.98
+3,4,2.17,ID Card,15,3,1,14.16
+6,4,7.03,Document Verification,9,0,0,11.49
+8,1,7.04,ID Card,13,4,1,70.0
+35,1,9.9,Enquiry,17,2,0,344.13
+18,4,5.18,Exam Form,9,3,0,32.88
+0,2,4.66,Fee Payment,16,5,1,6.41
+9,5,7.0,Fee Payment,17,1,0,18.5
+35,5,8.6,Document Verification,17,3,0,69.86
+8,2,9.49,ID Card,16,1,1,48.59
+31,1,8.42,Exam Form,12,6,1,268.38
+31,4,5.41,Bonafide Certificate,15,6,1,48.37
+5,5,7.08,Enquiry,9,0,0,7.16
+37,4,8.85,ID Card,15,2,1,84.29
+16,2,5.92,ID Card,14,5,0,56.91
+9,4,3.73,Bonafide Certificate,13,4,1,18.84
+26,2,3.36,Scholarship,9,4,0,46.11
+34,1,2.0,Enquiry,16,2,1,81.87
+20,2,7.75,Document Verification,9,0,0,80.65
+24,2,2.89,Enquiry,9,0,0,38.67
+27,5,3.95,Exam Form,11,6,1,30.03
+14,4,4.38,Document Verification,16,3,1,18.27
+3,5,6.48,Bonafide Certificate,16,0,1,8.43
+28,3,5.18,Exam Form,15,3,1,58.59
+8,2,7.4,Fee Payment,13,1,1,42.18
+26,3,2.45,Fee Payment,16,2,1,31.58
+25,5,2.99,Enquiry,10,1,0,18.52
+18,4,5.99,Exam Form,16,1,1,30.93
+27,5,4.7,Document Verification,10,1,0,36.44
+16,4,4.37,Document Verification,13,1,1,29.36
+40,4,2.54,Fee Payment,12,4,1,33.88
+19,1,9.17,Fee Payment,9,0,0,182.68
+39,2,7.53,Bonafide Certificate,13,2,1,161.91
+38,5,2.97,Exam Form,15,2,1,39.21
+22,4,2.52,Document Verification,9,5,0,18.87
+31,5,9.8,Bonafide Certificate,10,1,0,61.74
+32,5,7.45,Document Verification,17,2,0,57.63
+4,4,5.34,Fee Payment,13,6,1,8.88
+33,3,7.61,Exam Form,15,3,1,103.54
+39,2,8.05,Scholarship,10,2,0,164.1
+10,2,8.24,Exam Form,15,6,1,48.95
+2,1,5.82,ID Card,15,1,1,16.72
+32,1,5.44,Scholarship,15,2,1,180.94
+10,1,2.09,Enquiry,13,0,1,29.44
+15,2,9.41,Enquiry,17,1,0,73.57
+17,3,6.83,Bonafide Certificate,10,4,0,38.74
+29,2,3.63,Scholarship,12,6,1,63.14
+9,2,9.36,Scholarship,10,0,0,43.63
+17,2,9.32,Bonafide Certificate,16,2,1,91.57
+37,2,9.91,Exam Form,9,4,0,190.18
+18,3,8.99,Bonafide Certificate,17,5,0,57.44
+35,1,9.98,ID Card,13,0,1,354.23
+12,5,3.96,Fee Payment,11,5,1,17.3
+2,1,8.74,Enquiry,12,3,1,23.82
+9,1,8.58,Fee Payment,9,0,0,82.53
+37,5,3.85,Enquiry,11,4,1,37.14
+0,2,2.79,Scholarship,16,5,1,15.17
+26,3,9.84,Bonafide Certificate,10,3,0,88.3
+7,3,4.37,Bonafide Certificate,10,5,0,7.75
+16,1,8.97,Bonafide Certificate,17,2,0,152.44
+8,5,2.03,ID Card,13,1,1,9.51
+5,4,2.17,ID Card,13,5,1,8.28
+24,2,5.73,Exam Form,9,2,0,75.55
+38,1,3.91,Document Verification,14,1,0,155.78
+27,3,7.52,Enquiry,16,1,1,73.55
+32,5,6.52,Document Verification,14,4,0,45.6
+36,5,2.62,Document Verification,15,6,1,28.3
+8,1,3.3,Enquiry,12,3,1,40.07
+17,4,5.1,Exam Form,10,6,0,28.68
+20,3,3.48,Bonafide Certificate,9,3,0,24.36
+1,1,8.34,Document Verification,14,0,0,10.51
+37,4,5.33,Bonafide Certificate,17,2,0,53.29
+39,5,2.75,Scholarship,13,4,1,34.38
+35,2,5.87,Document Verification,10,5,0,110.74
+36,3,2.73,Scholarship,9,2,0,40.22
+14,3,3.03,Exam Form,11,5,1,22.78
+27,4,3.92,Fee Payment,12,6,1,33.74
+17,1,8.88,ID Card,15,5,1,163.83
+33,5,9.4,Enquiry,17,6,0,60.44
+21,4,8.61,Exam Form,16,6,1,55.34
+10,2,4.67,Exam Form,17,5,0,32.75
+12,2,4.18,Exam Form,15,0,1,40.58
+3,2,6.39,Document Verification,16,6,1,19.82
+21,4,7.77,Scholarship,16,0,1,51.17
+6,5,9.95,ID Card,9,4,0,11.65
+23,3,3.05,Document Verification,17,0,0,31.51
+3,1,2.39,Fee Payment,10,4,0,16.46
+27,3,7.55,Enquiry,15,0,1,86.25
+14,5,8.66,Enquiry,13,3,1,33.79
+0,3,8.77,ID Card,12,4,1,9.8
+2,4,7.43,Enquiry,9,3,0,3.03
+13,2,9.63,Enquiry,9,6,0,58.09
+37,5,6.09,Exam Form,11,3,1,57.76
+0,5,9.31,Bonafide Certificate,9,4,0,14.4
+37,3,9.74,Fee Payment,16,2,1,134.24
+37,4,8.78,Scholarship,11,6,1,97.66
+20,3,4.48,Fee Payment,10,6,0,34.84
+28,3,3.57,Document Verification,14,1,0,40.76
+4,5,6.38,Enquiry,12,0,1,3.41
+9,3,5.62,Bonafide Certificate,12,5,1,29.92
+27,2,9.02,Document Verification,10,0,0,125.48
+20,3,2.8,ID Card,10,5,0,20.86
+6,2,4.06,Exam Form,14,2,0,17.89
+2,5,8.01,Enquiry,13,1,1,9.78
+19,4,2.76,Exam Form,17,2,0,17.24
+18,2,4.57,Fee Payment,12,1,1,50.15
+34,4,5.1,Exam Form,13,4,1,53.09
+3,4,6.98,Exam Form,9,4,0,12.64
+4,2,3.27,ID Card,10,5,0,5.58
+0,5,8.88,Scholarship,11,3,1,11.14
+3,1,5.58,Scholarship,13,3,1,24.36
+11,4,9.34,Document Verification,13,5,1,34.11
+26,4,5.74,Enquiry,12,4,1,45.9
+22,5,4.2,Document Verification,11,5,1,23.07
+24,5,3.13,Scholarship,17,3,0,18.76
+20,3,2.03,Fee Payment,9,5,0,19.81
+23,5,6.26,Scholarship,14,4,0,30.13
+24,4,2.86,Document Verification,15,2,1,35.25
+31,2,5.13,Bonafide Certificate,12,0,1,94.39
+31,1,6.71,Enquiry,11,4,1,214.16
+4,3,4.21,Exam Form,16,5,1,14.46
+35,2,3.4,ID Card,17,4,0,65.34
+38,1,8.2,Bonafide Certificate,9,4,0,310.73
+15,1,9.57,Bonafide Certificate,17,3,0,140.61
+32,1,2.8,Exam Form,15,5,1,99.88
+20,2,3.24,Scholarship,9,3,0,38.91
+8,3,9.68,Enquiry,15,5,1,34.19
+5,3,2.3,Fee Payment,13,3,1,10.38
+34,1,9.82,Bonafide Certificate,15,3,1,349.01
+38,2,2.04,Fee Payment,17,2,0,36.73
+21,1,8.99,ID Card,16,4,1,194.22
+40,5,4.46,ID Card,14,2,0,42.62
+4,3,9.51,ID Card,10,3,0,13.03
+22,4,4.54,Document Verification,16,2,1,31.14
+16,1,7.23,Bonafide Certificate,12,6,1,126.24
+11,5,2.64,ID Card,16,6,1,11.59
+22,3,3.94,Document Verification,15,4,1,39.35
+15,2,8.19,ID Card,12,4,1,68.62
+2,3,6.23,Scholarship,16,3,1,12.71
+29,2,9.42,Bonafide Certificate,10,4,0,133.24
+21,2,5.43,Document Verification,17,2,0,63.57
+8,1,8.96,ID Card,14,1,0,71.68
+28,1,5.59,Enquiry,15,4,1,163.89
+36,3,9.83,Document Verification,9,2,0,121.96
+22,5,9.68,ID Card,11,6,1,51.76
+12,3,4.63,Scholarship,13,6,1,29.93
+31,4,9.09,Fee Payment,15,2,1,80.2
+22,2,8.78,ID Card,9,6,0,98.68
+16,2,3.69,Fee Payment,17,2,0,38.45
+39,1,6.99,Bonafide Certificate,13,4,1,275.39
+20,5,2.58,Scholarship,11,1,1,21.42
+1,1,8.69,Enquiry,15,3,1,20.04
+36,4,3.4,Bonafide Certificate,16,3,1,42.47
+5,3,2.57,Enquiry,11,4,1,8.38
+17,3,5.2,Fee Payment,15,4,1,35.24
+29,5,6.62,Scholarship,15,6,1,46.34
+21,1,8.84,Exam Form,12,0,1,200.02
+32,1,9.79,Scholarship,17,5,0,317.45
+29,4,5.52,Scholarship,9,1,0,48.01
+16,3,2.48,Enquiry,9,2,0,17.3
+31,1,7.99,Exam Form,13,5,1,269.25
+13,5,6.52,Document Verification,11,2,1,29.21
+9,3,5.58,Document Verification,17,5,0,19.5
+35,4,4.47,Document Verification,13,3,1,44.31
+33,5,6.02,Fee Payment,15,5,1,47.62
+8,2,4.71,Scholarship,9,4,0,25.36
+27,4,8.06,ID Card,10,1,0,50.54
+10,5,6.35,Exam Form,12,3,1,21.85
+13,1,9.01,ID Card,17,6,0,123.38
+38,2,6.35,Fee Payment,13,5,1,127.49
+18,4,3.91,Exam Form,13,1,1,33.45
+14,1,8.81,ID Card,17,4,0,122.09
+27,2,6.46,Enquiry,16,6,1,97.89
+23,3,3.65,Fee Payment,10,2,0,35.68
+7,1,6.99,Fee Payment,15,6,1,61.74
+8,5,4.86,Fee Payment,9,0,0,5.52
+32,4,8.76,Exam Form,17,1,0,78.3
+32,2,5.63,ID Card,11,2,1,97.35
+18,1,7.81,ID Card,10,1,0,139.98
+2,3,2.76,Bonafide Certificate,12,1,1,10.19
+9,4,5.17,Fee Payment,12,1,1,17.01
+39,4,9.87,Document Verification,11,4,1,110.88
+0,1,8.47,Scholarship,10,3,0,9.05
+28,3,3.28,Enquiry,13,1,1,34.0
+33,2,4.22,Enquiry,12,4,1,74.77
+12,1,4.64,Bonafide Certificate,13,0,1,64.14
+0,2,7.2,Bonafide Certificate,16,3,1,9.71
+33,4,8.06,Exam Form,10,4,0,77.49
+28,2,8.0,Bonafide Certificate,17,6,0,119.71
+12,3,6.08,ID Card,9,0,0,29.52
+28,5,8.49,Exam Form,16,6,1,58.48
+38,3,5.5,Exam Form,13,3,1,74.53
+23,2,2.99,Enquiry,10,4,0,42.57
+25,1,6.52,Enquiry,16,0,1,169.1
+16,4,9.62,Document Verification,13,4,1,55.69
+6,5,8.34,Fee Payment,11,0,1,19.8
+12,1,6.63,Bonafide Certificate,15,1,1,97.66
+4,1,7.17,Fee Payment,12,1,1,40.12
+25,3,9.44,Fee Payment,14,3,0,76.98
+2,2,5.43,Fee Payment,16,0,1,11.97
+6,3,4.65,Exam Form,9,1,0,15.63
+38,2,9.82,Fee Payment,10,3,0,187.05
+0,3,8.91,Bonafide Certificate,16,2,1,8.49
+16,1,4.58,Exam Form,15,1,1,79.88
+24,4,5.71,Bonafide Certificate,17,1,0,39.28
+2,2,5.32,Exam Form,10,5,0,13.27
+14,5,3.19,Scholarship,16,4,1,16.92
+28,5,9.66,Scholarship,14,2,0,68.87
+31,1,5.23,Scholarship,9,0,0,169.52
+25,3,9.0,Scholarship,12,3,1,83.75
+15,3,3.51,Exam Form,10,2,0,18.06
+24,1,6.38,Fee Payment,15,0,1,162.43
+27,5,2.19,Document Verification,17,1,0,16.79
+8,5,8.11,Enquiry,14,6,0,19.11
+0,3,6.65,ID Card,12,5,1,9.43
+28,2,7.0,Document Verification,13,6,1,104.29
+21,4,2.41,Scholarship,9,3,0,26.36
+15,2,3.69,Fee Payment,12,3,1,38.4
+40,5,2.59,Bonafide Certificate,11,2,1,29.74
+40,2,4.31,Fee Payment,17,4,0,90.88
+6,4,7.02,Bonafide Certificate,14,0,0,17.43
+13,2,6.53,Document Verification,12,5,1,47.73
+28,2,6.9,Fee Payment,11,5,1,106.19
+18,2,6.39,Fee Payment,12,6,1,64.75
+18,2,4.18,ID Card,16,2,1,49.69
+1,1,3.96,Document Verification,13,4,1,12.0
+40,5,3.1,Fee Payment,9,4,0,26.35
+14,4,8.79,Bonafide Certificate,13,4,1,47.43
+2,5,6.93,Enquiry,16,3,1,15.7
+10,1,3.49,Fee Payment,12,0,1,30.74
+29,1,3.42,Bonafide Certificate,10,0,0,108.74
+39,1,8.98,Scholarship,11,6,1,362.09
+17,1,7.94,Fee Payment,17,2,0,136.18
+1,2,7.28,Bonafide Certificate,15,1,1,9.61
+31,5,5.25,Enquiry,11,2,1,36.78
+7,3,4.1,Document Verification,13,0,1,17.84
+21,4,9.84,Scholarship,11,6,1,59.13
+5,1,8.38,Fee Payment,12,3,1,45.47
+11,5,4.41,ID Card,16,2,1,15.55
+39,1,8.78,Bonafide Certificate,11,6,1,353.73
+35,1,8.07,Enquiry,11,1,1,290.7
+14,1,4.38,ID Card,16,5,1,73.5
+27,1,5.41,Fee Payment,15,2,1,154.87
+17,1,3.49,Bonafide Certificate,15,6,1,64.06
+1,4,2.89,Fee Payment,10,4,0,6.7
+12,5,7.78,Scholarship,15,1,1,26.66
+14,1,4.14,Enquiry,11,4,1,68.55
+19,1,8.56,Enquiry,15,3,1,165.99
+28,1,9.96,Scholarship,12,0,1,288.27
+28,1,2.61,Fee Payment,16,2,1,80.72
+2,2,5.78,Fee Payment,16,6,1,17.48
+18,2,8.42,Exam Form,14,2,0,83.45
+2,3,8.31,Fee Payment,11,4,1,14.62
+13,1,8.08,Enquiry,14,4,0,115.58
+39,3,4.79,Fee Payment,14,0,0,58.95
+3,4,5.63,ID Card,11,6,1,10.07
+10,3,6.76,ID Card,12,2,1,28.21
+30,5,9.79,Scholarship,10,6,0,58.67
+31,2,4.62,ID Card,9,0,0,73.74
+26,2,9.39,Fee Payment,10,4,0,128.76
+29,1,4.15,Document Verification,15,5,1,129.12
+1,1,9.91,Fee Payment,13,6,1,17.58
+8,4,7.36,Enquiry,17,4,0,10.83
+27,4,5.71,Exam Form,11,1,1,47.34
+30,5,6.91,Bonafide Certificate,10,4,0,44.6
+33,1,4.18,Enquiry,12,4,1,148.52
+14,1,4.19,Scholarship,10,6,0,59.01
+24,4,2.91,ID Card,15,5,1,25.63
+35,4,2.91,Document Verification,14,0,0,35.83
+7,4,4.78,Enquiry,16,1,1,14.59
+8,2,8.1,Bonafide Certificate,13,1,1,33.95
+36,3,6.86,Document Verification,10,2,0,93.48
+38,3,2.82,Scholarship,12,5,1,50.67
+31,1,8.82,ID Card,9,3,0,281.83
+16,2,6.81,Exam Form,10,2,0,54.51
+34,4,9.69,Enquiry,12,2,1,96.39
+36,1,7.36,Enquiry,14,2,0,264.92
+18,2,3.4,Enquiry,12,1,1,36.57
+28,5,5.79,Scholarship,12,0,1,41.61
+6,2,7.19,Document Verification,10,6,0,31.35
+27,1,2.23,Document Verification,17,4,0,65.39
+8,3,2.12,Scholarship,16,1,1,19.58
+27,4,3.04,Enquiry,16,4,1,28.79
+5,5,4.01,Fee Payment,13,4,1,12.63
+28,2,5.44,Scholarship,11,3,1,84.32
+16,1,5.9,ID Card,14,6,0,106.64
+15,1,3.1,ID Card,17,2,0,45.71
+22,4,7.39,Exam Form,16,3,1,54.28
+30,1,6.77,Scholarship,15,2,1,216.58
+2,1,4.36,Bonafide Certificate,16,1,1,23.33
+20,4,2.11,ID Card,12,4,1,26.1
+25,5,2.62,ID Card,14,3,0,17.56
+35,3,5.13,ID Card,13,5,1,72.01
+36,3,3.23,Fee Payment,10,1,0,49.84
+21,2,5.01,Bonafide Certificate,16,1,1,62.39
+11,5,7.03,Enquiry,11,5,1,19.19
+12,2,6.38,Enquiry,13,2,1,44.73
+10,3,3.85,Scholarship,16,4,1,19.61
+15,4,4.75,Fee Payment,17,2,0,23.3
+7,1,6.91,ID Card,17,2,0,57.64
+39,3,8.89,Enquiry,13,1,1,123.04
+39,5,8.03,Bonafide Certificate,10,2,0,61.12
+1,3,6.43,Enquiry,15,0,1,14.23
+29,5,4.9,Bonafide Certificate,15,5,1,31.31
+29,5,4.92,Fee Payment,16,6,1,31.35
+11,5,9.04,Enquiry,16,5,1,27.16
+9,2,2.31,ID Card,13,4,1,21.42
+10,4,9.9,Fee Payment,9,5,0,30.45
+14,3,7.32,Document Verification,12,2,1,44.87
+15,4,7.45,ID Card,12,2,1,44.97
+16,1,2.3,Fee Payment,11,3,1,46.12
+25,3,6.84,Scholarship,16,4,1,73.17
+1,4,5.88,Enquiry,11,4,1,12.62
+11,4,2.85,ID Card,13,5,1,12.66
+25,1,4.22,Exam Form,10,2,0,111.91
+22,5,9.12,ID Card,14,0,0,53.63
+17,3,6.4,Document Verification,14,3,0,40.25
+31,3,5.31,Fee Payment,16,0,1,61.14
+37,1,2.58,Exam Form,16,2,1,108.2
+2,5,7.71,Document Verification,9,4,0,7.21
+37,3,7.62,Scholarship,13,4,1,102.84
+2,3,6.91,ID Card,10,6,0,7.68
+29,3,6.08,Enquiry,13,0,1,72.52
+0,5,5.47,Exam Form,17,6,0,6.45
+29,1,6.75,Enquiry,12,6,1,198.33
+31,3,3.87,Fee Payment,16,1,1,42.91
+27,4,9.53,Fee Payment,9,2,0,77.16
+20,5,6.71,Scholarship,16,4,1,37.95
+12,2,4.49,Document Verification,14,5,0,34.68
+26,1,5.6,Exam Form,16,1,1,154.45
+35,4,8.45,Scholarship,14,4,0,82.18
+6,3,3.29,Document Verification,11,5,1,23.42
+21,2,4.34,Bonafide Certificate,16,4,1,52.99
+9,1,7.44,Bonafide Certificate,13,1,1,78.76
+38,5,4.52,Document Verification,13,0,1,39.76
+14,2,8.34,Fee Payment,15,2,1,75.47
+14,2,3.04,Fee Payment,14,6,0,26.38
+3,4,8.1,Bonafide Certificate,17,1,0,9.42
+31,1,2.55,Fee Payment,15,1,1,86.76
+22,4,2.1,Enquiry,11,6,1,17.51
+5,4,9.19,Fee Payment,13,4,1,18.65
+23,3,6.65,Document Verification,17,5,0,47.2
+19,5,4.81,ID Card,10,6,0,22.9
+36,2,3.86,Document Verification,9,1,0,74.93
+19,1,6.94,Fee Payment,16,2,1,142.72
+11,5,6.07,Document Verification,16,6,1,22.27
+32,5,9.93,Exam Form,10,6,0,67.49
+27,1,9.87,Bonafide Certificate,16,0,1,276.34
+7,5,7.08,ID Card,13,5,1,13.46
+0,3,5.54,Exam Form,10,0,0,7.57
+36,5,5.93,Exam Form,15,0,1,47.24
+21,3,7.46,Fee Payment,15,2,1,65.7
+5,2,2.81,Fee Payment,11,4,1,18.77
+20,2,4.63,Exam Form,9,5,0,49.56
+31,4,2.6,Exam Form,12,5,1,34.81
+34,3,2.59,Scholarship,10,6,0,36.76
+14,2,3.57,Scholarship,12,2,1,32.93
+4,5,5.88,Enquiry,16,5,1,4.61
+5,1,8.28,Bonafide Certificate,10,1,0,47.66
+24,1,5.88,Exam Form,9,3,0,145.04
+39,3,4.68,Document Verification,11,6,1,76.27
+28,4,2.66,ID Card,15,3,1,28.67
+6,5,6.4,Scholarship,14,3,0,11.88
+39,3,4.17,Fee Payment,14,0,0,65.4
+12,1,6.92,Exam Form,15,5,1,97.34
+37,3,9.82,Document Verification,16,6,1,117.46
+17,5,2.89,ID Card,11,2,1,17.88
+1,2,3.7,Document Verification,11,5,1,7.31
+7,5,5.78,Enquiry,16,2,1,12.9
+10,2,9.75,Document Verification,15,5,1,59.17
+32,2,8.17,Fee Payment,13,6,1,141.21
+37,2,9.19,Scholarship,12,6,1,182.98
+26,3,4.67,Document Verification,14,0,0,50.78
+19,1,9.94,ID Card,17,6,0,196.34
+11,3,2.82,Scholarship,14,1,0,19.65
+30,1,2.42,Enquiry,16,3,1,81.52
+26,5,8.84,Enquiry,9,3,0,54.14
+31,4,9.42,Bonafide Certificate,14,5,0,76.73
+9,5,2.72,Fee Payment,10,0,0,7.74
+2,3,2.91,Scholarship,11,3,1,6.32
+26,3,2.27,Enquiry,14,5,0,26.86
+34,1,2.84,Enquiry,10,6,0,99.12
+30,3,3.68,Scholarship,12,4,1,60.49
+14,2,9.76,Document Verification,14,5,0,72.7
+15,3,7.34,ID Card,13,2,1,47.07
+12,1,8.23,Document Verification,14,3,0,106.93
+34,1,8.21,ID Card,14,3,0,279.7
+10,2,6.28,Enquiry,16,4,1,40.84
+20,1,8.38,Enquiry,17,6,0,170.74
+10,4,6.77,Fee Payment,13,1,1,24.7
+29,5,4.52,Scholarship,14,5,0,37.89
+34,3,6.49,Exam Form,14,1,0,76.93
+21,4,6.27,Enquiry,14,5,0,37.01
+37,3,8.59,ID Card,10,4,0,116.73
+30,4,9.85,ID Card,12,1,1,81.08
+13,3,5.29,Document Verification,9,0,0,27.73
+23,2,8.11,Document Verification,9,4,0,108.61
+31,1,2.8,Enquiry,9,6,0,91.64
+35,1,8.21,Enquiry,15,5,1,293.49
+31,2,4.97,Bonafide Certificate,9,2,0,85.27
+14,4,2.32,ID Card,14,6,0,10.83
+34,5,4.91,Fee Payment,10,6,0,31.1
+2,4,6.89,Scholarship,14,2,0,15.93
+15,1,2.95,Scholarship,14,2,0,46.9
+4,5,9.39,Scholarship,11,5,1,29.32
+20,3,2.62,ID Card,16,6,1,25.52
+9,5,9.44,Document Verification,12,3,1,36.53
+18,4,7.66,Fee Payment,15,4,1,37.98
+24,2,4.64,Scholarship,12,4,1,71.75
+3,3,5.13,ID Card,9,1,0,12.12
+28,4,7.93,Exam Form,14,4,0,65.84
+18,3,6.81,Enquiry,13,6,1,52.74
+1,5,7.37,Bonafide Certificate,17,4,0,4.48
+9,1,5.11,Bonafide Certificate,17,6,0,45.78
+24,4,5.9,Scholarship,16,1,1,47.21
+19,2,9.92,Document Verification,15,4,1,106.12
+18,5,3.71,Bonafide Certificate,10,4,0,16.47
+22,4,5.34,Bonafide Certificate,16,0,1,40.5
+23,2,4.33,Bonafide Certificate,11,5,1,61.17
+10,4,8.12,Bonafide Certificate,14,1,0,21.66
+33,5,8.11,Scholarship,15,0,1,67.12
+27,4,4.34,ID Card,14,3,0,33.22
+4,3,2.65,Fee Payment,13,1,1,9.73
+4,5,2.09,Fee Payment,12,6,1,13.82
+20,4,5.42,Document Verification,10,5,0,29.99
+11,1,5.28,ID Card,17,4,0,61.28
+3,4,9.91,Enquiry,15,6,1,15.72
+19,3,5.76,Exam Form,15,4,1,53.97
+37,2,4.05,Fee Payment,12,0,1,84.72
+24,2,9.13,Exam Form,13,0,1,123.67
+13,2,5.93,Fee Payment,14,3,0,41.34
+10,1,6.79,Fee Payment,10,3,0,71.62
+31,3,2.77,Document Verification,12,5,1,39.38
+10,5,5.06,Bonafide Certificate,12,4,1,21.3
+17,2,9.55,Document Verification,12,6,1,91.02
+26,3,6.72,Fee Payment,15,2,1,72.57
+17,4,4.76,ID Card,15,6,1,28.72
+22,1,7.01,Bonafide Certificate,15,3,1,157.29
+10,3,9.28,ID Card,15,4,1,51.92
+20,3,4.19,ID Card,10,6,0,31.64
+4,5,6.04,ID Card,13,6,1,20.09
+22,3,9.67,Bonafide Certificate,10,3,0,81.53
+40,5,3.38,ID Card,13,6,1,40.81
+24,1,7.76,Bonafide Certificate,14,6,0,190.38
+40,1,6.92,Exam Form,11,1,1,289.78
+9,4,7.44,Enquiry,14,0,0,14.64
+21,5,4.81,Fee Payment,13,4,1,37.16
+18,5,4.51,Scholarship,12,6,1,24.83
+0,2,7.47,ID Card,17,3,0,3.98
+6,2,3.72,Document Verification,16,0,1,22.57
+3,4,5.36,Exam Form,15,6,1,15.59
+0,1,3.51,Document Verification,9,6,0,3.37
+14,2,2.07,Scholarship,17,2,0,27.04
+39,3,9.76,Bonafide Certificate,17,3,0,135.69
+11,1,5.45,Scholarship,14,4,0,68.28
+21,3,9.75,Document Verification,15,1,1,77.69
+21,5,3.12,Scholarship,11,0,1,29.37
+16,1,6.7,Fee Payment,13,0,1,114.33
+28,4,3.61,Scholarship,15,1,1,43.54
+13,5,8.32,ID Card,9,4,0,27.08
+19,5,8.27,Fee Payment,9,5,0,40.34
+32,3,2.9,ID Card,13,2,1,40.49
+14,5,9.3,Enquiry,17,5,0,29.32
+11,2,3.56,Enquiry,15,6,1,32.47
+39,1,6.9,Scholarship,9,1,0,285.02
+19,2,9.89,Fee Payment,13,2,1,109.15
+29,3,9.06,Fee Payment,16,4,1,100.08
+37,3,9.65,Enquiry,16,3,1,129.4
+2,1,4.74,Scholarship,10,3,0,14.45
+27,5,2.84,Exam Form,15,5,1,28.54
+25,4,3.51,Bonafide Certificate,13,4,1,28.27
+29,3,6.0,Bonafide Certificate,17,2,0,64.54
+12,1,8.35,Bonafide Certificate,11,5,1,111.91
+12,4,3.2,Fee Payment,9,1,0,5.76
+1,5,7.28,Enquiry,12,5,1,9.61
+36,3,4.59,Bonafide Certificate,15,4,1,66.72
+37,1,4.73,Enquiry,9,6,0,177.66
+1,1,7.3,Fee Payment,10,4,0,12.73
+35,1,5.74,Enquiry,13,3,1,203.39
+25,3,8.5,Exam Form,17,1,0,74.7
+10,4,3.25,Scholarship,9,3,0,19.26
+7,1,8.32,Enquiry,12,2,1,66.24
+39,5,2.51,Enquiry,11,2,1,28.97
+21,1,3.55,Scholarship,13,0,1,84.41
+19,4,7.25,Fee Payment,13,4,1,43.51
+7,3,8.84,Fee Payment,10,1,0,15.42
+28,1,4.02,Enquiry,13,1,1,123.98
+39,1,4.62,Exam Form,17,3,0,194.32
+25,5,6.3,Bonafide Certificate,13,5,1,37.22
+29,5,3.69,Exam Form,10,5,0,24.66
+16,1,8.49,Scholarship,15,3,1,149.59
+19,1,8.19,Scholarship,14,6,0,168.49
+15,5,3.16,ID Card,15,5,1,19.48
+6,4,5.71,Bonafide Certificate,16,1,1,13.65
+15,2,8.2,Enquiry,13,3,1,68.66
+26,2,4.7,Scholarship,10,5,0,63.96
+22,1,7.06,ID Card,15,0,1,162.75
+23,5,2.4,Fee Payment,15,4,1,18.83
+8,3,6.87,Scholarship,16,0,1,26.6
+34,3,3.22,Document Verification,15,5,1,44.4
+19,2,8.64,Bonafide Certificate,15,2,1,92.42
+36,4,4.84,ID Card,17,1,0,49.45
+16,2,4.25,Bonafide Certificate,16,0,1,38.32
+30,1,8.73,Bonafide Certificate,10,0,0,268.4
+7,4,2.4,Document Verification,10,3,0,8.67
+14,3,5.17,Exam Form,15,3,1,39.02
+30,5,4.96,Fee Payment,11,3,1,41.88
+29,5,4.28,Bonafide Certificate,9,5,0,27.64
+19,1,9.29,Scholarship,17,6,0,186.04
+38,2,8.01,Fee Payment,11,6,1,157.79
+11,1,2.51,Scholarship,9,2,0,39.92
+16,5,7.72,Fee Payment,14,0,0,25.5
+29,3,6.22,Enquiry,12,4,1,69.52
+28,5,9.21,Fee Payment,9,3,0,54.81
+18,4,4.5,ID Card,12,2,1,26.2
+10,5,6.59,Scholarship,16,5,1,28.79
+33,5,6.01,Scholarship,15,2,1,49.18
+6,4,5.92,Enquiry,9,3,0,5.07
+33,2,5.65,Fee Payment,17,1,0,85.68
+19,5,3.65,Bonafide Certificate,14,0,0,15.35
+37,1,8.05,Scholarship,10,3,0,310.19
+23,5,5.61,Enquiry,11,4,1,38.84
+9,1,9.67,Document Verification,15,0,1,95.14
+31,4,4.09,Document Verification,11,2,1,41.17
+14,5,7.46,Fee Payment,11,6,1,28.03
+36,4,9.53,Exam Form,13,4,1,92.4
+19,4,7.31,Fee Payment,11,0,1,39.92
+2,2,8.97,Enquiry,11,4,1,20.89
+36,5,8.62,Fee Payment,13,2,1,73.08
+39,1,4.88,Bonafide Certificate,13,3,1,201.45
+7,1,6.8,Bonafide Certificate,17,6,0,47.27
+39,5,3.25,ID Card,9,4,0,30.75
+22,2,6.28,Enquiry,9,3,0,62.91
+39,2,3.84,Exam Form,17,6,0,85.32
+10,2,7.95,Enquiry,13,2,1,48.78
+7,1,6.22,Enquiry,12,6,1,46.19
+28,4,5.29,Exam Form,10,2,0,50.49
+29,2,4.15,Enquiry,17,4,0,56.0
+9,1,9.99,Exam Form,14,4,0,99.03
+38,1,2.57,Exam Form,17,2,0,107.02
+27,4,2.35,Exam Form,13,4,1,22.89
+35,5,3.74,Enquiry,12,4,1,34.02
+12,5,9.77,Enquiry,15,4,1,24.9
+31,2,9.83,Fee Payment,13,5,1,150.04
+35,2,7.24,Enquiry,16,4,1,130.42
+36,4,9.04,Fee Payment,16,0,1,87.9
+25,2,3.71,ID Card,10,2,0,53.97
+21,4,9.78,Document Verification,13,2,1,62.6
+3,1,3.14,Document Verification,16,1,1,20.8
+30,2,2.81,ID Card,11,3,1,48.08
+17,1,2.9,ID Card,15,1,1,57.14
+37,3,6.59,Scholarship,11,4,1,89.5
+23,4,8.25,Fee Payment,14,4,0,46.52
+22,3,4.93,Exam Form,10,6,0,40.8
+21,2,9.82,Scholarship,14,0,0,110.44
+1,1,5.48,Bonafide Certificate,14,0,0,8.18
+30,2,3.2,Fee Payment,16,0,1,55.76
+10,3,5.73,Enquiry,13,0,1,29.87
+27,2,7.43,ID Card,9,0,0,103.33
+31,5,8.66,Document Verification,16,0,1,59.34
+4,3,5.67,Fee Payment,17,0,0,13.81
+37,2,6.75,ID Card,9,0,0,130.92
+9,1,4.14,Fee Payment,13,6,1,47.56
+39,2,7.17,Enquiry,14,5,0,145.27
+23,1,9.89,Fee Payment,12,0,1,238.25
+34,5,2.39,Enquiry,10,2,0,19.38
+22,2,9.09,Fee Payment,13,0,1,118.58
+16,5,6.5,Bonafide Certificate,12,3,1,25.65
+0,3,4.02,Document Verification,15,0,1,8.65
+30,1,9.64,Fee Payment,14,5,0,297.04
+30,3,5.87,ID Card,11,6,1,69.24
+33,1,4.65,Bonafide Certificate,17,4,0,161.6
+8,5,3.45,Scholarship,12,5,1,18.2
+21,4,3.96,Fee Payment,13,5,1,35.26
+12,2,8.66,Enquiry,11,4,1,55.95
+24,5,6.92,Bonafide Certificate,16,0,1,48.56
+17,1,9.31,Exam Form,15,6,1,174.89
+11,1,3.86,Scholarship,15,6,1,49.57
+39,1,2.97,Document Verification,16,0,1,129.32
+16,1,2.05,Fee Payment,15,4,1,41.61
+14,2,6.06,Fee Payment,11,3,1,49.01
+14,3,9.99,Bonafide Certificate,11,1,1,49.05
+14,4,7.56,Document Verification,10,2,0,28.42
+38,2,4.47,Exam Form,9,4,0,94.71
+12,1,9.01,Scholarship,13,0,1,123.43
+16,2,8.25,ID Card,12,2,1,75.19
+31,5,2.12,Document Verification,10,0,0,22.43
+8,1,8.53,Fee Payment,9,1,0,76.06
+39,4,4.4,Bonafide Certificate,11,1,1,53.56
+19,1,3.2,Exam Form,14,4,0,64.86
+25,4,3.81,Bonafide Certificate,10,2,0,30.58
+26,4,5.75,Scholarship,15,5,1,51.31
+20,3,5.4,Enquiry,15,6,1,46.69
+17,3,4.31,Enquiry,11,6,1,35.89
+12,2,3.38,Document Verification,9,2,0,20.82
+15,2,8.1,Bonafide Certificate,17,5,0,63.69
+8,4,9.92,ID Card,13,1,1,22.25
+11,1,8.22,ID Card,10,0,0,98.43
+37,5,4.37,Enquiry,16,6,1,39.47
+18,5,3.96,Enquiry,12,5,1,23.97
+6,1,3.74,Bonafide Certificate,15,5,1,26.55
+34,1,3.09,Fee Payment,13,4,1,119.78
+17,3,6.41,Bonafide Certificate,11,3,1,41.55
+15,5,6.84,Exam Form,16,1,1,35.63
+38,4,7.64,Document Verification,10,5,0,79.09
+3,2,7.44,Scholarship,9,1,0,17.4
+24,3,4.34,ID Card,13,4,1,43.63
+31,5,4.64,Bonafide Certificate,12,0,1,36.23
+39,1,7.45,Exam Form,15,2,1,307.81
+12,5,4.8,Enquiry,17,1,0,14.56
+16,4,3.7,ID Card,14,4,0,14.73
+36,3,4.99,ID Card,9,4,0,63.4
+5,1,4.18,Scholarship,16,4,1,33.4
+18,4,2.71,ID Card,10,6,0,20.77
+12,2,8.64,Exam Form,12,6,1,61.43
+25,3,8.82,ID Card,11,6,1,81.39
+13,4,3.76,ID Card,14,2,0,17.31
+30,4,2.52,Bonafide Certificate,10,6,0,27.38
+3,1,7.91,Bonafide Certificate,13,1,1,28.26
+38,2,3.69,Enquiry,17,5,0,75.17
+7,4,5.15,Document Verification,11,4,1,18.15
+24,3,2.51,Fee Payment,10,2,0,22.81
+12,4,3.81,Exam Form,10,6,0,26.44
+31,5,8.34,Fee Payment,17,0,0,54.94
+37,3,8.44,Fee Payment,14,3,0,111.05
+37,3,3.66,ID Card,10,1,0,52.97
+27,4,4.69,Enquiry,11,2,1,34.92
+29,1,3.07,Scholarship,9,3,0,88.76
+2,3,2.59,Scholarship,10,3,0,12.01
+27,5,9.94,ID Card,10,6,0,54.33
+2,1,7.24,Enquiry,10,2,0,10.83
+33,1,6.34,Exam Form,15,5,1,225.22
+15,1,8.12,Fee Payment,11,5,1,126.78
+21,3,8.72,Document Verification,12,2,1,68.95
+31,1,8.45,Enquiry,10,2,0,272.96
+37,4,2.13,Fee Payment,13,4,1,22.08
+7,1,3.49,Scholarship,17,0,0,26.44
+7,5,7.24,Fee Payment,17,5,0,12.3
+5,2,5.01,Bonafide Certificate,15,4,1,21.55
+13,5,9.86,Bonafide Certificate,16,3,1,32.06
+31,3,7.32,Document Verification,13,3,1,82.04
+34,1,9.65,Exam Form,13,3,1,346.22
+9,1,3.61,Fee Payment,11,2,1,42.56
+2,4,8.91,Bonafide Certificate,14,1,0,11.8
+11,1,4.57,Exam Form,9,4,0,56.73
+30,5,9.92,Enquiry,11,1,1,68.66
+28,3,3.26,Enquiry,10,6,0,37.17
+4,2,6.13,Bonafide Certificate,15,0,1,18.28
+24,1,8.34,Exam Form,17,0,0,208.29
+40,2,5.46,Exam Form,12,4,1,124.01
+30,1,5.74,Bonafide Certificate,15,3,1,188.52
+20,3,9.89,ID Card,16,6,1,83.73
+19,5,5.4,Scholarship,10,5,0,27.81
+38,3,6.83,Exam Form,15,0,1,103.1
+21,2,2.44,Enquiry,11,1,1,22.9
+3,1,8.74,ID Card,16,1,1,42.42
+12,2,7.19,Fee Payment,14,5,0,44.21
+19,5,5.23,ID Card,11,2,1,28.92
+12,3,2.13,Bonafide Certificate,16,3,1,20.28
+16,2,6.73,ID Card,11,2,1,63.25
+35,2,2.1,Scholarship,17,4,0,44.56
+32,5,2.01,Bonafide Certificate,11,0,1,29.21
+0,1,6.93,Document Verification,9,5,0,4.46
+14,2,3.51,Fee Payment,10,5,0,24.24
+12,5,3.54,Enquiry,12,5,1,23.74
+16,1,7.23,Document Verification,10,2,0,123.73
+23,1,2.43,ID Card,12,2,1,73.57
+7,3,4.51,Exam Form,12,4,1,25.97
+26,5,3.2,ID Card,12,1,1,21.32
+22,1,6.64,Enquiry,9,1,0,151.69
+7,3,7.29,Enquiry,17,6,0,16.08
+7,4,7.77,Exam Form,15,4,1,25.63
+25,5,4.04,Document Verification,10,5,0,25.91
+12,4,2.71,Document Verification,11,1,1,12.67
+38,1,2.63,Exam Form,16,4,1,108.67
+36,5,5.41,Scholarship,15,1,1,59.77
+27,3,9.57,Fee Payment,12,6,1,96.05
+24,1,3.74,Bonafide Certificate,12,4,1,99.1
+15,5,4.05,Document Verification,17,1,0,25.41
+1,5,2.81,Fee Payment,13,5,1,7.98
+17,4,6.84,Bonafide Certificate,13,2,1,38.72
+16,1,7.44,ID Card,15,2,1,132.99
+29,3,7.14,Bonafide Certificate,9,6,0,72.45
+38,3,8.89,Document Verification,11,5,1,120.61
+12,1,5.89,Scholarship,10,1,0,68.68
+31,1,3.08,Scholarship,14,5,0,98.6
+28,2,4.32,Fee Payment,14,4,0,60.63
+29,4,7.3,ID Card,9,2,0,58.56
+17,1,6.9,Fee Payment,14,0,0,118.94
+12,1,6.25,Exam Form,10,6,0,90.61
+20,2,7.46,Scholarship,12,1,1,82.41
+29,2,7.1,Fee Payment,14,0,0,112.54
+20,5,9.05,Exam Form,11,0,1,49.08
+16,3,6.69,ID Card,11,6,1,48.9
+39,4,8.23,Enquiry,11,3,1,91.21
+18,5,3.99,Bonafide Certificate,12,0,1,15.49
+14,1,7.43,Fee Payment,17,0,0,107.91
+8,2,9.22,Exam Form,12,5,1,47.82
+9,3,5.09,Scholarship,12,3,1,22.73
+30,5,8.23,Bonafide Certificate,12,3,1,61.24
+22,3,7.8,Fee Payment,15,3,1,73.05
+29,2,2.48,Scholarship,13,6,1,37.21
+32,5,6.65,Enquiry,10,4,0,43.44
+8,5,3.04,Bonafide Certificate,15,3,1,9.88
+0,3,9.74,Document Verification,11,5,1,11.29
+34,2,8.49,Scholarship,9,4,0,150.05
+10,1,2.88,Document Verification,17,1,0,32.36
+33,5,2.97,ID Card,13,4,1,32.39
+15,1,6.76,Fee Payment,9,1,0,111.88
+8,2,4.76,Enquiry,9,3,0,32.68
+31,5,2.28,Exam Form,9,3,0,18.17
+14,5,6.33,Fee Payment,17,1,0,14.45
+11,1,5.1,Scholarship,16,2,1,70.37
+32,4,2.81,Document Verification,14,5,0,34.91
+13,1,8.42,Document Verification,14,4,0,118.65
+7,1,9.32,Bonafide Certificate,14,5,0,76.67
+7,4,8.05,Fee Payment,12,5,1,22.19
+26,2,8.58,Fee Payment,13,0,1,118.09
+11,2,3.73,Scholarship,11,3,1,32.99
+0,5,4.11,Document Verification,11,4,1,9.68
+39,3,3.67,Scholarship,15,5,1,62.34
+10,3,8.12,Scholarship,13,4,1,42.95
+38,5,9.58,ID Card,16,5,1,87.03
+30,3,7.73,Document Verification,13,3,1,90.39
+16,1,9.05,Scholarship,12,5,1,157.81
+32,1,7.11,Document Verification,11,1,1,241.68
+31,4,5.1,Scholarship,10,3,0,38.68
+28,4,5.41,Exam Form,11,4,1,50.68
+20,5,2.6,Scholarship,15,6,1,22.62
+20,5,2.25,Scholarship,16,2,1,21.86
+39,5,7.56,Enquiry,13,5,1,66.65
+22,1,5.51,Exam Form,9,1,0,129.89
+5,3,6.42,Fee Payment,11,3,1,17.4
+21,5,6.46,Document Verification,12,0,1,42.66
+37,5,4.22,Enquiry,12,6,1,41.12
+36,1,5.81,Bonafide Certificate,9,6,0,214.66
+7,1,5.77,Exam Form,17,3,0,44.57
+40,1,5.11,Enquiry,12,6,1,215.56
+34,3,8.57,Fee Payment,10,4,0,101.9
+10,5,5.61,Scholarship,17,4,0,15.2
+23,2,6.83,ID Card,12,0,1,88.31
+20,2,9.16,Fee Payment,12,1,1,103.16
+1,5,8.93,Exam Form,14,4,0,10.99
+39,5,9.12,ID Card,16,1,1,83.11
+18,5,4.16,Scholarship,13,1,1,27.35
+38,5,2.28,Fee Payment,16,3,1,30.43
+27,3,4.09,Bonafide Certificate,9,1,0,46.75
+16,2,4.23,Document Verification,12,5,1,47.79
+5,4,9.27,Document Verification,9,4,0,15.24
+18,2,7.19,Exam Form,11,4,1,72.51
+37,2,2.65,Enquiry,15,2,1,54.92
+27,1,3.08,Scholarship,9,6,0,98.06
+1,5,3.25,Scholarship,13,1,1,13.78
+37,5,7.04,Document Verification,9,2,0,66.63
+36,5,7.88,Fee Payment,14,3,0,60.28
+3,1,8.88,Scholarship,17,2,0,32.6
+21,3,9.53,Bonafide Certificate,11,6,1,76.38
+25,3,3.61,Bonafide Certificate,14,1,0,34.74
+35,4,4.48,Scholarship,12,6,1,48.09
+12,3,3.92,Scholarship,14,4,0,18.09
+31,3,4.87,Document Verification,10,3,0,58.33
+16,5,9.32,Exam Form,12,1,1,46.04
+40,2,6.6,Document Verification,15,3,1,152.8
+35,3,7.91,Exam Form,14,0,0,97.5
+18,3,5.92,Bonafide Certificate,17,1,0,39.12
+34,1,2.23,Exam Form,15,0,1,84.76
+39,4,2.51,Document Verification,9,2,0,35.01
+27,1,6.3,Scholarship,14,1,0,180.45
+0,5,7.75,Exam Form,11,0,1,8.49
+17,2,3.72,Document Verification,16,5,1,39.03
+39,4,7.78,Bonafide Certificate,9,4,0,84.62
+32,1,8.49,ID Card,10,2,0,278.06
+11,3,5.3,Exam Form,11,1,1,34.45
+7,3,7.97,Bonafide Certificate,11,1,1,25.07
+23,4,5.23,Bonafide Certificate,15,4,1,32.57
+15,3,7.43,Fee Payment,16,4,1,42.63
+3,1,8.11,ID Card,17,6,0,32.09
+37,1,9.94,Exam Form,15,0,1,388.05
+26,3,4.76,Document Verification,16,0,1,50.56
+8,3,5.29,Exam Form,14,0,0,30.21
+15,5,3.32,Exam Form,10,6,0,20.29
+11,2,3.63,ID Card,9,3,0,19.41
+30,4,7.55,Enquiry,11,2,1,65.46
+23,1,9.34,Bonafide Certificate,17,1,0,223.19
+13,4,5.16,Bonafide Certificate,15,2,1,17.06
+24,5,3.44,Bonafide Certificate,10,4,0,24.08
+33,1,4.28,Bonafide Certificate,9,5,0,150.96
+2,5,5.64,ID Card,10,2,0,8.85
+23,5,4.33,Document Verification,11,2,1,30.65
+8,3,3.87,Scholarship,14,0,0,16.62
+25,4,7.89,Fee Payment,17,4,0,52.37
+19,4,2.06,Enquiry,16,2,1,13.09
+39,3,6.31,Enquiry,17,1,0,82.33
+9,4,8.35,Bonafide Certificate,16,0,1,27.12
+18,3,4.13,Bonafide Certificate,15,6,1,35.23
+2,1,6.83,Fee Payment,14,2,0,15.43
+23,5,7.35,Bonafide Certificate,16,4,1,40.34
+4,5,7.24,Scholarship,14,5,0,15.83
+2,4,5.57,Enquiry,10,1,0,7.27
+26,2,4.77,Exam Form,17,5,0,66.89
+15,5,8.69,Fee Payment,17,4,0,32.09
+14,3,8.07,Enquiry,11,4,1,43.84
+34,2,4.57,Document Verification,17,4,0,83.94
+11,2,2.82,Enquiry,10,5,0,22.43
+40,5,2.57,Fee Payment,11,3,1,27.18
+25,5,2.75,Scholarship,14,1,0,16.08
+33,5,6.66,ID Card,12,4,1,53.39
+22,3,2.41,Document Verification,16,3,1,23.24
+30,2,4.7,Exam Form,9,0,0,76.32
+19,4,8.03,Bonafide Certificate,14,3,0,42.0
+11,3,4.35,Fee Payment,10,0,0,10.11
+22,1,8.11,Document Verification,14,5,0,186.46
+3,5,7.96,Fee Payment,9,6,0,8.05
+22,2,3.97,Exam Form,10,6,0,55.36
+0,3,7.83,Fee Payment,17,3,0,4.86
+24,1,7.98,Enquiry,14,5,0,197.52
+1,3,5.18,Enquiry,16,4,1,14.49
+29,3,3.68,Document Verification,15,3,1,46.08
+2,4,6.17,Scholarship,17,3,0,10.08
+20,4,9.37,ID Card,17,4,0,45.56
+24,3,7.12,Document Verification,12,0,1,72.89
+19,1,3.38,Fee Payment,15,4,1,72.7
+21,2,7.46,Exam Form,13,1,1,86.33
+20,2,5.42,Enquiry,15,6,1,65.14
+32,5,6.73,Bonafide Certificate,12,6,1,44.37
+37,5,7.87,Bonafide Certificate,9,3,0,61.54
+14,2,6.12,Exam Form,12,1,1,58.47
+14,3,8.51,Fee Payment,11,4,1,46.97
+24,3,7.78,ID Card,17,6,0,64.35
+20,4,6.92,Exam Form,13,5,1,44.94
+23,4,3.21,Fee Payment,12,4,1,19.4
+4,5,8.69,Document Verification,16,2,1,20.81
+5,2,9.49,ID Card,13,1,1,33.23
+22,3,3.1,Scholarship,11,6,1,33.61
+3,2,5.91,Fee Payment,10,2,0,11.78
+26,1,4.07,Bonafide Certificate,16,1,1,115.91
+17,2,8.04,Bonafide Certificate,10,5,0,75.92
+20,1,7.77,Enquiry,16,2,1,163.25
+27,4,3.13,ID Card,13,2,1,25.66
+34,4,9.02,Scholarship,16,1,1,90.94
+21,5,3.45,Fee Payment,13,4,1,25.47
+39,2,8.38,Scholarship,9,0,0,171.19
+22,2,5.66,Enquiry,10,4,0,69.52
+2,1,4.63,Document Verification,14,0,0,15.37
+39,4,3.27,Scholarship,11,1,1,48.29
+9,1,3.34,Document Verification,16,3,1,46.7
+24,4,7.3,Bonafide Certificate,13,4,1,56.1
+7,1,6.4,Document Verification,11,2,1,52.83
+10,4,2.98,Fee Payment,15,4,1,15.92
+4,1,2.9,ID Card,16,1,1,26.56
+36,4,2.58,ID Card,12,3,1,27.22
+37,1,7.95,Fee Payment,17,3,0,296.59
+28,2,7.7,Fee Payment,14,4,0,110.36
+4,5,2.47,Fee Payment,9,4,0,2.51
+8,1,6.48,Exam Form,13,5,1,67.35
+1,5,2.68,Enquiry,13,4,1,10.04
+0,2,9.23,Document Verification,15,1,1,8.16
+39,2,9.26,Fee Payment,15,0,1,191.93
+29,4,7.59,ID Card,14,5,0,59.36
+10,5,9.41,Scholarship,16,0,1,27.26
+27,3,8.49,Scholarship,10,2,0,80.57
+11,4,8.63,Exam Form,15,6,1,37.47
+38,5,6.56,Document Verification,15,1,1,64.59
+25,1,4.45,Document Verification,12,5,1,120.26
+12,1,3.74,Enquiry,10,3,0,50.09
+7,2,4.62,Document Verification,12,5,1,33.49
+27,3,7.03,ID Card,12,2,1,68.22
+29,1,3.38,ID Card,14,3,0,104.48
+8,5,4.07,Enquiry,15,5,1,17.83
+38,5,5.74,Exam Form,11,3,1,55.28
+30,1,3.86,Document Verification,9,4,0,126.89
+20,5,6.71,Document Verification,11,3,1,46.63
+33,5,9.39,Fee Payment,17,5,0,67.32
+30,2,7.98,Document Verification,9,3,0,124.84
+24,3,7.33,ID Card,16,1,1,72.56
+11,2,6.66,Fee Payment,10,4,0,44.01
+0,3,5.9,Fee Payment,14,4,0,1.0
+21,5,3.49,Document Verification,11,2,1,25.66
+39,3,9.16,Scholarship,15,4,1,129.47
+36,5,3.99,Bonafide Certificate,10,0,0,35.3
+0,5,2.73,ID Card,12,1,1,9.23
+0,2,8.0,Scholarship,17,2,0,6.66
+20,2,3.4,Document Verification,14,0,0,36.6
+14,4,4.98,Document Verification,12,3,1,31.35
+16,1,2.23,Scholarship,10,6,0,49.24
+21,4,3.1,Document Verification,17,0,0,18.87
+37,4,3.39,ID Card,12,2,1,35.73
+34,3,2.44,Enquiry,17,4,0,30.68
+15,5,7.25,Fee Payment,10,1,0,25.65
+7,5,8.7,Exam Form,15,6,1,28.86
+16,5,4.99,Document Verification,13,2,1,22.04
+16,1,9.0,Document Verification,16,0,1,152.79
+25,3,3.71,Scholarship,16,6,1,34.3
+12,3,4.6,Fee Payment,12,0,1,32.91
+16,5,3.21,Scholarship,12,2,1,23.26
+37,4,6.96,Enquiry,16,6,1,70.57
+16,1,5.36,ID Card,11,5,1,90.45
+13,4,6.91,Scholarship,15,5,1,29.52
+5,2,8.09,Document Verification,16,2,1,32.89
+34,3,6.37,Fee Payment,16,5,1,76.71
+13,3,7.02,ID Card,12,2,1,40.84
+7,4,9.48,Document Verification,17,4,0,30.77
+14,1,4.39,ID Card,12,6,1,70.1
+26,3,4.87,Document Verification,16,2,1,49.39
+12,4,7.74,Document Verification,14,3,0,30.75
+30,1,6.89,Document Verification,13,1,1,212.81
+34,4,3.43,Exam Form,12,1,1,48.02
+5,1,5.01,Bonafide Certificate,13,3,1,40.66
+4,5,5.74,Fee Payment,9,0,0,7.94
+21,1,5.36,Enquiry,15,0,1,116.87
+22,2,3.43,Exam Form,16,0,1,47.99
+24,5,9.4,Bonafide Certificate,17,6,0,48.92
+33,4,8.1,ID Card,11,0,1,78.35
+25,5,5.85,Bonafide Certificate,17,4,0,38.41
+4,5,7.44,Bonafide Certificate,13,3,1,11.81
+25,4,9.18,Exam Form,14,1,0,68.41
+19,4,3.09,Fee Payment,9,3,0,21.15
+5,2,4.0,Scholarship,17,1,0,14.98
+5,4,6.34,Bonafide Certificate,17,0,0,8.58
+17,3,8.39,Scholarship,14,4,0,55.02
+3,3,2.29,Scholarship,16,2,1,10.05
+16,2,9.87,Document Verification,12,2,1,94.07
+13,1,5.64,Scholarship,13,5,1,80.81
+13,1,4.87,ID Card,13,0,1,75.55
+12,3,4.34,ID Card,15,0,1,27.04
+6,4,3.39,Document Verification,15,3,1,13.85
+14,2,8.33,Fee Payment,15,4,1,66.92
+18,1,9.64,Enquiry,13,4,1,185.9
+34,1,5.31,Fee Payment,12,3,1,184.74
+16,5,9.62,ID Card,16,4,1,39.13
+34,3,8.59,Enquiry,9,6,0,97.35
+18,4,5.85,Document Verification,9,6,0,32.16
+19,2,7.39,Fee Payment,14,4,0,71.49
+35,1,5.48,Enquiry,10,6,0,187.72
+34,5,6.47,Enquiry,11,2,1,47.77
+31,3,2.46,Bonafide Certificate,12,4,1,42.02
+39,3,7.57,Fee Payment,10,6,0,103.4
+23,2,2.42,Document Verification,15,0,1,39.71
+16,1,8.54,Enquiry,9,2,0,138.46
+6,2,8.6,ID Card,11,0,1,35.59
+0,2,3.9,Bonafide Certificate,10,0,0,3.28
+34,5,4.59,Scholarship,17,6,0,40.31
+31,3,5.85,Scholarship,16,6,1,72.86
+35,4,6.77,Scholarship,11,3,1,66.58
+12,3,4.3,ID Card,13,5,1,28.21
+5,3,6.74,Enquiry,11,4,1,9.4
+13,5,4.38,Document Verification,14,4,0,19.05
+36,4,2.44,Scholarship,13,4,1,28.36
+14,1,2.02,Fee Payment,10,4,0,31.9
+3,4,2.81,Scholarship,16,6,1,9.33
+39,1,8.34,Enquiry,14,2,0,328.19
+15,4,9.69,Exam Form,11,1,1,50.66
+27,2,5.42,ID Card,9,0,0,84.12
+15,4,6.1,Exam Form,13,5,1,28.72
+3,5,3.17,Scholarship,10,5,0,12.81
+25,1,6.41,Enquiry,10,1,0,163.73
+27,3,3.16,Scholarship,17,1,0,33.61
+31,5,6.89,Exam Form,15,1,1,57.76
+1,1,9.47,Enquiry,14,6,0,11.52
+30,1,3.57,ID Card,9,2,0,114.84
+2,3,8.12,ID Card,10,1,0,6.44
+7,2,2.19,Scholarship,15,2,1,17.13
+23,5,5.0,ID Card,11,6,1,36.79
+14,3,2.89,Bonafide Certificate,10,3,0,24.41
+30,3,4.82,Enquiry,14,3,0,51.06
+8,2,3.39,Enquiry,16,5,1,10.4
+38,5,4.99,ID Card,16,3,1,47.1
+1,3,5.34,Enquiry,10,2,0,4.91
+7,2,4.4,Exam Form,14,2,0,21.49
+6,5,7.25,Document Verification,13,0,1,21.05
+38,4,9.35,Exam Form,15,1,1,98.93
+15,1,5.2,Fee Payment,12,4,1,90.43
+34,2,3.54,Bonafide Certificate,10,4,0,60.49
+29,1,4.17,Document Verification,11,1,1,136.76
+9,4,8.83,Scholarship,17,4,0,33.07
+37,3,6.57,Enquiry,16,4,1,85.42
+17,3,5.64,Fee Payment,17,6,0,32.31
+4,5,3.2,Fee Payment,13,4,1,13.2
+28,2,5.6,Bonafide Certificate,13,5,1,83.62
+38,2,4.23,Document Verification,15,2,1,89.36
+33,5,9.55,Fee Payment,15,2,1,76.41
+22,1,9.07,Document Verification,9,2,0,208.55
+4,3,2.67,Document Verification,13,1,1,22.48
+29,3,6.13,ID Card,16,3,1,69.97
+5,2,3.8,Fee Payment,15,5,1,16.06
+3,2,5.29,Document Verification,10,5,0,14.13
+28,5,9.01,Bonafide Certificate,16,4,1,59.88
+22,4,6.22,Fee Payment,10,0,0,37.66
+5,1,4.67,Bonafide Certificate,9,2,0,28.27
+31,4,3.66,Bonafide Certificate,11,6,1,34.66
+17,4,8.4,Document Verification,11,5,1,47.84
+14,2,7.0,Document Verification,14,5,0,49.34
+39,2,5.74,ID Card,11,0,1,119.15
+31,2,3.74,Enquiry,15,4,1,65.49
+8,4,4.67,ID Card,16,5,1,10.31
+36,1,9.68,Fee Payment,11,5,1,360.51
+9,2,6.16,ID Card,17,3,0,24.51
+19,3,5.21,Scholarship,9,0,0,42.65
+5,1,6.17,Fee Payment,11,6,1,34.69
+2,3,8.23,Bonafide Certificate,11,6,1,13.87
+10,1,4.72,ID Card,15,4,1,59.29
+16,2,3.43,ID Card,13,4,1,46.23
+31,5,6.68,Enquiry,12,2,1,49.88
+3,2,7.32,ID Card,10,3,0,8.05
+3,4,7.7,Document Verification,15,4,1,20.59
+16,4,9.06,Bonafide Certificate,11,3,1,45.3
+40,1,4.97,ID Card,15,2,1,209.06
+18,4,2.6,Exam Form,15,6,1,25.94
+4,2,9.67,Exam Form,10,0,0,17.43
+31,3,5.48,Bonafide Certificate,15,5,1,66.65
+21,2,6.99,ID Card,14,5,0,76.71
+5,1,7.33,Enquiry,12,1,1,49.54
+34,4,6.37,Scholarship,13,1,1,69.07
+21,3,3.64,Enquiry,16,1,1,26.99
+0,5,8.04,Scholarship,13,5,1,17.05
+19,3,8.43,Fee Payment,11,3,1,64.19
+21,3,6.42,Fee Payment,10,1,0,42.78
+10,2,5.91,Enquiry,14,0,0,32.77
+12,5,2.91,ID Card,14,4,0,16.13
+2,1,2.67,Enquiry,15,3,1,8.49
+8,1,4.72,Fee Payment,16,5,1,52.24
+11,3,4.49,Document Verification,12,0,1,21.4
+22,3,9.63,Scholarship,16,6,1,79.45
+13,4,8.27,Bonafide Certificate,9,5,0,28.1
+32,5,7.28,Enquiry,14,3,0,55.1
+17,3,6.14,ID Card,14,3,0,37.84
+40,4,3.34,ID Card,11,3,1,38.74
+8,5,9.83,Exam Form,17,2,0,24.51
+22,1,5.0,Scholarship,13,4,1,124.65
+9,4,2.86,Scholarship,9,1,0,16.09
+18,5,5.95,Scholarship,15,2,1,32.34
+4,4,8.99,Enquiry,11,4,1,18.01
+22,3,9.1,Fee Payment,12,5,1,73.12
+29,2,2.09,Document Verification,14,1,0,42.97
+24,1,9.09,Enquiry,16,6,1,230.75
